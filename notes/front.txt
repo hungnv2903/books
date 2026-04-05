@@ -1,0 +1,7 @@
+Phần văn bản hiển thị trong khung soạn thảo (Canvas) mà bạn đang thấy sử dụng hệ phông chữ hệ thống mặc định để đảm bảo tốc độ tải và sự tương thích cao nhất:
+
+Giao diện soạn thảo: Sử dụng phông Sans-serif tiêu chuẩn (thường là Inter, Segoe UI, hoặc Roboto tùy vào hệ điều hành bạn đang dùng).
+
+Định dạng Code/Markdown: Sử dụng phông Monospace (như Courier New hoặc Monaco) cho các phần mã nguồn hoặc khối lệnh để dễ phân biệt.
+
+Nếu bạn muốn tôi thay đổi định dạng hoặc trình bày lại nội dung file "Hoan_tien_khi_dat_muc_tieu_P33_41.md" theo một phong cách khác (ví dụ: nhấn mạnh hơn bằng in đậm, bảng biểu), bạn cứ cho tôi biết nhé!
