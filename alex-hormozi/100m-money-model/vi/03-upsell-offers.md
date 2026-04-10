@@ -451,4 +451,137 @@ Khi bắt gặp "Cú thở hổn hển" - hãy đến giải cứu. Trong câu c
 >Công cụ này có thể giúp bạn kiếm được lợi nhuận khổng lồ chỉ sau một đêm. Thực sự thay đổi cuộc sống. Tôi đã làm thêm một video hướng dẫn về nó cho bạn. Đừng lo, hoàn toàn miễn phí. Hãy xem tại acquisition.com/training/money. Tôi đã thêm mã QR để bạn dễ dàng truy cập nhanh chóng.
 
 
-## Rollover Upsell - p101
+## Rollover Upsell (Chuyển đổi để Bán thêm)
+
+*Muốn chuyển tiếp nó không?*
+
+![](../assets/images/03_08.png)
+
+Tháng 6 năm 2014.
+
+Suốt một năm qua, tôi đã triển khai chương trình "Ưu đãi Hoàn tiền" (Ưu đãi Thu hút số 1) tại phòng gym của mình. Đó là một gói tập thể hình trị giá $600, nơi các hội viên có thể nhận lại toàn bộ tiền - nếu họ đạt được mục tiêu đề ra. Chương trình này cực kỳ thành công. Tôi đã bán được rất nhiều gói như vậy.
+
+Nhưng có một vấn đề nảy sinh. Những phòng gym hoạt động tốt thường có nguồn doanh thu định kỳ dồi dào. *Còn tôi thì không có gì cả*. Hầu hết những người thắng cuộc đều dùng $600 đó để đổi lấy ba tháng thẻ hội viên. Nghe thì có vẻ ổn. Nhưng rồi họ rời đi ngay trước khi phải tự bỏ tiền túi ra đóng kỳ tiếp theo. Vậy nên, về cơ bản là tôi đã bán gói "mua sáu tuần, tặng ba tháng miễn phí". Và sau đó, họ rời đi. Điều này thì không ổn chút nào.
+
+Khoản $600 đó là nguồn thu nhập duy nhất của tôi. Vì vậy, mặc dù lôi kéo được rất nhiều người đến phòng tập, doanh thu của tôi vẫn bắt đầu từ con số không mỗi tháng. Thật sự rất áp lực. Tôi phải tìm ra cách tốt hơn để thúc đẩy lợi nhuận.
+
+Đúng lúc đó, Justin, một người bạn của tôi, đăng tin về việc anh ấy vừa có thêm cả trăm hội viên mới vào nguồn doanh thu định kỳ của mình. Anh ấy cũng thu hút khách hàng bằng chương trình "Ưu đãi Hoàn tiền". Nhưng có một điểm khác biệt: khách hàng của tôi thì bỏ đi, còn khách của anh ấy thì tiếp tục chi tiền. Thế là tôi tự đề nghị đến "do thám" anh ấy. Justin hoàn toàn thoải mái với việc đó. Tôi đã ở đó hai ngày. Anh ấy và tôi có vài cách vận hành khác nhau, nhưng chẳng có gì giải thích được tại sao anh ấy lại làm tốt hơn tôi nhiều đến thế.
+
+"Có nhiều người thắng được tiền lắm không?"
+
+"Có chứ," anh ấy trả lời.
+
+"Vậy ông giải quyết thế nào với toàn bộ khoảng thời gian miễn phí mà ông phải tặng cho họ?"
+
+"Thời gian miễn phí á? Ha! Tôi chỉ việc chuyển số tiền thắng cuộc đó vào gói hội viên dài hạn một năm luôn."
+
+"Cái gì cơ?"
+
+"Đúng vậy—chúng tôi phải làm thế để có thể dàn trải số tiền đó ra."
+
+"Dàn trải tiền? Ông đang nói cái gì thế?"
+
+"Thật luôn hả? Chẳng lẽ...ông trả hết sạch ngay từ đầu à?" Anh ấy chẳng đợi tôi trả lời. "Chúng tôi chỉ giảm cho họ 50 đô mỗi tháng trong vòng một năm thôi."
+
+"Vậy là dù họ thắng và được hoàn tiền, họ vẫn bắt đầu trả phí ngay lập tức?"
+
+"Dĩ nhiên rồi. Tôi đâu có muốn mọi người không trả tiền. Kiểu kinh doanh gì mà lại không có khách hàng trả phí chứ??" Anh ấy cười lớn. "Họ vẫn nhận lại được tiền của mình mà...chỉ là mất một năm thôi."
+
+Bùm. Chính là nó. Mắt xích còn thiếu trong Mô hình Kiếm tiền của tôi.
+
+****
+
+Chỉ một điều này thôi, chiến thuật "Chuyển đổi để Bán thêm" (Rollover Upsell), đã thay đổi cuộc đời tôi, cuộc đời của hàng ngàn chủ phòng gym, và cả cuộc sống của khách hàng chúng tôi nữa. Rollover Upsell đã thay đổi mọi thứ.
+
+Giờ đây, thay vì cứ *hy vọng* khách hàng sẽ chi tiền lần nữa, tôi chuyển chi phí của món đồ họ vừa mua *sang món đồ tiếp theo*. Và khi kết hợp với những lời đề nghị đắt tiền hơn, lợi nhuận trong 30 ngày sẽ tăng vọt.
+
+Và mặc dù tôi học được chiêu Rollover Upsell này thông qua chương trình thu hút Hoàn tiền, bạn không nhất thiết phải cần đến chương trình đó mới dùng được nó. <u>Bạn có thể dùng Rollover Upsell với bất kỳ ai, cho bất kỳ thứ gì.</u> (Thậm chí là cả những thứ người ta đã mua ở những doanh nghiệp khác... ha ha ha).
+
+### Mô tả
+
+Rollover Upsell là việc ghi nhận một phần hoặc toàn bộ số tiền khách hàng đã mua trước đó vào lời đề nghị tiếp theo của bạn. Và theo kinh nghiệm của tôi - điều này giúp tỷ lệ khách hàng đồng ý *cao hơn rất nhiều*. Vậy nên, một khi đã biết nên tặng bao nhiêu tín dụng (credit), tôi sẽ xác định tiếp ba thứ: *ai* là người để bán thêm, bán thêm *cái gì*, và chuyển đổi khoản tín dụng đó *như thế nào*.
+
+<u>Về đối tượng</u>, tôi sử dụng Rollover Upsell trong bốn tình huống:
+* Thứ nhất, để kết nối lại với những khách hàng đã rời đi từ lâu.
+* Thứ hai, để "giải cứu" những khách hàng đang khó chịu như một phương án thay thế tốt hơn cho việc hoàn tiền.
+* Thứ ba, để "giải cứu" những khách hàng đang khó chịu của *người khác*.
+* Thứ tư, để bán thêm cho những khách hàng thường xuyên.
+
+<u>Về sản phẩm (the what)</u>, hãy nhớ rằng bạn có thể bán thêm chính thứ họ vừa mua với số lượng nhiều hơn, hoặc một thứ gì đó tốt hơn, hoặc một thứ mới mẻ và khác biệt. Để kiếm được tiền: Hãy chuyển số tiền tích lũy của họ sang một thứ gì đó đắt tiền hơn.
+
+<u>Về cách thức (the how)</u>, bạn có thể áp dụng toàn bộ hoặc một phần khoản giảm giá ngay lập tức, hoặc dàn trải nó theo thời gian.
+
+### Các ví dụ về Rollover Upsell
+
+**Bác sĩ chỉnh hình:** Kết nối lại với bệnh nhân cũ bằng chiến dịch "Winback" (Tìm lại khách hàng)<br>
+<u>Đối tượng:</u> Những khách hàng đã không mua hàng trong vòng sáu tháng.<br>
+<u>Sản phẩm:</u> Liệu trình mới.<br>
+<u>Cách thức:</u> Giảm trừ ngay lập tức.<br>
+Hãy liên hệ với các bệnh nhân cũ. Xem lại lịch sử mua hàng của họ. Đề nghị áp dụng một phần hoặc toàn bộ số tiền họ đã trả trong quá khứ vào một dịch vụ đắt tiền hơn thứ họ từng mua.<br>
+Ví dụ: *"Chào bà Banks, tôi muốn hoàn lại tiền cho bà, bà có rảnh một chút không? Tuyệt quá. Tôi muốn hỏi thăm tình hình đau lưng của bà dạo này thế nào rồi? Ồ, thật tiếc khi nghe vậy. Thôi thì, tôi có một tin vui đây. Thay cho lời cảm ơn, tôi muốn tặng lại bà 500 đô từ số tiền bà đã đóng trước đây để sử dụng cho liệu trình giúp bà hết đau vĩnh viễn. Bà có quan tâm không? Tuyệt vời... để tôi xếp lịch cho bà nhé..."*
+
+**Nha sĩ:** Giải cứu khách hàng đang khó chịu của chính mình bằng Rollover Upsell<br>
+<u>Đối tượng:</u> Khách hàng đang khó chịu.<br>
+<u>Sản phẩm:</u> Tẩy trắng răng.<br>
+<u>Cách thức:</u> Tặng ngay 200 đô vào tài khoản tích lũy.<br>
+Khách hàng trả 200 đô để lấy cao răng nhưng cảm thấy răng mình chẳng trắng hơn tí nào. Chúng ta giải thích rằng họ cần làm nhiều bước hơn để đạt kết quả và mời họ nâng cấp lên gói tẩy trắng răng chuyên sâu (bao gồm nhiều buổi điều trị, bộ dụng cụ tại nhà và nhiều lần vệ sinh sâu). Bạn đề nghị lấy 200 đô họ đã trả cho việc lấy cao răng để trừ thẳng vào gói tẩy trắng này.
+
+**Phần mềm:** Giải cứu (*Khụ khụ* Cướp) khách hàng đang khó chịu của đối thủ<br>
+<u>Đối tượng:</u> Khách hàng của đối thủ cạnh tranh.<br>
+<u>Sản phẩm:</u> Hợp đồng dịch vụ.<br>
+<u>Cách thức:</u> Ghi nhận chi phí phá vỡ hợp đồng cũ.<br>
+Bạn tìm những khách hàng đang không hài lòng với đối thủ và ghi nhận các khoản họ đã mua bên đó thành tiền tích lũy cho một đơn hàng mới bên bạn. Hãy chuyển số tiền họ đang nợ bên kia thành khoản ưu đãi để họ ký một hợp đồng dài hạn hơn với bạn.
+
+Ví dụ: *"Chào John, tôi có thấy đánh giá không tốt của anh về sản phẩm của bên họ và tôi thực sự lấy làm tiếc. Để bù đắp cho anh, tôi sẽ ghi nhận bất kỳ khoản thanh toán nào anh còn lại bên đó để anh chuyển sang dùng sản phẩm của chúng tôi. Bằng cách này, anh không mất một đồng nào mà lại được hưởng lợi ích ngay từ bây giờ. Anh thấy thế nào, công bằng chứ?"*
+
+**Thẻ hội viên:** Dàn trải lần mua đầu tiên cho một kỳ hạn<br>
+<u>Đối tượng:</u> Khách hàng hiện tại.<br>
+<u>Sản phẩm:</u> Thẻ hội viên 12 tháng.<br>
+<u>Cách thức:</u> Dàn trải khoản thanh toán đầu tiên.<br>
+Một người mua một gói dịch vụ nhỏ hoặc thẻ hội viên ngắn hạn. Ngay khi họ vừa mua, bạn có thể đề nghị áp dụng toàn bộ số tiền đó cho một khoảng thời gian dài hơn—ví dụ như 12 tháng. Tôi có thể thực hiện Rollover Upsell bất cứ lúc nào, nhưng tôi thích làm ngay thời điểm đó hơn. Khi thực hiện, bạn lấy chi phí của lần mua đầu tiên và áp dụng nó như một khoản giảm giá cho hợp đồng dài hạn hơn. Ví dụ: khoản mua đầu tiên trị giá $600 sẽ tương đương với việc giảm giá $50 mỗi tháng trong vòng 12 tháng.
+
+### Các lưu ý quan trọng
+
+**Sử dụng Ưu đãi Rollover để thu hút khách hàng mới.** Ví dụ, bạn chuyển đổi một phần hoặc toàn bộ số tiền khách hàng đã trả cho người khác sang sản phẩm của bạn. Bạn có thể tìm kiếm khách hàng tiềm năng cho việc này bằng cách thu thập thông tin liên hệ từ các đánh giá tiêu cực về sản phẩm (nếu có). Và thế là xong—bạn có ngay một danh sách khách hàng tiềm năng "nóng hổi", những người đang cần thứ bạn có. Thêm một mẹo nữa: Hãy tạo ra một nơi để mọi người có thể phàn nàn về các sản phẩm trong ngành của bạn (bất kỳ nền tảng mạng xã hội nào cho phép để lại bình luận). Sau đó, dùng Rollover Upsell với tất cả bọn họ. Thật là một chiêu " hiểm hóc".
+
+**Thực hiện Rollover Upsell trước khi hoàn tiền.** Điều này đã giúp tôi giữ chân được rất nhiều khách hàng và tiết kiệm được hàng đống tiền. Nếu bạn làm không tốt (này, chuyện đó vẫn xảy ra mà), hãy dùng Rollover cho một lần "làm lại". Và nếu họ muốn một thứ gì đó khác, hãy chuyển đổi khoản mua của họ sang thứ đó.
+
+**Khách hàng cũ vẫn là khách hàng. Hãy bán thêm cho họ.** Hãy tiếp cận những khách hàng cũ (đã hơn 6 tháng kể từ lần mua cuối). Hãy xem họ đã trả bao nhiêu trước đây. Quyết định xem bạn sẵn sàng chuyển đổi bao nhiêu. Và hãy đưa ra lời đề nghị. Hãy thực sự làm điều này. Tôi gọi đây là các "chiến dịch giành lại khách hàng". Tôi đã làm các video cá nhân hóa gửi cho 200 khách hàng cũ, tặng họ khoản tích lũy trị giá $4,000 để họ quay lại. Kết quả là khoảng 20% đã chấp nhận lời đề nghị. Chỉ một ngày quay video đã mang lại cho chúng tôi thêm khoảng $1,900,000 doanh thu hàng năm. Rất xứng đáng.
+
+**Thêm tính cấp bách cho Rollover Upsell. Chỉ áp dụng một lần duy nhất.** Nếu bạn muốn quyết liệt hơn, hãy biến thời điểm bạn đưa ra lời đề nghị thành thời điểm duy nhất để khách hàng nắm bắt. Một lời đề nghị "chỉ có một lần duy nhất trong đời khách hàng". Họ không có cơ hội để "về suy nghĩ thêm". Và đúng vậy, tôi biết họ có thể không ngờ tới điều này. Đó chính là mục đích! Bạn muốn tạo ra sự bất ngờ và thú vị. Vì vậy, nếu họ muốn nhận khoản tích lũy đó, họ phải đồng ý *ngay bây giờ*. Nếu không, cũng chẳng sao cả. Họ vẫn có thể trả đúng giá gốc sau này.
+
+**Cách định giá cho Rollover Upsell.** Để kiếm được tiền từ một lời đề nghị có chiết khấu, bạn phải đảm bảo vẫn còn lợi nhuận sau khi đã giảm giá. Vì tôi ưu tiên việc tạo ra lợi nhuận, tôi thường cố gắng đưa ra lời đề nghị bán thêm với giá trị cao gấp ít nhất bốn lần khoản tích lũy rollover của họ. Như vậy, ngay cả khi tôi áp dụng toàn bộ số tiền của lần mua đầu tiên, mức chiết khấu tối đa cũng chỉ là 25%. Hãy nhớ rằng, quy luật giảm giá luôn hiện hữu: Giảm giá càng sâu thì lợi nhuận trên mỗi đơn hàng càng thấp, nhưng bạn sẽ bán được nhiều đơn hàng hơn.
+
+**Bạn không cần phải tích lũy toàn bộ số tiền của lần mua đầu tiên.** Bạn có thể chọn rollover bao nhiêu tùy ý, dù nhiều hay ít. Tôi thường rollover bất kỳ con số nào mà tôi nghĩ là đủ để khuyến khích họ mua món đồ tiếp theo. Hãy thử nghiệm để tìm ra "điểm chạm" hoàn hảo nhất.
+
+>### Chiến thuật Thẻ Quà Tặng (Gift Card Play)<br>
+>![](../assets/images/03_09.png)<br>
+>**Chiến thuật Thẻ Quà Tặng "Nổi tiếng" của tôi.** Bạn có thể sử dụng Rollover Upsell như một Ưu đãi Thu hút cho cả khách hàng mới *và* khách hàng hiện tại bằng cách quảng cáo thẻ quà tặng giảm giá hơn 90%. Ví dụ: Thẻ Quà tặng trị giá $200 nhưng chỉ bán với giá $20. Giới hạn mỗi khách hàng chỉ được mua hai thẻ và quy định rằng họ *chỉ được dùng để tặng người khác*. Họ mua chúng để làm quà và tặng cho bạn bè của mình. Điều này tạo nên một lời đề nghị tuyệt vời cho các dịp lễ.<br>
+>Khi khách hàng mua thẻ quà tặng, hãy hỏi xem họ muốn tặng cho ai và liệu họ có thể giới thiệu người đó với bạn không. Sau đó, khi người được tặng đến, hãy áp dụng chiến thuật "chuyển đổi" thẻ quà tặng của họ. Hãy đặt giá trị của thẻ quà tặng bằng 20% mức giá của bất kỳ sản phẩm nào bạn muốn bán tiếp theo. Trong ví dụ của chúng ta, chúng ta bán một thẻ quà tặng trị giá $200 với giá $20. Sau đó, hãy áp dụng giá trị $200 đó vào một lời đề nghị có mức giá ít nhất là $1,000. Mọi người đang trả tiền cho bạn để được giới thiệu bạn bè của họ. Điều này thật tuyệt vời. Thêm vào đó, bạn còn có thêm một khoản thu nhập nhỏ từ những thẻ quà tặng không được sử dụng.
+
+### Các điểm tóm tắt
+
+* **Rollover Upsells** (Bán thêm bằng cách chuyển đổi) là việc ghi nhận một phần hoặc toàn bộ số tiền khách hàng đã mua trước đó vào lời đề nghị tiếp theo của bạn.
+* Để thực hiện Rollover Upsells, hãy xác định: *ai* là người để bán thêm, bán thêm *cái gì*, và *cách thức* chuyển đổi khoản tích lũy đó như thế nào.
+* **Đối tượng bán thêm:** Khách hàng cũ, khách hàng đang khó chịu, khách hàng đang khó chịu của người khác, khách hàng hiện tại.
+* **Sản phẩm bán thêm:** Thêm số lượng của một thứ gì đó, một thứ tốt hơn, hoặc một thứ mới mẻ và khác biệt. Chỉ cần đảm bảo bạn vẫn có lợi nhuận sau khi đã áp dụng khoản tích lũy.
+* **Cách thức chuyển đổi:** Toàn bộ hoặc một phần giá mua ban đầu. Áp dụng ngay lập tức hoặc dàn trải theo thời gian.
+* Định giá lời đề nghị tiếp theo của bạn **cao hơn ít nhất 4 lần** so với khoản tích lũy. Điều này tạo ra mức chiết khấu 25%.
+* Để có nhiều người chấp nhận hơn, hãy thêm tính cấp bách. Biến Rollover Upsell của bạn thành một lời đề nghị chỉ xuất hiện một lần duy nhất.
+
+
+>**QUÀ TẶNG MIỄN PHÍ: Đào tạo về Rollover Upsell**<br>
+>Đây là phương thức bán thêm mà tôi sử dụng thường xuyên nhất. Nó được xây dựng dựa trên sự kết hợp hoàn hảo giữa tính cấp bách đầy tinh tế và thiện chí đối với khách hàng. Tôi đã thực hiện một video hướng dẫn chi tiết về một số kịch bản mẫu để bạn có thể tận mắt chứng kiến cách tôi thực hiện. Nó hoàn toàn miễn phí và không yêu cầu đăng ký thông tin. Hãy xem tại địa chỉ [acquisition.com/training/money](https://acquisition.com/training/money). Tôi có đính kèm mã QR để bạn có thể truy cập nhanh chóng và dễ dàng.
+
+
+## **Kết luận về Chào hàng Bán thêm (Upsell)**
+
+*Hãy giải quyết vấn đề của người giàu, họ chi trả tốt hơn.*
+
+![](../assets/images/03_10.png)
+
+Bất cứ khi nào bạn đưa ra một lựa chọn *tiếp theo*, đó chính là bán thêm (upsell). Bán thêm đóng vai trò then chốt trong các Mô hình Kiếm tiền bằng cách giúp bạn thu về nhiều tiền mặt từ khách hàng *nhanh hơn* so với thông thường. Và nếu "Chào hàng Thu hút" (Attraction Offer) của bạn đã đủ để chi trả cho chi phí tìm kiếm khách hàng và vận hành — thì có thêm nhiều tiền hơn nữa cũng chẳng hại gì.
+
+Tôi đã giới thiệu cho bạn bốn hình thức Bán thêm mạnh mẽ nhất mà tôi thường dùng: Bán thêm Kiểu cổ điển (Classic Upsell), Bán thêm theo Thực đơn (Menu Upsells), Bán thêm Kiểu mỏ neo (Anchor Upsells), và Bán thêm Chuyển tiếp (Rollover Upsells). Chúng là cốt lõi cho thành công trong kinh doanh của tôi. Bán thêm thay đổi mọi thứ. Nhiều doanh nghiệp đã chuyển mình từ tình trạng "đốt tiền" sang "in tiền" — chỉ sau một đêm.
+
+Nhưng, như bạn biết đấy, kinh doanh không phải lúc nào cũng chỉ có màu hồng. Đôi khi, *người ta sẽ nói không*. Điều này dẫn chúng ta đến thành phần tiếp theo của một Mô hình Kiếm tiền 100 triệu đô — Chào hàng Bán thấp (Downsell Offers): *phải làm gì khi họ từ chối...*
