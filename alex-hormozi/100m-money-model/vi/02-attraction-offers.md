@@ -563,3 +563,141 @@ Dù về bản chất là giống nhau, nhưng “miễn phí” luôn tạo ra 
 >#### QUÀ TẶNG MIỄN PHÍ: Mua X Tặng Y Khóa Học Video Miễn Phí
 >
 >Mua X Tặng Y Miễn Phí giúp bạn kiếm được nhiều tiền và nhiều khách hàng. Bạn chỉ cần biết tính toán. Tôi đã làm một video miễn phí dành cho bạn, hướng dẫn một vài cách sáng tạo hơn để sử dụng nó. Bạn có thể xem video miễn phí tại acquisition.com/training/money. Quét mã QR nếu bạn ghét gõ chữ.
+
+
+## Trả Ít Hơn Bây Giờ hoặc Trả Nhiều Hơn Sau Này
+>*Thời gian là tiền bạc. - Benjamin Franklin*
+
+![](../assets/images/02_16.png "Pay Less Now or Pay More Later")
+
+Tháng 6 năm 2016.
+
+Một dòng tiêu đề đã lập tức thu hút sự chú ý của tôi: *“Tăng gấp đôi tốc độ đọc chỉ trong 3 giờ — nếu không, hoàn tiền.”* Tôi mở ra và lướt nhanh nội dung. Bên trong, người được mệnh danh là người đọc nhanh nhất thế giới đang mời tham gia một khóa huấn luyện miễn phí nhằm giúp tăng gấp đôi tốc độ đọc chỉ trong ba giờ. Vậy là tôi đăng ký. Tại sao không?
+
+Trang đăng ký ghi rõ, “Bạn có thể nhập thông tin thẻ tín dụng với số tiền là 0 đô la, và ngày mai chúng tôi sẽ tính phí 297 đô. Nếu tốc độ đọc của bạn không tăng gấp đôi, chỉ cần gửi email cho chúng tôi trước thời điểm đó và chúng tôi sẽ hủy khoản thu. Nhưng bạn bắt buộc phải tham dự thì mới đủ điều kiện.” Hoặc “Bạn cũng có thể trả trước 97 đô ngay bây giờ, và như một phần thưởng miễn phí, bạn sẽ nhận được các bản thu của khóa học — thứ sẽ không được bán ở bất kỳ nơi nào khác.”
+
+Tôi quyết định chọn phương án đầu tiên. Tôi muốn xem liệu tốc độ đọc của mình có thực sự tăng gấp đôi trước khi phải trả bất kỳ khoản tiền nào hay không. Tôi tham gia toàn bộ khóa huấn luyện, và cũng khá tin rằng họ sẽ cố gắng bán thêm cho tôi thứ gì đó. Nhưng không — người giảng dạy chỉ đơn thuần mang lại giá trị. Sau hai giờ, áp dụng các kỹ thuật của ông ấy, tốc độ đọc của tôi đã tăng gấp đôi. Thật ấn tượng. Khóa học hoàn toàn đúng như những gì đã hứa. Ông ấy xứng đáng nhận 297 đô la đó.
+
+Sau đó, ông ấy tiếp tục nói về cách tôi có thể đọc còn nhanh hơn nữa với chương trình đào tạo kéo dài tám tuần của mình. Tôi hoàn toàn hài lòng với kết quả đã đạt được, nên tôi quyết định không mua thêm. Ông ấy đã dạy cho tôi một kỹ năng mà tôi vẫn sử dụng đến tận ngày hôm nay. Nhưng giá trị thực sự mà tôi nhận được lại đến từ việc được học một mô hình ưu đãi thu hút hoàn toàn mới.
+
+### Mô tả
+
+Trong mô hình Trả Ít Ngay Bây Giờ Hoặc Trả Nhiều Hơn Sau (Pay Less Now or Pay More Later), bạn cho khách hàng quyền lựa chọn: hoặc thanh toán toàn bộ giá đầy đủ sau này, hoặc thanh toán ngay bây giờ với mức giá đã được giảm. Chiêu thức này hoạt động cực kỳ hiệu quả vì nó loại bỏ hoàn toàn rủi ro cho khách hàng. Họ chỉ phải trả tiền sau này, và chỉ khi họ thực sự hài lòng. Do đó, mô hình này kết hợp được cả lợi ích của việc thanh toán trễ lẫn cam kết đảm bảo sự hài lòng. Bất kỳ ai cũng có thể bán được kiểu này. Gần như ai cũng sẵn sàng đồng ý trả tiền sau, nếu họ hài lòng. Và một khi họ đã đồng ý trả tiền sau, bạn hoàn toàn có thể khiến họ trả tiền ngay bây giờ thông qua các mức giảm hấp dẫn và phần thưởng giá trị.
+
+Phương án trả sau cho phép bạn quảng bá bằng chữ “miễn phí”, vì khách hàng có quyền chọn trả sau hoặc không trả. Điều này tạo ra rất nhiều khách hàng tiềm năng chất lượng cao. Tuy nhiên, ưu đãi “miễn phí” này đi kèm một điều kiện bổ sung: khách hàng phải nhập thông tin thẻ ngay từ đầu. Nếu họ chọn phương án này và không hài lòng với sản phẩm, họ có thể hủy bất kỳ lúc nào trước khi giao dịch được tính tiền.
+
+Khi khách hàng đã chấp nhận phương án trả sau, bạn có thể đưa ra một lời mời tiếp theo để họ trả tiền ngay bây giờ. Các phương án trả ngay thường đi kèm: Giảm giá từ 20–50% và nhiều phần thưởng giá trị hơn. Và vì bạn đã có sẵn thông tin thẻ, việc thanh toán trở nên vô cùng dễ dàng.
+
+Dù khách hàng chọn trả ngay hay trả sau, bạn vẫn có khách hàng, và rất có thể là cả lợi nhuận. Tuy nhiên, để khai thác tối đa sức mạnh của mô hình ưu đãi này, bạn cần có thêm thứ khác để bán. Do đó, cần có thứ gì đó nhiều hơn, tốt hơn, mới hơn để bán vào thời điểm thích hợp. Và đừng lo — phần tiếp theo sẽ nói kỹ về chiến lược upsell.
+
+### Ví dụ
+#### Tìm Thương Vụ Bất Động Sản Đầu Tiên Của Bạn — Workshop Miễn Phí 3 Ngày
+- Trả sau: 0 đô la cho workshop 3 ngày. Khách hàng sẽ bị tính phí 500 đô la vào cuối chương trình nếu không hủy.
+- Trả ngay: 299 đô la cho workshop 3 ngày kèm bản ghi, 1 buổi tư vấn 1–1 với chuyên gia bất động sản gặp khó khăn tài chính (có chứng nhận), cùng tài liệu in sẵn để sử dụng (được phát tại workshop).
+- Bán thêm: 30.000 đô la — chương trình hướng dẫn toàn bộ mọi bước để chốt thương vụ bất động sản đầu tiên trong vòng 6 tháng, kèm theo: mẫu hồ sơ pháp lý, chuyên gia cố vấn thẩm định khoản đầu tư, danh sách kiểm tra khi kiểm tra tài sản, v.v.
+
+#### Dịch Vụ Kinh Doanh Địa Phương: Cắt Tỉa Hàng Rào Miễn Phí
+- Trả sau: 0 đô la cho dịch vụ cắt cỏ + tỉa hàng rào, sau đó tính phí 599 đô la. 
+- Trả ngay: 369 đô la cho dịch vụ cắt cỏ + tỉa hàng rào + chăm sóc cỏ. 
+- Bán thêm: 199 đô la mỗi tháng cho dịch vụ chăm sóc sân vườn định kỳ.
+
+Nhân viên bán hàng đến tận nhà, lập bảng báo giá và đưa ra cả hai phương án, sau đó sẽ chào bán thêm dịch vụ sau khi công việc hoàn tất.
+
+#### Sản phẩm vật lý: Dùng thử quần áo trong 14 ngày
+- Trả sau (*): $0 ngay. Nhận hàng. Sau đó, bạn sẽ bị tính phí $149 sau 14 ngày.
+- Thanh toán ngay: 97 đô la cho bộ quần áo + một phụ kiện đi kèm.
+- Bán thêm: Chiếc váy này đi kèm với gói đăng ký hàng tháng để nhận thêm nhiều quần áo tương tự.
+
+(*) Khách hàng phải trả lại sản phẩm trong tình trạng như mới trước khi thanh toán để được hưởng chế độ bảo hành.
+
+### Ghi chú quan trọng
+***Hứa hẹn một kết quả rõ ràng Có/Không.*** Đầu tiên, hãy đảm bảo lời hứa của bạn mang lại kết quả rõ ràng là "có hoặc không". Thứ hai, hãy chắc chắn rằng bạn có thể thực hiện được lời hứa đó trong khung thời gian đã định. Nếu không, họ sẽ yêu cầu không thanh toán. Điều này là hiển nhiên. Ví dụ, nếu bạn hứa sẽ giảm đau vai cho ai đó, hãy yêu cầu họ đánh giá mức độ đau từ 1 đến 10 trước khi bạn thực hiện liệu trình, sau đó yêu cầu họ đánh giá lại sau khi thực hiện. Nếu mức độ đau giảm, bạn đã thành công và bạn có thể bán cho họ sản phẩm khác. Hãy giữ lời hứa đơn giản, rõ ràng và có thể đo lường được. Điều này giúp tránh những trường hợp hủy bỏ không cần thiết.
+
+***Đưa ra <u>các tiêu chí</u> về cam kết hài lòng.*** *Khách hàng chỉ có thể hủy bỏ tính phí nếu họ đủ điều kiện.* Ví dụ, tôi phải tham dự khóa đào tạo đọc để đủ điều kiện được hủy phí. Xét cho cùng, họ không thể nói bạn tệ nếu họ chưa từng thử. Vì vậy, hãy chắc chắn theo dõi các điều kiện cần thiết để đủ điều kiện. Hãy nghĩ đến: tham dự, đến đúng hẹn, nộp dữ liệu, v.v. Hãy đặt tiêu chí là những việc mọi người làm để nhận được giá trị cao nhất từ ​​sản phẩm. Đôi bên cùng có lợi.
+
+***Đưa thêm các ưu đãi dành cho tùy chọn "Thanh toán ngay".*** Tôi rất ghét khi người ta lặp lại nội dung và gọi đó là nội dung mới. Vì vậy, tôi không muốn làm như vậy. Tôi đã dành cả một chương cho các ưu đãi trong cuốn sách về các lời chào hàng của mình: *$100M Offers*. Bạn có thể mua sách hoặc xem video hướng dẫn miễn phí trên trang web của tôi tại: acquisition.com/training/offers.
+
+***Tối ưu hóa ưu đãi "Trả ngay" và "Trả sau".*** Nếu quá nhiều người chọn tùy chọn "trả sau", hãy giảm giá thêm cho tùy chọn "trả ngay", thêm các ưu đãi hấp dẫn hơn, hoặc cả hai. Nếu quá nhiều người chọn tùy chọn "trả ngay", hãy làm ngược lại.
+
+***Nếu hơn 10% người dùng "Trả sau" hủy thanh toán.*** Điều đó có nghĩa là bạn đã hứa hẹn quá nhiều, điều kiện bảo đảm quá thấp hoặc giá quá cao. Lưu ý: Cho dù bạn cung cấp dịch vụ tốt đến đâu, vẫn sẽ có một số người hủy thanh toán. Điều đó không sao cả. Hãy tính toán chi phí đó vào hoạt động kinh doanh và tiếp tục cuộc sống của bạn.
+
+***Cách này cũng hiệu quả với các doanh nghiệp có sản phẩm thanh toán định kỳ.*** Bạn chỉ cần cho họ lựa chọn trả mức phí cao hơn sau 30 ngày hoặc trả ít hơn hôm nay và giữ mức phí thấp hơn đó mãi mãi. Thêm vào đó, hãy bổ sung thêm một số ưu đãi.
+
+>#### Nếu bạn tổ chức sự kiện/hội thảo/thuyết trình, hãy gợi ý về ưu đãi tiếp theo của bạn từ sớm.
+>
+>Nếu chuyên gia về đọc sách nói rằng *“Mọi người đều muốn biết khi nào khóa học đọc chuyên sâu tiếp theo của tôi bắt đầu vì chúng bán hết rất nhanh. Tôi sẽ nói đến điều đó vào cuối buổi. Nhưng hãy chú ý nhé. Trước tiên, tôi muốn thực hiện lời hứa với các bạn là tăng gấp đôi tốc độ đọc của các bạn.”* Bằng cách gợi ý về ưu đãi tiếp theo sớm hơn, anh ấy đã có thể bán được nhiều hơn. Hãy để tôi giải thích: 
+>
+>Tôi từng tư vấn dinh dưỡng rất nhiều. Mọi người thường xuyên ngắt lời tôi để hỏi về thực phẩm bổ sung. Điều đó làm tôi khó chịu. Vì vậy, một ngày nọ, tôi nói bâng quơ: *“Mọi người đều muốn biết nên mua loại thực phẩm bổ sung nào. Chúng ta sẽ nói đến điều đó sau – tôi hứa. Nhưng hãy chú ý đến phần dinh dưỡng – nó quan trọng hơn.”* Vô tình, tôi đã ngụ ý rằng mọi người đều mua thực phẩm bổ sung mà không cần trực tiếp giới thiệu. Và tất cả những cái gật đầu tôi nhận được cho thấy họ thực sự muốn mua thêm sản phẩm. Tất cả những yếu tố này đã khiến nhiều người mua hơn khi cuối cùng họ cũng có cơ hội hỏi. Một sai lầm may mắn mà tôi đã quyết định lặp lại.
+
+### Các Điểm Tóm Tắt
+- Các ưu đãi Trả Ít Ngay Bây Giờ Hoặc Trả Nhiều Hơn Sau cho khách hàng quyền lựa chọn: hoặc thanh toán toàn bộ giá đầy đủ sau, hoặc thanh toán với mức giá đã được giảm kèm thêm các phần thưởng giá trị...nếu thanh toán ngay bây giờ.
+- Phương án trả sau là hình thức thanh toán trễ đi kèm với cam kết đảm bảo có điều kiện.
+    + Cần có tiêu chí rõ ràng để đủ điều kiện nhận bảo đảm, và các tiêu chí đó phải dễ đo lường.
+    + Nếu có thể, hãy gắn các tiêu chí này với những yếu tố mang lại giá trị lớn nhất cho khách hàng khi sử dụng sản phẩm/dịch vụ.
+- Phương án trả ngay thường đi kèm: Giảm giá từ 20–50% Và các phần thưởng bổ sung, nếu khách hàng thanh toán ngay.
+    + Hãy chỉ đề nghị phương án trả ngay sau khi khách hàng đã đồng ý với phương án trả sau.
+    + Nếu họ chọn trả ngay, họ sẽ nhận giảm giá và bonus, thay cho cam kết bảo đảm.
+- Hãy đảm bảo lời hứa của bạn: Dễ theo dõi, khó phủ nhận, kết quả rõ ràng (có hoặc không).
+- Nếu có hơn 10% khách hàng hủy, thì rất có thể: Bạn đã hứa quá nhiều, điều kiện bảo đảm quá dễ, hoặc mức giá quá cao.
+    + Ngoài ra, hãy dành sự chú ý đặc biệt cho những khách hàng nói rằng họ chưa nhận được đúng những gì đã được hứa trước thời hạn hủy.
+
+>#### QUÀ TẶNG MIỄN PHÍ: Khóa đào tạo "Trả ít hơn ngay, trả nhiều hơn sau" [Không cần đăng ký]
+>
+>Đây là một trong những ưu đãi sáng tạo nhất mà tôi từng thấy hoặc sử dụng. Nó hoạt động đặc biệt hiệu quả với các sản phẩm kỹ thuật số và dịch vụ ngắn hạn. Chúng có thể mang lại hiệu quả đáng kinh ngạc và cũng tạo cảm giác "tuyệt vời". Việc đào tạo nhân viên bán hàng cũng vô cùng dễ dàng. Nếu bạn muốn tìm hiểu thêm về chúng, tôi đã tạo một khóa đào tạo chuyên sâu miễn phí dành cho bạn tại acquisition.com/training/money. Quét mã QR để truy cập nhanh chóng và dễ dàng.
+
+
+## Lời Đề Nghị Thiện Chí Miễn Phí
+
+*Ai nói tiền không mua được hạnh phúc chắc hẳn là do họ chưa cho đi đủ nhiều.*
+
+![](../assets/images/02_17.png)
+
+>*"Tôi bị liệt tứ chi vào năm 2018 và phải sống nhờ trợ cấp xã hội cho đến khi tìm thấy nội dung và sách của bạn... Tôi đã kiếm được 50.000 đô la trong 12 tháng tiếp theo với tư cách là một freelancer."* - Danny W.
+
+Tôi có một câu hỏi dành cho bạn…
+
+<u>Liệu bạn có sẵn lòng giúp đỡ một người mà bạn chưa từng gặp nếu việc đó không làm bạn tốn kém gì, nhưng bạn cũng chẳng nhận được chút danh tiếng nào không?</u>
+
+Hầu hết mọi người, trên thực tế, vẫn "trông mặt mà bắt hình dong". Vì vậy, đây là yêu cầu của tôi thay mặt cho một doanh nhân đang gặp khó khăn mà bạn chưa từng gặp: ***Xin hãy giúp đỡ doanh nhân đó bằng cách để lại đánh giá cho cuốn sách này. Đánh giá của bạn sẽ giúp ích cho…***
+
+***…thêm một doanh nghiệp nhỏ như của Bill có thể phục vụ cộng đồng của họ. Theo lời của Bill:*** "Tôi mở một tiệm bánh pizza vào đầu năm 2022 ngay sau khi tìm thấy cuốn $100M Offers. Doanh số khởi đầu chậm chạp, nhưng chúng tôi đã làm được! Sau khi đọc $100M Leads, chúng tôi đã triển khai nhiều thứ như cho khách hàng quyên góp cho ngân hàng thực phẩm địa phương để có cơ hội trúng bánh pizza miễn phí trong một năm. Tôi đã không còn đếm được mình có thêm bao nhiêu khách hàng mới sau khi thực hiện những điều này cho cộng đồng. Điều này hoàn toàn chứng minh rằng những kiến thức này hiệu quả với bất kỳ loại hình kinh doanh nào. Cảm ơn bạn!"
+
+***…thêm một doanh nhân như Thomas có thể nuôi sống gia đình mình. Theo lời của Thomas:*** "Sau mười năm, tôi bị sa thải. Nhưng rồi tôi tìm thấy cuốn sách của bạn và mở một doanh nghiệp hướng dẫn du lịch ở Colorado. Tua nhanh hai năm sau, chúng tôi đã có 5 nhân viên! Tôi thực sự đã lấy những gì mình học được và xây dựng giấc mơ của mình. Giờ đây con cái và vợ tôi hạnh phúc hơn bao giờ hết."
+
+***…thêm một nhân viên như của Miguel có được công việc ý nghĩa hơn. Theo lời của Miguel:*** "Tôi nhận được cuốn sách như một món quà và quyết định chuyển nó cho sáu nhân viên của mình. Kể từ đó, doanh nghiệp của chúng tôi đã trải qua một sự chuyển mình đáng kinh ngạc và tiếp tục phát triển hàng tháng. Không chỉ vậy, tôi còn tặng nó cho các huấn luyện viên cộng tác viên độc lập của mình. Cảm ơn bạn."
+
+***Đánh giá của bạn giúp ích cho… thêm một doanh nhân như Simon thay đổi cuộc đời họ. Theo lời của Simon:*** "Tôi chỉ là một anh chàng bình thường đến từ Đức và tôi đã không thể tìm nổi một khách hàng để duy trì cuộc sống. Sau đó tôi mua $100M Leads. Sau khi đọc chương Tiếp cận Lạnh (Cold Outreach), tôi bắt đầu thực hiện Quy tắc 100. Tôi kỳ vọng mình có thể nhận được 1-2 khách hàng... Nhưng rồi... tôi đã đặt được 8 cuộc hẹn trong 7 ngày... tôi chốt được 4 người và kiếm được 500€ đầu tiên từ một trong số họ. Đã 3 tháng trôi qua và sự nghiệp của tôi chưa bao giờ tốt hơn. Cuốn sách của bạn là cuốn duy nhất tôi cần. Tôi đề xuất nó cho tất cả mọi người!!"
+
+***…thêm một doanh nhân như Alex thoát khỏi hố sâu. Theo lời của Alex:*** "Tôi chuyển đến sống với bạn gái khi thu nhập chưa đầy 1.000 đô la mỗi tháng. Tôi đã mua $100M Leads và chúng tôi áp dụng TẤT CẢ MỌI THỨ. 3 tuần sau, chúng tôi ký được một khách hàng với giá hơn 2.000 đô la một tháng. Sau đó, thêm ba người nữa! Tôi nợ bạn nhiều hơn rất nhiều so với giá trị của những cuốn sách đó."
+
+***Đánh giá của bạn giúp ích cho… thêm một doanh nhân như Mohan rời bỏ đất nước và thoát khỏi cảnh nợ nần. Theo lời của Mohan:*** "Là một người nhập cử Ấn Độ đang gặp khó khăn cố gắng đến Ireland. Tôi kiếm được ít tiền đến mức tôi sợ mình sẽ chết trước khi trả hết nợ. Tôi làm gia sư thêm ở bất cứ đâu có thể. Sau đó tôi đọc $100M Offers và nghỉ việc 11 ngày sau đó. Tôi vẫn làm công việc đó nhưng lần này đã học được cách tạo ra các Lời chào hàng (Offers). Khách hàng rất vui lòng chi trả. Đôi khi lên tới 1.500€ khi tôi tặng thêm một số phần thưởng. Hiện tôi đã có thu nhập ổn định và cuối cùng đã tìm thấy công việc mình yêu thích. Tôi đã chuyển đến Đức và món nợ của tôi gần như đã được trả hết. Cảm ơn anh, Alex."
+
+***Nếu bạn tự nhủ rằng mình sẽ làm việc đó sau, thì thay vào đó, xin hãy làm ngay bây giờ. Chỉ mất chưa đầy 60 giây để thay đổi cuộc đời của một ai đó mãi mãi.***
+
+![](../assets/images/02_18.png)
+
+<u>Nếu bạn dùng Audible</u> - nhấn vào dấu ba chấm ở góc trên bên phải thiết bị, chọn "rate & review", sau đó để lại vài câu về cuốn sách cùng với xếp hạng sao.
+
+<u>Nếu bạn đọc trên Kindle hoặc thiết bị đọc điện tử</u> - cuộn xuống cuối sách, sau đó vuốt lên và nó sẽ nhắc bạn đánh giá.
+
+<u>Nếu vì lý do nào đó các thao tác này thay đổi</u> - bạn có thể truy cập Amazon (hoặc bất cứ nơi nào bạn đã mua) và để lại đánh giá ngay trên trang của cuốn sách.
+
+Nếu bạn cảm thấy hạnh phúc khi giúp đỡ một doanh nhân xa lạ, bạn chính là kiểu người của tôi. Chào mừng đến với #mozination. Bạn là một trong số chúng tôi.
+
+Tôi vô cùng hào hứng được giúp bạn kiếm nhiều tiền hơn mức bạn có thể tưởng tượng. Bạn sẽ yêu thích những chiến thuật mà tôi sắp chia sẻ trong các chương tới. Cảm ơn bạn từ tận đáy lòng. Bây giờ, hãy quay trở lại chương trình chính của chúng ta.
+
+![](../assets/images/02_19.png)
+
+\- Người hâm mộ lớn nhất của bạn, Alex
+
+## Kết luận về Lời chào hàng Thu hút
+
+*Tin nóng hổi! Hãy nghe tất cả về nó!*
+
+![](../assets/images/02_20.png)
+
+Điểm mấu chốt của Lời chào hàng Thu hút là biến người lạ thành khách hàng. Và thực hiện việc đó theo cách giúp chúng ta thu được nhiều tiền mặt hơn ngay từ đầu. Lý tưởng nhất là chúng ta nhận đủ tiền mặt để bù đắp chi phí tìm kiếm khách hàng và chi phí cung cấp sản phẩm của mình gấp nhiều lần. Bằng cách đó, chúng ta có thể thu hồi vốn và tìm kiếm khách hàng tiếp theo.
+
+Tôi đã chỉ cho bạn năm Lời chào hàng Thu hút mạnh mẽ nhất mà tôi từng thấy và sử dụng: Hoàn tiền nếu đạt kết quả (Win Your Money Back), Quà tặng (Giveaways), Lời chào hàng Chim mồi (Decoy Offers), Mua X Tặng Y (Buy X Get Y Free), và Trả ít hơn ngay bây giờ hoặc Trả nhiều hơn sau này (Pay Less Now or Pay More Later). Tôi áp dụng chúng vào lúc này hay lúc khác cho mọi doanh nghiệp mà tôi sở hữu. Chúng đã biến 1.000 đô la thành 10.000.000 đô la trong mười tháng bởi vì khi có lợi nhuận, tôi liên tục tái đầu tư gấp đôi. Một Lời chào hàng Thu hút kiểu "Grand Slam" sẽ thay đổi doanh nghiệp (và cuộc đời) của bạn mãi mãi.
+
+Sau khi sử dụng Lời chào hàng Thu hút, chúng ta đã có thêm khách hàng. Và bây giờ khi đã có họ, chúng ta cần thúc đẩy lợi nhuận trong 30 ngày bằng cách bán cho họ nhiều thứ hơn. Điều này dẫn chúng ta đến thành phần tiếp theo của Mô hình Tiền tệ 100 triệu đô la — Lời chào hàng Bán thêm (Upsell Offers): Nên chào mời cái gì tiếp theo.
