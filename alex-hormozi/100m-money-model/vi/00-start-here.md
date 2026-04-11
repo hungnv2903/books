@@ -1,4 +1,4 @@
-# START HERE
+# Bắt đầu tại đây
 
 >"Thế giới này đánh gục tất cả mọi người, và sau đó, nhiều người trở nên mạnh mẽ hơn chính tại những nơi họ từng tan vỡ." - Ernest Hemingway
 
@@ -190,9 +190,9 @@ Từ đó, vợ chồng tôi thành lập văn phòng gia đình Acquisition.com
 
 ## BẠN SẼ NHẬN ĐƯỢC GÌ?
 
-Trong vài trang vừa qua, tôi đã đưa bạn từ chỗ phải ngủ dưới sàn nhà đến khi vượt mốc tài sản ròng 100 triệu đô. Câu hỏi tự nhiên nảy sinh là… làm thế nào? Câu trả lời: bằng cách kiếm được nhiều tiền từ khách hàng hơn là chi phí để có được họ. Và đó chính là nội dung của cuốn sách $100M Money Models (Các Mô Hình Kiếm Tiền Trăm Triệu Đô) này.
+Trong vài trang vừa qua, tôi đã đưa bạn từ chỗ phải ngủ dưới sàn nhà đến khi vượt mốc tài sản ròng 100 triệu đô. Câu hỏi tự nhiên nảy sinh là… làm thế nào? Câu trả lời: bằng cách kiếm được nhiều tiền từ khách hàng hơn là chi phí để có được họ. Và đó chính là nội dung của cuốn sách $100M Money Models này.
 
-Từ khi tôi bắt đầu kinh doanh, bối cảnh đã thay đổi nhiều lần. Và nó sẽ còn tiếp tục thay đổi. Tin tốt là, các nguyên tắc cốt lõi sẽ giúp bạn "in tiền" dù trong hoàn cảnh nào đi nữa. Tôi đã học được rất nhiều Mô hình Kiếm tiền. Tôi sẽ trình bày những mô hình tâm đắc nhất của mình ở đây.
+Từ khi tôi bắt đầu kinh doanh, bối cảnh đã thay đổi nhiều lần. Và nó sẽ còn tiếp tục thay đổi. Tin tốt là, các nguyên tắc cốt lõi sẽ giúp bạn "in tiền" dù trong hoàn cảnh nào đi nữa. Tôi đã học được rất nhiều Money Model. Tôi sẽ trình bày những mô hình tâm đắc nhất của mình ở đây.
 
 Cuốn sách này giới thiệu những lời chào hàng đã được chứng minh hiệu quả mà bạn có thể áp dụng ngay hôm nay, kèm theo hướng dẫn để biến chúng thành hiện thực. Hãy coi cuốn sách này như một tệp vé số đã trúng thưởng—việc của bạn chỉ là đi lĩnh thưởng thôi.
 
@@ -201,13 +201,13 @@ Ngoài ra, tôi muốn nói rõ một điều, đây là những ghi chép cá n
 
 ## Cấu trúc của cuốn sách
 
-Cuốn sách này dạy bạn một điều cực kỳ lợi hại: cách xây dựng một Mô hình Kiếm tiền Trăm triệu đô. Với mô hình này, bạn kiếm được nhiều tiền đến mức trong 30 ngày đầu tiên, chi phí để có thêm khách hàng mới sẽ không bao giờ là vấn đề nữa. Với lượng khách hàng khổng lồ, bạn sẽ bị buộc phải cải thiện mọi thứ khác trong doanh nghiệp của mình chỉ để kịp đáp ứng! Đó là vấn đề để một cuốn sách khác giải quyết sau (nháy mắt).
+Cuốn sách này dạy bạn một điều cực kỳ lợi hại: cách xây dựng một Money Model Trăm triệu đô. Với mô hình này, bạn kiếm được nhiều tiền đến mức trong 30 ngày đầu tiên, chi phí để có thêm khách hàng mới sẽ không bao giờ là vấn đề nữa. Với lượng khách hàng khổng lồ, bạn sẽ bị buộc phải cải thiện mọi thứ khác trong doanh nghiệp của mình chỉ để kịp đáp ứng! Đó là vấn đề để một cuốn sách khác giải quyết sau (nháy mắt).
 
 ### Dàn ý cuốn sách:
 
 Bắt đầu tại đây: Bạn vừa đọc xong phần này.
 
-Phần I: Mô hình Kiếm tiền là gì? Sắp tới đây…
+Phần I: Money Model là gì? Sắp tới đây…
 
 Phần II: Lời chào hàng Thu hút (Attraction Offers)
 
@@ -217,7 +217,7 @@ Phần IV: Lời chào hàng Bán giảm (Downsell Offers)
 
 Phần V: Lời chào hàng Duy trì (Continuity Offers)
 
-Phần VI: Xây dựng Mô hình Kiếm tiền của bạn
+Phần VI: Xây dựng Money Model của bạn
 
 Chỉ vậy thôi. Rất đơn giản. Bắt đầu thôi nào.
 
