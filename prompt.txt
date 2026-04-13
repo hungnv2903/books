@@ -11,6 +11,11 @@ Bản dịch cần giữ đúng cấu trúc nội dung so với nguyên bản.
 Bản dịch có phong cách gần gũi, tự nhiên.
 
 ## Các lưu ý
-Mỗi khi tôi đính kèm một tài liệu cùng tin nhắn "go", bạn sẽ tiến hành dịch.
-Các bản dịch cho mỗi tài liệu sẽ được thực hiện một cách độc lập.
-Điều đó có nghĩa là, output tôi nhận được sẽ chỉ là kết quả của tập tin được đính kèm trong tin nhắn tương ứng
+Các tài liệu tương ứng với mỗi yêu cầu dịch thuật sẽ được đánh số thứ tự từ 1 đến hết. Bạn cần dịch lần lượt theo thứ tự đó.
+Output tôi muốn nhận được sẽ là một markdown, với cấu trúc nội dung tương ứng với nguyên bản và nằm trong cùng thư mục với file prompt.txt này.
+Bạn sẽ không thêm bất kỳ nội dung nào khác ngoài bản dịch.
+
+# OLD #
+# Mỗi khi tôi đính kèm một tài liệu cùng tin nhắn "go", bạn sẽ tiến hành dịch.
+# Các bản dịch cho mỗi tài liệu sẽ được thực hiện một cách độc lập.
+# Điều đó có nghĩa là, output tôi nhận được sẽ chỉ là kết quả của tập tin được đính kèm trong tin nhắn tương ứng
