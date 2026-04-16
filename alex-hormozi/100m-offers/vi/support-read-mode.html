@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trình xem Markdown từ File</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+        body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+            background-color: #f6f8fa;
+        }
+
+        .markdown-body {
+            background-color: #ffffff;
+            padding: 20px;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+            font-family: 'Times New Roman', Times, serif;
+            font-size: larger;
+            word-spacing: .3rem;
+            /* line-height: 1.5rem; */
+        }
+
+        .error-msg {
+            color: #cf222e;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        @media (max-width: 767px) {
+            body {
+                padding: 15px;
+            }
+
+            .markdown-body {
+                padding: 20px;
+            }
+        }
+
+        /* Sticky menu on top */
+        .menu {
+            position: sticky;
+            top: 0;
+            background-color: #ffffff;
+            padding: 10px 0;
+            border-bottom: 1px solid #d0d7de;
+            z-index: 1000;
+        }
+
+        .menu ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .menu li {
+            cursor: pointer;
+            padding: 10px 15px;
+            background-color: #0366d6;
+            color: #ffffff;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        .menu li:hover, .menu li.active {
+            border: 1px solid #e01b1b;
+            font-size: larger;
+            font-weight: bold;
+        }
+
+        /* float navigation buttons */
+        /* .navigate {
+            position: sticky;
+            bottom: 50vh;
+            display: flex;
+            justify-content: space-between;
+            z-index: 1000;
+        }
+
+        .navigate button {
+            padding: 10px 20px;
+            background-color: #2a2e33;
+            color: #ffffff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .navigate button:hover {
+            background-color: #0356b6;
+        } */
+    </style>
+</head>
+
+<body>
+    <nav class="menu">
+        <ul>
+            <li onclick="loadMarkdown('00-start-here.md');">1. Start Here</li>
+            <li onclick="loadMarkdown('01-how-we-got-here.md');">2. How We Got Here</li>
+            <li onclick="loadMarkdown('02-pricing.md');">3. Pricing</li>
+            <li onclick="loadMarkdown('03-value-create-your-offer.md');">4. Enhancing Your Offer</li>
+            <li onclick="loadMarkdown('04-enhancing-your-offer.md');">4. Enhancing Your Offer</li>
+            <li onclick="loadMarkdown('05-execution.md');">5. Execution</li>
+        </ul>
+    </nav>
+
+    <div id="content" class="markdown-body">
+        Chọn một mục từ menu trên để xem nội dung. <br>
+        <div class="error-msg" style="display: none;">
+            <p>⚠️ Lỗi: Không thể tải file "${fileName}".</p>
+            <p style="font-size: 0.9em; color: #57606a;">
+                Mẹo: Trình duyệt không cho phép đọc file cục bộ trực tiếp. <br>
+                Hãy đảm bảo bạn đang chạy file HTML này qua một Local Server (như Live Server trên VS Code).
+            </p>
+        </div>
+    </div>
+<!-- 
+    <div class="navigate" style="display: none;">
+        <button onclick="goto(-1);">&larr;</button>
+        <button onclick="goto(+1);">&rarr;</button>
+    </div> -->
+
+    <script>
+        const filePath = 'alex-hormozi/100m-offers/vi/';
+
+        let currentFileIndex = -1;
+
+        async function loadMarkdown(fileName) {
+            currentFileIndex = Number.parseInt(fileName.substring(1, 2)); // Lấy số thứ tự từ tên file
+
+            // hide all navigate buttons if currentFileIndex is -1 (no file selected)
+            document.querySelectorAll('.navigate').forEach(div => {
+                div.style.display = currentFileIndex === -1 ? 'none' : 'flex';
+                div.style.justifyContent = currentFileIndex === 0 ? 'flex-end' : currentFileIndex === 5 ? 'flex-start' : 'space-between'; // Chỉ hiển thị nút phù hợp
+
+                div.querySelector('button:first-child').style.display = currentFileIndex === 0 ? 'none' : 'inline-block'; // Hide Previous button if on first file
+
+                div.querySelector('button:last-child').style.display = currentFileIndex === 5 ? 'none' : 'inline-block'; // Hide Previous button if on first file
+            });
+
+            // toggle active class on menu items based on currentFileIndex
+            document.querySelectorAll('.menu li').forEach((li, index) => {
+                if (index === currentFileIndex) {
+                    li.classList.add('active');
+                } else {
+                    li.classList.remove('active');
+                }
+            });
+
+            const contentDiv = document.getElementById('content');
+            try {
+                const response = await fetch(fileName);
+                if (!response.ok) {
+                    throw new Error(`Không thể đọc file. Mã lỗi: ${response.status}`);
+                }
+
+                const markdownText = await response.text();
+                contentDiv.innerHTML = marked.parse(markdownText);
+
+                // go to top after loading new content with smooth scroll
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            } catch (error) {
+                contentDiv.querySelector('.error-msg').style.display = 'block';
+                console.error(error);
+            }
+        }
+
+        function goto(direction) {
+            if (currentFileIndex === -1) return; // Nếu chưa chọn file nào, không làm gì
+
+            const nextIndex = currentFileIndex + direction;
+            if (nextIndex >= 0 && nextIndex <= 5) { // Giới hạn số file từ 0 đến 5
+                const liEl = document.querySelector(`.menu li:nth-child(${nextIndex + 1})`);
+                liEl.click(); // Kích hoạt sự kiện click để tải file tương ứng
+            }
+        }
+    </script>
+
+</body>
+
+</html>
