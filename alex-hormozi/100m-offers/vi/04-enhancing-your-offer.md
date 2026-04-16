@@ -202,14 +202,21 @@ Bây giờ chúng ta đã đi qua một số chiến thuật khan hiếm yêu th
 
 ![](../images/04/08.png)
 
-### TODO - PAGE 108
-
 Sự khan hiếm là một hàm số của *số lượng*. Sự khẩn cấp là một hàm số của *thời gian*.
+
 Đây là lúc bạn chỉ giới hạn **thời điểm** mọi người có thể đăng ký, thay vì giới hạn *số lượng* người. Việc có một thời hạn (deadline) hoặc ngày chốt để một giao dịch mua hoặc một hành động diễn ra sẽ tạo ra sự khẩn cấp. Thông thường, sự khan hiếm và sự khẩn cấp được sử dụng cùng nhau, nhưng tôi sẽ tách riêng chúng ra để giúp bạn dễ hình dung các khái niệm.
 
-Tôi sẽ chỉ cho bạn bốn cách yêu thích của tôi để sử dụng sự khẩn cấp một cách nhất quán và có đạo đức: 1) Các nhóm cuốn chiếu (Rolling Cohorts), 2) Sự khẩn cấp theo mùa cuốn chiếu (Rolling Seasonal Urgency), 3) Sự khẩn cấp về khuyến mãi hoặc định giá, 4) Cơ hội bùng nổ (Exploding Opportunity). Chúng sẽ giúp bạn áp dụng sự khẩn cấp trong doanh nghiệp mà không tạo cảm giác giả tạo. Cách yêu thích nhất của tôi là áp dụng các nhóm khách hàng (cohorts) bắt đầu theo một nhịp độ đều đặn. Điều này có thêm lợi ích vận hành là giúp bạn tạo ra một trải nghiệm tiếp nhận (onboarding) khách hàng mới được dàn dựng bài bản. Khi bạn mở rộng quy mô, điều này sẽ ngày càng trở nên quan trọng.
+Tôi sẽ chỉ cho bạn 4 cách yêu thích của tôi để áp dụng sự cấp bách vào doanh nghiệp một cách nhất quán và có đạo đức:
+1. Các nhóm khách hàng cuốn chiếu (Rolling Cohorts): Chia khách hàng theo từng đợt tham gia.
+2. Sự cấp bách theo mùa cuốn chiếu (Rolling Seasonal Urgency): Tận dụng các yếu tố thời điểm/mùa vụ lặp lại.
+3. Sự cấp bách về Khuyến mãi hoặc Giá cả (Promotional or Pricing Urgency): Giới hạn thời gian ưu đãi hoặc lộ trình tăng giá.
+4. Cơ hội bùng nổ (Exploding Opportunity): Những cơ hội chỉ xuất hiện trong thời gian ngắn và sẽ biến mất nếu không nắm bắt.
 
-**1) Sự khẩn cấp Cuốn chiếu dựa trên Nhóm (Cohort-Based Rolling Urgency)**
+Những phương pháp này sẽ tạo ra sự thôi thúc khách hàng hành động mà không khiến bạn trở nên giả tạo.
+
+Cách tôi thích nhất chính là cho từng nhóm khách hàng (cohorts) bắt đầu theo một nhịp độ đều đặn (cadence). Điều này mang lại một lợi ích vận hành cực lớn: Nó giúp bạn thiết kế được một trải nghiệm bắt đầu (onboarding) được dàn dựng tỉ mỉ và chuyên nghiệp cho khách hàng mới. Khi bạn bắt đầu mở rộng quy mô (scale), yếu tố này sẽ ngày càng trở nên quan trọng hơn bao giờ hết.
+
+### **1) Sự khẩn cấp Cuốn chiếu dựa trên Nhóm (Cohort-Based Rolling Urgency)**
 Ví dụ, nếu bạn bắt đầu nhận khách hàng mới hàng tuần (ngay cả với số lượng không giới hạn), bạn có thể nói:
 
 *"Nếu bạn đăng ký ngay hôm nay, tôi có thể đưa bạn vào nhóm tiếp theo sẽ khởi động vào thứ Hai tới, nếu không bạn sẽ phải đợi đến ngày khởi động tiếp theo của chúng tôi."*
@@ -218,119 +225,94 @@ Nếu bạn muốn tăng thêm "nhiệt" một chút, bạn có thể nói:
 
 *"Tôi thực sự vừa có một khách hàng mới đăng ký vài tuần trước nhưng lại xin rút, vì vậy tôi đang có một suất trống cho nhóm tiếp theo sẽ khởi động vào thứ Hai. Nếu bạn khá chắc chắn rằng mình sẽ thực hiện việc này sớm hay muộn, thì tốt nhất là nên tham gia ngay bây giờ để bắt đầu nhận được thành quả sớm hơn thay vì phải trả cùng một số tiền mà lại phải chờ đợi."*
 
-Hai sự điều chỉnh nhỏ ở trên đã đẩy rất nhiều cuộc mua bán đang do dự vượt qua rào cản chỉ bằng cách nhắc nhở khách hàng tiềm năng rằng nếu họ đăng ký, họ sẽ bắt đầu vào thứ Hai, và nếu không, họ sẽ phải đợi một tuần. Đó là những chi tiết nhỏ như vậy thúc đẩy mọi người thực hiện hành động mà họ biết rằng dù sao họ cũng nên làm.
+Hai sự điều chỉnh nhỏ ở trên đã đẩy rất nhiều cuộc mua bán đang do dự vượt qua rào cản chỉ bằng cách nhắc nhở khách hàng tiềm năng rằng nếu họ đăng ký, họ sẽ bắt đầu vào thứ Hai, và nếu không, họ sẽ phải đợi một tuần. Những chi tiết nhỏ như vậy sẽ thúc đẩy mọi người thực hiện hành động mà họ biết rằng dù sao họ cũng nên làm.
+
 Rõ ràng là nhịp độ bạn khởi động các nhóm khách hàng mới càng ít thường xuyên, thì đòn bẩy này càng mạnh mẽ. Ví dụ, nếu bạn chỉ bắt đầu nhóm khách hàng mới hai lần một năm, mọi người sẽ cực kỳ muốn đăng ký, đặc biệt là khi ngày khởi động cận kề. Thậm chí chỉ cần bắt đầu nhóm mới cách tuần cũng có thể mang lại cú hích khẩn cấp này.
 
----
-**Nếu tôi bị mất doanh số vì từ chối khách hàng thì sao?**
-Giống như các cam kết bảo hành, luôn có một nỗi sợ rằng bạn sẽ kiếm được ít tiền hơn khi áp dụng chiến lược này. Chúng ta sợ rằng mình sẽ mất đi những đơn hàng mà lẽ ra chúng ta đã có thể chốt được. Mọi nhà marketing dày dạn kinh nghiệm trên hành tinh này sẽ nói với bạn rằng — đó là một nỗi sợ hãi không có căn cứ. Những đợt bán hàng lớn nhất trong một chiến dịch kéo dài một tuần hoặc một đợt ra mắt diễn ra trong 4 giờ cuối cùng của ngày cuối cùng (chiếm 50-60% tổng doanh số). Điều đó có nghĩa là 3% thời gian cuối cùng tạo ra 50-60% doanh số... điều đó hoàn toàn phi lý, nhưng lại mang đậm tính nhân văn của con người. Vì vậy, cũng giống như bảo hành, bạn sẽ kiếm được nhiều tiền hơn từ những người quyết định hành động thay vì những người thực sự bị bỏ lỡ — bởi vì thực tế là những người đó ngay từ đầu đã không định mua (họ thậm chí còn không mua khi bạn thúc giục họ,
+>**Nếu tôi bị mất doanh số vì từ chối khách hàng thì sao?**<br>
+>Giống như các cam kết bảo hành, luôn có một nỗi sợ rằng bạn sẽ kiếm được ít tiền hơn khi áp dụng chiến lược này. Chúng ta sợ rằng mình sẽ mất đi những đơn hàng mà lẽ ra chúng ta đã có thể chốt được. Mọi nhà marketing dày dạn kinh nghiệm trên hành tinh này sẽ nói với bạn rằng — đó là một nỗi sợ hãi không có căn cứ. Những đợt bán hàng lớn nhất trong một chiến dịch kéo dài một tuần hoặc một đợt ra mắt diễn ra trong 4 giờ cuối cùng của ngày cuối cùng (chiếm 50-60% tổng doanh số). Điều đó có nghĩa là 3% thời gian cuối cùng tạo ra 50-60% doanh số... điều đó hoàn toàn phi lý, nhưng lại mang đậm tính nhân văn của con người. Vì vậy, cũng giống như bảo hành, bạn sẽ kiếm được nhiều tiền hơn từ những người quyết định hành động thay vì những người thực sự bị bỏ lỡ — bởi vì thực tế là những người đó ngay từ đầu đã không định mua (họ thậm chí còn không mua khi bạn thúc giục họ thì tại sao họ lại mua nếu không có sự thúc giục đó?) Thật đáng để ghi nhớ.
 
----
+>**Phải làm gì nếu bạn vừa bắt đầu một nhóm mới và có ai đó muốn mua...**<br>
+>Bạn có hai lựa chọn: 
+>1. Bạn có thể cung cấp cho họ một quá trình tiếp nhận (onboarding) cá nhân hóa nhanh chóng để giúp họ bắt kịp nhóm như một món "quà tặng kèm" vì đã đăng ký ngay hôm nay và vẫn đưa họ vào nhóm đó. Hoặc, sở thích của tôi là... 
+>2. Bạn có thể giải thích với họ rằng vì nhóm tiếp theo sẽ khởi động sau một thời gian ngắn nữa, họ sẽ có lợi thế là có nhiều thời gian hơn để xem trước các tài liệu, nói chuyện với nhân viên của họ (đối với sản phẩm B2B) hoặc các thành viên gia đình (đối với sản phẩm B2C). Trên hết, họ có thể có một kế hoạch thanh toán kéo dài hơn mà hầu hết các khách hàng khác không có... đó là một lợi thế mà bạn dành cho họ. Sau cùng, hãy luôn nhớ rằng, bạn mới là người làm chủ cuộc chơi.
 
-### Trang 109
+### **2) Sự khẩn cấp theo Mùa Cuốn chiếu (Rolling Seasonal Urgency)**
 
-thì tại sao họ lại mua nếu không có sự thúc giục đó?) Thật đáng để ghi nhớ.
-
----
-**Phải làm gì nếu bạn vừa bắt đầu một nhóm mới và có ai đó muốn mua...**
-Bạn có hai lựa chọn: 1) Bạn có thể cung cấp cho họ một quá trình tiếp nhận (onboarding) cá nhân hóa nhanh chóng để giúp họ bắt kịp nhóm như một món "quà tặng kèm" vì đã đăng ký ngay hôm nay và vẫn đưa họ vào nhóm đó. Hoặc, sở thích của tôi là 2) Bạn có thể giải thích với họ rằng vì nhóm tiếp theo sẽ khởi động sau một thời gian ngắn nữa, họ sẽ có lợi thế là có nhiều thời gian hơn để xem trước các tài liệu, nói chuyện với nhân viên của họ (đối với sản phẩm B2B) hoặc các thành viên gia đình (đối với sản phẩm B2C). Trên hết, họ có thể có một kế hoạch thanh toán kéo dài hơn mà hầu hết các khách hàng khác không có... đó là một lợi thế mà bạn dành cho họ. Sau cùng, hãy luôn nhớ rằng, bạn mới là người làm chủ cuộc chơi.
----
-
-**2) Sự khẩn cấp theo Mùa Cuốn chiếu (Rolling Seasonal Urgency)**
 Trong môi trường kỹ thuật số, việc có các đồng hồ đếm ngược ngày đăng ký cuối cùng là rất hữu ích. Nhưng hãy đảm bảo rằng chúng là thật. Nếu không, bạn sẽ mất uy tín và trông giống như *mọi gã làm marketing nghiệp dư khác*. Điều này rất phổ biến với các doanh nghiệp internet sử dụng mô hình "ra mắt" (launch). Cá nhân tôi *thích* việc có các ngày kết thúc chương trình khuyến mãi trên trang bán hàng *và* trong nội dung quảng cáo của mình. Tôi muốn nó hiển thị ở khắp mọi nơi. Điểm tuyệt vời là bạn luôn có thể khởi động một chiến dịch quảng cáo khác và một trang bán hàng mới với các ngày mới và nó sẽ lại hiệu quả như bình thường. Bạn sẽ thấy tỷ lệ chuyển đổi của mình tăng vọt, và việc này có lẽ chỉ mất năm phút chỉnh sửa — hoàn toàn xứng đáng với thời gian bỏ ra.
 
-*Ví dụ: Khuyến mãi Năm mới kết thúc vào ngày 31/1!*
-*Tháng tới: Khuyến mãi Mùa Valentine kết thúc vào ngày 14/2!*
-*Tháng tới: Khuyến mãi Đặc biệt Mùa Xuân kết thúc vào ngày 31/3!*
-*Tháng tới: Khuyến mãi Cá tháng Tư kết thúc vào ngày 30/4!*
+&emsp;*Ví dụ: Khuyến mãi Năm mới kết thúc vào ngày 31/1!*<br>
+&emsp;*Tháng tới: Khuyến mãi Mùa Valentine kết thúc vào ngày 14/2!*<br>
+&emsp;*Tháng tới: Khuyến mãi Đặc biệt Mùa Xuân kết thúc vào ngày 31/3!*<br>
+&emsp;*Tháng tới: Khuyến mãi Cá tháng Tư kết thúc vào ngày 30/4!*
 
-Chương trình khuyến mãi thực tế có thể giống nhau, nhưng việc đặt tên nó theo mùa khác nhau mang lại cho bạn một sự khác biệt "thực tế", cho bạn một điểm bắt đầu và một điểm kết thúc. Các hạn chót sẽ thúc đẩy quyết định. Chỉ đơn giản là có những điều này, bạn có thể chỉ ra cho khách hàng thấy và để bản năng con người thúc đẩy họ vượt qua rào cản để không bị bỏ lỡ.
+Chương trình khuyến mãi thực tế có thể giống nhau, nhưng việc đặt tên nó theo mùa khác nhau mang lại cho bạn một sự khác biệt "thực tế", cho bạn một điểm bắt đầu và một điểm kết thúc. Các hạn chót sẽ thúc đẩy quyết định. Chỉ đơn giản là khi có những điều này, bạn có thể chỉ ra cho khách hàng thấy và để bản năng con người thúc đẩy họ vượt qua rào cản để không bị bỏ lỡ.
 
----
-**Mẹo chuyên gia - Các doanh nghiệp địa phương:** Đây là chiến lược số một của tôi dành cho các doanh nghiệp địa phương. Họ phải thay đổi nội dung marketing thường xuyên hơn các nhà quảng cáo toàn quốc. Việc khoác lên một "chiếc áo mới" với một ngày cụ thể cho cùng một dịch vụ cốt lõi sẽ mang lại cho bạn sự khẩn cấp và sự mới mẻ, giúp bạn liên tục vượt qua các chiến dịch kiểu "cũ rích" truyền thống.
----
+>**Mẹo chuyên gia - Các doanh nghiệp địa phương:** Đây là chiến lược số một của tôi dành cho các doanh nghiệp địa phương. Họ phải thay đổi nội dung marketing thường xuyên hơn các nhà quảng cáo toàn quốc. Việc khoác lên một "chiếc áo mới" với một ngày cụ thể cho cùng một dịch vụ cốt lõi sẽ mang lại cho bạn sự khẩn cấp và sự mới mẻ, giúp bạn liên tục vượt qua các chiến dịch kiểu "cũ rích" truyền thống.
 
-**3) Sự khẩn cấp dựa trên Định giá hoặc Quà tặng kèm (Pricing or Bonus-Based Urgency)**
+### **3) Sự khẩn cấp dựa trên Định giá hoặc Quà tặng kèm (Pricing or Bonus-Based Urgency)**
 Đây là một cách khác để tạo ra sự khẩn cấp bằng cách sử dụng chính lời chào hàng hoặc cấu trúc khuyến mãi/định giá làm thứ mà họ có thể bỏ lỡ (khá thông minh!). Nó cho phép các doanh nghiệp bán hàng cho khách hàng quanh năm mà vẫn sử dụng được sự khẩn cấp. Ví dụ: *"Đúng vậy, hãy để bạn bắt đầu ngay hôm nay để bạn có thể tận dụng mức giảm giá mà bạn đã được hưởng. Tôi không chắc chúng tôi sẽ chạy chương trình này trong bao lâu nữa vì chúng tôi thay đổi chúng khoảng 4 tuần một lần hoặc hơn, và đây là một trong những chương trình tốt nhất mà chúng tôi từng thực hiện trong một thời gian dài."*
 
 Điều này tạo ra nỗi sợ bị bỏ lỡ chương trình khuyến mãi (hoặc đợt giảm giá/quà tặng kèm), thay vì sợ mất dịch vụ thực tế của bạn. Sẽ là nói dối nếu bạn nói rằng nếu họ sở hữu một doanh nghiệp lợp mái nhà mà bạn sẽ không phục vụ họ nếu họ mua sau ngày đó. Nhưng nếu bạn nói cụ thể về chương trình khuyến mãi, bạn thường có thể tạo ra sự khẩn cấp tương tự trong tâm trí khách hàng tiềm năng mà vẫn giữ vững được sự trung thực của mình — đây là kịch bản đôi bên cùng có lợi (win-win). Bạn có thể hoán đổi định giá khuyến mãi, giảm giá hoặc thêm các quà tặng kèm như lắp đặt miễn phí, quy trình tiếp nhận miễn phí hoặc một buổi workshop bổ sung (trị giá 1.000 đô la) nếu họ mua ngay bây giờ. Đây là tất cả những thứ bạn có thể xoay vòng xung quanh sản phẩm cốt lõi của mình để tạo ra sự khẩn cấp.
 
----
-**Mẹo chuyên gia - Dọn sạch danh sách chờ của bạn với mỗi lần thay đổi giá:** Nếu bạn thực sự có kế hoạch tăng giá (hy vọng là có nếu bạn đang đọc cuốn sách này!), thì bạn luôn có thể dọn sạch danh sách khách hàng đang do dự bằng cách cho họ biết: "Giá sắp tăng rồi! Hãy tham gia ngay đi!". Đừng bao giờ tăng giá mà không cho mọi người biết. Nó thể hiện một vị thế đầy sức mạnh *và* sẽ mang lại cho bạn một dòng tiền mặt tuyệt vời từ những người đang phân vân trong danh sách chờ của mình.
----
+>**Mẹo chuyên gia - Dọn sạch danh sách chờ của bạn với mỗi lần thay đổi giá:** Nếu bạn thực sự có kế hoạch tăng giá (hy vọng là có nếu bạn đang đọc cuốn sách này!), thì bạn luôn có thể dọn sạch danh sách khách hàng đang do dự bằng cách cho họ biết: "Giá sắp tăng rồi! Hãy tham gia ngay đi!". Đừng bao giờ tăng giá mà không cho mọi người biết. Nó thể hiện một vị thế đầy sức mạnh *và* sẽ mang lại cho bạn một dòng tiền mặt tuyệt vời từ những người đang phân vân trong danh sách chờ của mình.
 
----
+### **4) Cơ hội Bùng nổ (Exploding Opportunity)**
+Đôi khi, bạn sẽ giới thiệu cho khách hàng tiềm năng một cơ hội kinh doanh chênh lệch giá (arbitrage). Bản thân cơ hội đó có một đồng hồ đếm ngược đang tích tắc, giống như tất cả các cơ hội lớn khác. Mỗi giây mà ai đó trì hoãn, họ đang tự đánh mất đi những nguồn lợi nhuận khổng lồ vượt xa mức bình thường.
 
-### Trang 110
-
-**4) Cơ hội Bùng nổ (Exploding Opportunity)**
-Đôi khi, bạn sẽ giới thiệu cho khách hàng tiềm năng một cơ hội kinh doanh chênh lệch giá (arbitrage). Bản thân cơ hội đó có một đồng hồ đếm ngược đang tích tắc, giống như tất cả các cơ hội lớn khác. Mỗi giây mà ai đó trì hoãn, họ sẽ bỏ lỡ những khoản lợi nhuận lớn không tương xứng.
-
-*Ví dụ:* Nếu tôi đang giải thích một cơ hội kinh doanh chênh lệch giá giữa việc mua sản phẩm trên eBay và bán lại trên Amazon, thì sự mất cân bằng thị trường đó sẽ tự điều chỉnh theo thời gian. Một người hành động càng sớm thì kết quả sẽ càng tốt cho họ. Điều này có thể đúng đối với việc bán cho ai đó cơ hội giao dịch tiền điện tử, mua một cổ phiếu, tham gia vào một nền tảng mới để quảng cáo trước khi các đối thủ cạnh tranh nhảy vào cuộc đua. Môi trường làm việc có tính cạnh tranh cao thường có những lời mời làm việc sẽ "bùng nổ" (hết hạn) mỗi ngày họ chờ đợi để nhận việc, mức lương hoặc quà tặng kèm của họ bị giảm đi. Điều này buộc khách hàng tiềm năng phải đưa ra quyết định nhanh chóng thay vì cố gắng "chờ đợi xem" liệu họ có nhận được một lời đề nghị tốt hơn hay không.
+Ví dụ: <br>
+Nếu tôi đang giải thích về một cơ hội ăn chênh lệch giá (arbitrage) giữa việc mua hàng trên eBay và bán lại trên Amazon, thì sự thiếu hiệu quả này của thị trường theo thời gian sẽ tự điều chỉnh lại. Nghĩa là: Một người hành động càng sớm thì kết quả sẽ càng tốt cho họ.<br>
+Điều này cũng hoàn toàn đúng khi bạn thuyết phục ai đó về các cơ hội như: Giao dịch tiền điện tử (crypto), mua một mã cổ phiếu, tham gia vào một nền tảng quảng cáo mới trước khi đối thủ kịp kéo nhau vào "chia phần".<br>
+Trong những môi trường tuyển dụng cực kỳ cạnh tranh, người ta thường đưa ra những "lời đề nghị bùng nổ" (exploding offers): Cứ mỗi ngày ứng viên chần chừ không nhận việc, mức lương hoặc tiền thưởng khởi điểm của họ sẽ bị giảm xuống.<br>
+Điều này ép các khách hàng tiềm năng phải đưa ra quyết định nhanh chóng, thay vì cứ ngồi đó "chờ đợi" để xem liệu họ có tìm được một kèo nào thơm hơn hay không.
 
 Tất cả các ví dụ này đều cho thấy những cơ hội suy giảm theo thời gian, vì vậy nếu bạn thấy mình đang sở hữu một cơ hội như vậy, hãy nhớ nhấn mạnh nó!
 
-**Các điểm Tóm tắt**
+### **Các điểm Tóm tắt**
 Việc thêm một thời hạn và kết hợp một hoặc nhiều hình thức khẩn cấp sẽ khiến nhiều người thực hiện hành động hơn so với việc không có chúng. Tôi đã áp dụng cả bốn phương pháp này với hiệu quả rất cao. Tôi khuyên bạn cũng nên làm như vậy. Tiếp theo sẽ là... Quà tặng kèm (Bonuses)!
 
----
-**QUÀ TẶNG MIỄN PHÍ #7: Video hướng dẫn Quà tặng: Cách sử dụng Sự khan hiếm & Sự khẩn cấp một cách có đạo đức**
-Nếu bạn muốn cùng tôi đi sâu vào một số ví dụ thực tế (có đạo đức) về sự khan hiếm & sự khẩn cấp, hãy truy cập `Acquisition.com/training/offers` và chọn "Scarcity & Urgency" để xem một video hướng dẫn ngắn. Bạn cũng có thể tải về **Danh sách kiểm tra Sự khan hiếm và Khẩn cấp** mà tôi sử dụng khi tạo ra các lời chào hàng. Như mọi khi, nó hoàn toàn miễn phí. Hãy tận hưởng nhé.
----
+>**QUÀ TẶNG MIỄN PHÍ #7: Video hướng dẫn Quà tặng: Cách sử dụng Sự khan hiếm & Sự khẩn cấp một cách có đạo đức**<br>
+>Nếu bạn muốn cùng tôi đi sâu vào một số ví dụ thực tế (có đạo đức) về sự khan hiếm & sự khẩn cấp, hãy truy cập `Acquisition.com/training/offers` và chọn "Scarcity & Urgency" để xem một video hướng dẫn ngắn. Bạn cũng có thể tải về **Danh sách kiểm tra Sự khan hiếm và Khẩn cấp** mà tôi sử dụng khi tạo ra các lời chào hàng. Như mọi khi, nó hoàn toàn miễn phí. Hãy tận hưởng nhé.
 
+## *14. NÂNG CẤP LỜI CHÀO HÀNG: QUÀ TẶNG KÈM (BONUSES)*
 
-### Trang 112
+>*"Tất cả đều là thêm thắt thôi mà"* — DỰA TRÊN MỘT CÂU NGÔN NGỮ TIẾNG ANH CỔ.
 
-# NÂNG CẤP LỜI CHÀO HÀNG: QUÀ TẶNG KÈM (BONUSES)
+![](../images/04/09.png)
 
-*"Tất cả đều là thêm thắt thôi mà"*
-— DỰA TRÊN MỘT CÂU NGÔN NGỮ TIẾNG ANH CỔ.
-
----
-
-[Hình ảnh: SPLINTER STACK (CHỒNG LỚP MẢNH LẺ)
-A) SẢN PHẨM -> QUÀ TẶNG KÈM
-B) DỊCH VỤ -> QUÀ TẶNG KÈM
-C) NHU CẦU LOGIC TIẾP THEO -> QUÀ TẶNG KÈM
-
-SƠ ĐỒ: DỊCH VỤ HIỆN TẠI (Một khối rắc rối) => LỜI CHÀO HÀNG VƯỢT TRỘI (Từng khối riêng biệt được xếp chồng lại)]
-
-Tôi phải gửi lời cảm ơn đặc biệt đến Jason Fladlien vì đã giúp tôi có cái nhìn mới về giá trị của quà tặng kèm. Chúng mạnh mẽ đến nỗi đáng được dành riêng một chương. Trong chương này, tôi sẽ trình bày: nên tặng gì, cách chọn chúng, cách định giá chúng, cách trình bày chúng và cách định giá chúng.
+Tôi phải gửi lời cảm ơn đặc biệt đến Jason Fladlien vì đã giúp tôi có cái nhìn mới về giá trị của quà tặng kèm. Chúng mạnh mẽ đến nỗi đáng được dành riêng một chương. Trong chương này, tôi sẽ trình bày: nên tặng gì, cách chọn chúng, cách để làm chúng trở nên giá trị, cách trình bày chúng và cách chúng được định giá.
 
 Điểm mấu chốt mà tôi muốn bạn rút ra là: **một lời chào hàng đơn lẻ sẽ kém giá trị hơn so với chính lời chào hàng đó được chia nhỏ thành các thành phần và xếp chồng lại dưới dạng quà tặng kèm** (xem hình ảnh). Toàn bộ nội dung lời chào hàng mà chúng ta đã xây dựng ở cuối phần trước sẽ được trình bày theo trình tự đó. Ví dụ, thực tế tôi có thể làm rất nhiều việc trong dịch vụ của mình, nhưng cho đến khi tôi liệt kê chúng ra từng cái một, khách hàng sẽ không biết tới chúng. Đây là lý do tại sao mọi quảng cáo trên truyền hình từ trước đến nay luôn tiếp tục với câu: "Nhưng khoan... vẫn còn nữa!"
 
-Họ sẽ không sử dụng những kỹ thuật này trừ khi chúng hiệu quả, vì mỗi giây lên sóng đều tốn tiền và phải được chứng minh bằng tỷ suất hoàn vốn (ROI). Bạn cũng sẽ nhận thấy rằng nếu bạn xem những quảng cáo cũ đó, họ sẽ bán một chiếc dao với giá 38,95 đô la, sau đó tặng kèm thêm 37 chiếc dao khác, dụng cụ mài dao, chảo, và các cam kết bảo hành để khiến khách hàng phải "khuất phục". Họ thiết lập một mức giá, sau đó mở rộng thêm cho đến khi bạn cảm thấy *đây là một món hời đến mức nếu bỏ qua thì thật là ngớ ngẩn.*
+Họ sẽ không sử dụng những kỹ thuật này trừ khi chúng hiệu quả, vì mỗi giây lên sóng đều tốn tiền và phải được chứng minh bằng tỷ suất hoàn vốn (ROI). Bạn cũng sẽ nhận thấy rằng nếu bạn xem những quảng cáo cũ đó, họ sẽ bán một con dao với giá 38,95 đô la, sau đó tặng kèm thêm 37 con dao khác, dụng cụ mài dao, chảo, và các cam kết bảo hành để khiến khách hàng phải "khuất phục". Họ thiết lập một mức giá, sau đó mở rộng thêm cho đến khi bạn cảm thấy *đây là một món hời đến mức nếu bỏ qua thì thật là ngớ ngẩn.*
 
 Lý do điều này hiệu quả là vì chúng ta đang gia tăng sự chênh lệch giữa giá cả và giá trị của khách hàng tiềm năng bằng cách tăng giá trị mang lại thay vì giảm giá bán. Chúng ta "neo" giá vào lời chào hàng cốt lõi. Sau đó, với mỗi món quà tặng kèm ngày càng giá trị, sự chênh lệch đó ngày càng rộng ra cho đến khi nó trở nên quá lớn và chúng ta "bẻ gãy" sợi dây thun trong tâm trí khách hàng vốn đang giữ ví tiền của họ lại.
 
 Bây giờ chúng ta sẽ trình bày "chồng lớp" của các hạng mục cung ứng mà chúng ta đã tập hợp từ trước theo một cách khiến chúng trở nên không thể cưỡng lại.
 
----
-**Mẹo chuyên gia: Thêm Quà tặng kèm thay vì Giảm giá bất cứ khi nào có thể cho Lời chào hàng Cốt lõi**
-Bất cứ khi nào cố gắng chốt một thương vụ, đừng bao giờ giảm giá lời chào hàng chính. Nó dạy cho khách hàng rằng giá của bạn có thể thương lượng (điều đó thật tệ hại). Thêm quà tặng kèm để tăng giá trị nhằm chốt giao dịch là phương pháp vượt trội hơn nhiều so với việc cắt giảm giá. Nó đặt bạn vào vị thế của sức mạnh và thiện chí thay vì sự yếu đuối.
----
+>**Mẹo chuyên gia: Thêm Quà tặng kèm thay vì Giảm giá bất cứ khi nào có thể cho Lời chào hàng Cốt lõi**<br>
+>Bất cứ khi nào cố gắng chốt một thương vụ, đừng bao giờ giảm giá lời chào hàng chính. Nó dạy cho khách hàng rằng giá của bạn có thể thương lượng (điều đó thật tệ hại). Thêm quà tặng kèm để tăng giá trị nhằm chốt giao dịch là phương pháp vượt trội hơn nhiều so với việc cắt giảm giá. Nó đặt bạn vào vị thế của sức mạnh và thiện chí thay vì sự yếu đuối.
 
-**Trình bày Quà tặng kèm 1-kèm-1 so với Bán hàng theo Nhóm**
+### **Trình bày Quà tặng kèm 1-kèm-1 so với Bán hàng theo Nhóm**
 Có những sự khác biệt then chốt giữa việc thuyết phục một nhóm người so với một cá nhân duy nhất. Bán hàng theo nhóm nằm ngoài phạm vi của cuốn sách này. Nhưng tôi muốn ít nhất đề cập đến thời điểm đưa quà tặng kèm vào trong kịch bản bán hàng 1-kèm-1. Khi bán hàng 1-kèm-1, bạn hãy **hỏi mua hàng trước**, trước khi đưa ra các quà tặng kèm. Nếu họ nói có, thì sau đó, sau khi họ đã ký hợp đồng, bạn hãy cho họ biết về các món quà tặng kèm *bổ sung* mà họ sẽ nhận được. Điều này tạo ra một trải nghiệm "Wow" và củng cố quyết định mua hàng của họ.
 
 Mặt khác, nếu người đó *không* mua sau lần hỏi đầu tiên, thì bạn hãy đưa ra một món quà tặng kèm phù hợp với trở ngại mà họ đang cảm thấy, sau đó hỏi mua hàng lại lần nữa. Đừng cảm thấy kỳ quặc khi hỏi lại. Bạn chỉ đơn giản là đồng ý với khách hàng tiềm năng, thêm quà tặng vào, và hỏi xem sự bù đắp này đã "đủ công bằng" chưa. Mọi người thường rất khó từ chối sự có đi có lại (reciprocity), vì vậy việc thêm một món quà tặng để điều chỉnh, sau đó là một món khác, rồi một món khác nữa, sẽ khiến khách hàng cảm thấy gần như có nghĩa vụ phải mua của bạn.
 
----
+Nếu bạn xem lại chương "Cắt tỉa và Chồng lớp", mỗi hạng mục cung ứng giờ đây đang được "vũ khí hóa" và trình bày đúng thời điểm. Dù sao thì chúng ta cũng định đưa tất cả các quà tặng kèm này cho họ, nhưng việc làm này giúp khách hàng cảm nhận được giá trị lời chào hàng của chúng ta tăng lên bằng cách xếp chồng từng món quà một tại một thời điểm.
 
-### Trang 113
 
-Nếu bạn nhớ lại chương "Cắt tỉa và Chồng lớp", mỗi hạng mục cung ứng giờ đây đang được "vũ khí hóa" và trình bày đúng thời điểm. Dù sao thì chúng ta cũng định đưa tất cả các quà tặng kèm này cho họ, nhưng việc làm này giúp khách hàng cảm nhận được giá trị lời chào hàng của chúng ta tăng lên bằng cách xếp chồng từng món quà một tại một thời điểm.
+# TODO - 113
 
-**Các gạch đầu dòng Quà tặng kèm (Bonus Bullets)**
+### **Các gạch đầu dòng Quà tặng kèm (Bonus Bullets)**
 Có một vài điểm mấu chốt cần nhớ khi đưa ra quà tặng kèm:
 1. Luôn đưa chúng ra (bạn có thể sử dụng danh sách các hạng mục mà chúng ta đã xây dựng ở cuối Phần III).
 2. Đặt cho chúng một cái tên đặc biệt có chứa lợi ích ngay trong tiêu đề.
 3. Nói cho họ biết:
-    a) Nó liên quan như thế nào đến vấn đề của họ.
-    b) Nó là cái gì.
-    c) Bạn đã khám phá ra nó như thế nào, hoặc bạn đã phải làm gì để tạo ra nó.
-    d) Nó cụ thể sẽ cải thiện cuộc sống hoặc trải nghiệm của họ như thế nào.
-        i) Nhanh hơn, dễ dàng hơn hoặc ít công sức/hy sinh hơn (phương trình giá trị).
+    * a. Nó liên quan như thế nào đến vấn đề của họ.
+    * b. Nó là cái gì.
+    * c. Bạn đã khám phá ra nó như thế nào, hoặc bạn đã phải làm gì để tạo ra nó.
+    * d. Nó cụ thể sẽ cải thiện cuộc sống hoặc trải nghiệm của họ như thế nào.
+    * i. Nhanh hơn, dễ dàng hơn hoặc ít công sức/hy sinh hơn (phương trình giá trị).
 4. Cung cấp một số bằng chứng (có thể là một con số thống kê, một khách hàng cũ, hoặc trải nghiệm cá nhân) để chứng minh rằng thứ này là giá trị.
 5. Vẽ ra một hình ảnh sống động trong tâm trí về cuộc sống của họ sẽ như thế nào *khi giả định* rằng họ đã sử dụng nó và đang tận hưởng các lợi ích.
 6. Luôn gắn một nhãn giá cho chúng và giải thích tại sao nó xứng đáng với giá đó.
@@ -347,11 +329,7 @@ Có một vài điểm mấu chốt cần nhớ khi đưa ra quà tặng kèm:
 **b) Quà tặng kèm với Sự khẩn cấp**
 *Phiên bản 1:* Nếu bạn mua ngay hôm nay, tôi sẽ tặng thêm quà tặng XYZ thường có giá 1.000 đô la, hoàn toàn miễn phí. Và tôi làm điều đó vì tôi muốn thưởng cho những người hành động nhanh.
 
----
-
-### Trang 114
-
-Với hy vọng rằng bạn có thể thấy được những sự khác biệt tinh tế. Hai ví dụ đầu tiên không bị giới hạn bởi thời gian. Chúng tuyên bố rằng nếu bạn mua chương trình này, bạn sẽ nhận được những thứ mà bạn thường không thể có được. Quà tặng kèm với sự khẩn cấp là về việc mua *ngay hôm nay*, và nếu họ không mua hôm nay, họ sẽ mất những quà tặng đó. Khác biệt nhỏ, nhưng đáng để lưu tâm.
+c) Với hy vọng rằng bạn có thể thấy được những sự khác biệt tinh tế. Hai ví dụ đầu tiên không bị giới hạn bởi thời gian. Chúng tuyên bố rằng nếu bạn mua chương trình này, bạn sẽ nhận được những thứ mà bạn thường không thể có được. Quà tặng kèm với sự khẩn cấp là về việc mua *ngay hôm nay*, và nếu họ không mua hôm nay, họ sẽ mất những quà tặng đó. Khác biệt nhỏ, nhưng đáng để lưu tâm.
 
 **Quà tặng kèm ở Cấp độ Nâng cao - Sản phẩm và Dịch vụ của Người khác**
 Bạn có thể liên kết với các doanh nghiệp khác để họ cung cấp cho bạn dịch vụ và sản phẩm của họ dưới dạng một phần trong quà tặng kèm của bạn, đổi lại bạn sẽ giúp họ tiếp cận với các khách hàng của mình miễn phí. Đây là marketing miễn phí cho họ, và là những sản phẩm giá trị cao cho bạn với chi phí bằng không. Các doanh nghiệp sẽ làm điều này vì bạn đang cho họ quyền tiếp cận miễn phí với những khách hàng tiềm năng chất lượng cao nhất — chính là khách hàng của bạn. Miễn là họ không phải là đối thủ cạnh tranh trực tiếp, bạn có thể nhận được một số "điểm cộng", đảm bảo các quyền lợi giới thiệu trong tương lai, và làm cho lời chào hàng của mình giá trị hơn vào cùng một thời điểm. Nếu bạn đảm bảo đủ các mối quan hệ này, bạn có thể thực sự chứng minh toàn bộ mức giá của mình chỉ bằng số tiền tiết kiệm được và các quà tặng thêm có giá trị tương ứng thực tế.
