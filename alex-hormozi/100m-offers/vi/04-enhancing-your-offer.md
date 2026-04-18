@@ -300,274 +300,314 @@ Mặt khác, nếu người đó *không* mua sau lần hỏi đầu tiên, thì
 
 Nếu bạn xem lại chương "Cắt tỉa và Chồng lớp", mỗi hạng mục cung ứng giờ đây đang được "vũ khí hóa" và trình bày đúng thời điểm. Dù sao thì chúng ta cũng định đưa tất cả các quà tặng kèm này cho họ, nhưng việc làm này giúp khách hàng cảm nhận được giá trị lời chào hàng của chúng ta tăng lên bằng cách xếp chồng từng món quà một tại một thời điểm.
 
+**Quà tặng kèm: Các điểm lưu ý nhanh**
 
-# TODO - 113
-
-### **Các gạch đầu dòng Quà tặng kèm (Bonus Bullets)**
 Có một vài điểm mấu chốt cần nhớ khi đưa ra quà tặng kèm:
-1. Luôn đưa chúng ra (bạn có thể sử dụng danh sách các hạng mục mà chúng ta đã xây dựng ở cuối Phần III).
+1. Luôn đưa chúng ra (Bạn có thể sử dụng nhóm các ý gạch đầu dòng mà chúng ta đã thống nhất ở cuối Phần III.).
 2. Đặt cho chúng một cái tên đặc biệt có chứa lợi ích ngay trong tiêu đề.
 3. Nói cho họ biết:
     * a. Nó liên quan như thế nào đến vấn đề của họ.
     * b. Nó là cái gì.
     * c. Bạn đã khám phá ra nó như thế nào, hoặc bạn đã phải làm gì để tạo ra nó.
     * d. Nó cụ thể sẽ cải thiện cuộc sống hoặc trải nghiệm của họ như thế nào.
-    * i. Nhanh hơn, dễ dàng hơn hoặc ít công sức/hy sinh hơn (phương trình giá trị).
+        * Nhanh hơn, dễ dàng hơn hoặc ít công sức/hy sinh hơn (phương trình giá trị).
 4. Cung cấp một số bằng chứng (có thể là một con số thống kê, một khách hàng cũ, hoặc trải nghiệm cá nhân) để chứng minh rằng thứ này là giá trị.
 5. Vẽ ra một hình ảnh sống động trong tâm trí về cuộc sống của họ sẽ như thế nào *khi giả định* rằng họ đã sử dụng nó và đang tận hưởng các lợi ích.
 6. Luôn gắn một nhãn giá cho chúng và giải thích tại sao nó xứng đáng với giá đó.
 7. Các công cụ & danh sách kiểm tra tốt hơn là các khóa đào tạo bổ sung (vì công sức và thời gian bỏ ra cho các công cụ này thấp hơn, nên giá trị cao hơn). Phương trình giá trị vẫn luôn là quy luật tối cao.
 8. Mỗi quà tặng kèm nên giải quyết một lo ngại/trở ngại cụ thể trong tâm trí khách hàng tiềm năng về việc tại sao họ không thể hoặc sẽ không thành công (quà tặng kèm nên chứng minh rằng niềm tin của họ là sai).
-9. Đây cũng có thể là những gì họ sẽ nhận ra một cách logic rằng họ sẽ cần tiếp theo. Bạn muốn giải quyết vấn đề tiếp theo của họ *trước khi* họ gặp phải nó.
+9. Đây cũng có thể là thứ mà khách hàng nhận ra theo logic tự nhiên rằng mình cần gì tiếp theo. Bạn muốn giải quyết vấn đề tiếp theo của họ *trước khi* họ gặp phải nó.
 10. Giá trị của các quà tặng kèm nên làm lu mờ giá trị của lời chào hàng cốt lõi. Về mặt tâm lý, khi bạn tiếp tục thêm các lời chào hàng, nó sẽ tiếp tục mở rộng sự chênh lệch giữa giá trị và giá cả. Nó cũng truyền đạt một cách tiềm thức rằng lời chào hàng cốt lõi *phải* thực sự giá trị bởi vì nếu đây là những món tặng kèm, thì món chính chắc chắn phải giá trị hơn quà tặng đúng không? (Không hẳn, nhưng bạn có thể sử dụng thiên kiến tâm lý này để làm cho lời chào hàng của mình trở nên vô cùng hấp dẫn).
 11. Bạn có thể nâng cao hơn nữa giá trị của các quà tặng kèm bằng cách thêm chính sự khan hiếm và khẩn cấp vào các món quà đó (điều này giống như đưa kỹ thuật này lên tầm cao mới).
 
-**a) Quà tặng kèm với Sự khan hiếm**
-*Phiên bản 1:* Chỉ những người đăng ký chương trình XYZ mới có quyền truy cập vào Quà tặng #1, 2, 3 của tôi, vốn không bao giờ được bán lẻ hay có sẵn ở bất kỳ nơi nào khác ngoài chương trình này.
-*Phiên bản 2:* Tôi còn 3 vé cuối cùng cho sự kiện ảo trị giá 5.000 đô la của mình, nếu bạn mua chương trình này, bạn có thể nhận được một trong 3 vé cuối cùng đó dưới dạng quà tặng kèm.
+    a. <u>Quà tặng kèm với Sự khan hiếm</u><br>
+        &emsp;* *Phiên bản 1:* Chỉ những người đăng ký chương trình XYZ mới có quyền truy cập vào Quà tặng #1, 2, 3 của tôi, vốn không bao giờ được bán lẻ hay có sẵn ở bất kỳ nơi nào khác ngoài chương trình này.<br>
+        &emsp;* *Phiên bản 2:* Tôi còn 3 vé cuối cùng cho sự kiện ảo trị giá 5.000 đô la của mình, nếu bạn mua chương trình này, bạn có thể nhận được một trong 3 vé cuối cùng đó dưới dạng quà tặng kèm.
 
-**b) Quà tặng kèm với Sự khẩn cấp**
-*Phiên bản 1:* Nếu bạn mua ngay hôm nay, tôi sẽ tặng thêm quà tặng XYZ thường có giá 1.000 đô la, hoàn toàn miễn phí. Và tôi làm điều đó vì tôi muốn thưởng cho những người hành động nhanh.
+    b. <u>Quà tặng kèm với Sự khẩn cấp</u><br>
+        &emsp;*Phiên bản 1:* Nếu bạn mua ngay hôm nay, tôi sẽ tặng thêm quà tặng XYZ thường có giá 1.000 đô la, hoàn toàn miễn phí. Và tôi làm điều đó vì tôi muốn thưởng cho những người hành động nhanh.
 
-c) Với hy vọng rằng bạn có thể thấy được những sự khác biệt tinh tế. Hai ví dụ đầu tiên không bị giới hạn bởi thời gian. Chúng tuyên bố rằng nếu bạn mua chương trình này, bạn sẽ nhận được những thứ mà bạn thường không thể có được. Quà tặng kèm với sự khẩn cấp là về việc mua *ngay hôm nay*, và nếu họ không mua hôm nay, họ sẽ mất những quà tặng đó. Khác biệt nhỏ, nhưng đáng để lưu tâm.
+    c. Với hy vọng rằng bạn có thể thấy được những sự khác biệt tinh tế. Hai ví dụ đầu tiên không bị giới hạn bởi thời gian. Chúng tuyên bố rằng nếu bạn mua chương trình này, bạn sẽ nhận được những thứ mà bạn thường không thể có được. Quà tặng kèm với sự khẩn cấp là về việc mua *ngay hôm nay*, và nếu họ không mua hôm nay, họ sẽ mất những quà tặng đó. Khác biệt nhỏ, nhưng đáng để lưu tâm.
 
 **Quà tặng kèm ở Cấp độ Nâng cao - Sản phẩm và Dịch vụ của Người khác**
+
 Bạn có thể liên kết với các doanh nghiệp khác để họ cung cấp cho bạn dịch vụ và sản phẩm của họ dưới dạng một phần trong quà tặng kèm của bạn, đổi lại bạn sẽ giúp họ tiếp cận với các khách hàng của mình miễn phí. Đây là marketing miễn phí cho họ, và là những sản phẩm giá trị cao cho bạn với chi phí bằng không. Các doanh nghiệp sẽ làm điều này vì bạn đang cho họ quyền tiếp cận miễn phí với những khách hàng tiềm năng chất lượng cao nhất — chính là khách hàng của bạn. Miễn là họ không phải là đối thủ cạnh tranh trực tiếp, bạn có thể nhận được một số "điểm cộng", đảm bảo các quyền lợi giới thiệu trong tương lai, và làm cho lời chào hàng của mình giá trị hơn vào cùng một thời điểm. Nếu bạn đảm bảo đủ các mối quan hệ này, bạn có thể thực sự chứng minh toàn bộ mức giá của mình chỉ bằng số tiền tiết kiệm được và các quà tặng thêm có giá trị tương ứng thực tế.
 
-*Ví dụ:* Nếu tôi sở hữu một phòng khám giảm đau, tôi có thể mời một chuyên viên massage tặng cho tôi 1-2 buổi massage miễn phí để đưa vào lời chào hàng của mình. Thêm vào đó, tôi có thể nhận được:
-- ...một bác sĩ chỉnh nắn cột sống tặng cho khách hàng hai buổi căn chỉnh miễn phí. (Trị giá: 100 đô la)
-- ...một công ty thực phẩm thực dưỡng tặng mã giảm giá cho các sản phẩm của họ (Tiết kiệm được 50 đô la)
-- ...giảm giá cho các dịch vụ niềng răng và chỉnh hình răng (Tiết kiệm được 150 đô la)
-- ...một câu lạc bộ sức khỏe địa phương ngay dưới phố tặng một buổi tập cá nhân miễn phí và một tháng thành viên miễn phí tại hồ bơi của họ (Trị giá 100 đô la)
-- ...giảm giá dược phẩm từ hiệu thuốc địa phương (Tiết kiệm được 100 đô la/tháng)
-- ...lặp lại những điều trên cho nhiều nhà cung cấp dịch vụ khác (ví dụ tôi có mười bác sĩ chỉnh nắn cột sống, mỗi người tặng một buổi điều chỉnh miễn phí, giờ đây tôi có mười buổi điều chỉnh miễn phí trong gói quà tặng của mình).
-- ...v.v.
+*Ví dụ:* Nếu tôi sở hữu một phòng khám giảm đau, tôi có thể mời một chuyên viên massage tặng cho tôi 1-2 buổi massage miễn phí để đưa vào lời chào hàng của mình. Thêm vào đó, tôi có thể nhận được:<br>
+&emsp;...một bác sĩ chỉnh nắn cột sống tặng cho khách hàng hai buổi căn chỉnh miễn phí. (Trị giá: 100 đô la)<br>
+&emsp;...một công ty thực phẩm thực dưỡng tặng mã giảm giá cho các sản phẩm của họ (Tiết kiệm được 50 đô la)<br>
+&emsp;...giảm giá cho các dịch vụ niềng răng và chỉnh hình răng (Tiết kiệm được 150 đô la)<br>
+&emsp;...một câu lạc bộ sức khỏe địa phương ngay dưới phố tặng một buổi tập cá nhân miễn phí và một tháng thành viên miễn phí tại hồ bơi của họ (Trị giá 100 đô la)<br>
+&emsp;...giảm giá dược phẩm từ hiệu thuốc địa phương (Tiết kiệm được 100 đô la/tháng)<br>
+&emsp;...lặp lại những điều trên cho nhiều nhà cung cấp dịch vụ khác (ví dụ tôi có mười bác sĩ chỉnh nắn cột sống, mỗi người tặng một buổi điều chỉnh miễn phí, giờ đây tôi có mười buổi điều chỉnh miễn phí trong gói quà tặng của mình).<br>
+&emsp;...v.v.
 
 Bây giờ nếu lời chào hàng của tôi là 400 đô la, thì chỉ riêng giá trị của những quà tặng kèm miễn phí này đã cao hơn mức giá 400 đô la đó rồi.
+
 Nếu điều đó vẫn chưa đủ tuyệt vời, nếu bạn thực sự muốn trở thành một bậc thầy, hãy thương lượng một mức giảm giá cho nhóm *và* một khoản hoa hồng cho chính bạn. Đây chính xác là những gì chúng tôi đã làm với công ty thực phẩm bổ sung của mình. Những khách hàng là chủ phòng gym sử dụng công ty thực phẩm bổ sung Prestige Labs của chúng tôi sẽ được giảm giá 30% cho các sản phẩm, đồng thời chủ phòng gym đó còn được nhận 40% doanh số được chuyển khoản sau khi đã áp dụng giảm giá.
 
 Vì vậy, đây là kịch bản đôi bên cùng có lợi cho tất cả mọi người. Khách hàng của họ mua được hàng với giá rẻ hơn 30% so với trang web chính. Chủ phòng gym được trả tiền vì đã trao đi các mức giảm giá độc quyền. Và chúng tôi có thêm khách hàng để đổi lấy khoản hoa hồng đã chi trả. Mọi người đều thắng.
+
 Nếu bạn đang làm theo, mỗi món quà tặng kèm này có thể trở thành dòng doanh thu gián tiếp cho bạn bằng cách khiến khách hàng nói "CÓ" dễ dàng hơn, và trực tiếp vì bạn có thể thương lượng để mỗi doanh nghiệp này trả tiền cho bạn vì những người bạn đã gửi đến cho họ.
 
-Giả sử chúng ta cũng đã thương lượng được các "hoa hồng chuyển đổi" (affiliate commissions) sau đây khi giới thiệu khách hàng đến các doanh nghiệp này:
-- ...bác sĩ chỉnh cột sống trả cho bạn 100 đô la cho mỗi người đến phòng khám của họ.
-- ...công ty thực phẩm tặng bạn đồ ăn miễn phí (Ngon!).
-- ...công ty chỉnh hình răng trả cho bạn 100 đô la cho mỗi người được giới thiệu.
-- ...câu lạc bộ sức khỏe tặng bạn tư cách thành viên miễn phí HOẶC 50 đô la cho mỗi người đăng ký.
-- ...hiệu thuốc trả cho bạn 100 đô la cho mỗi người.
+Giả sử chúng ta cũng đã thương lượng được các "hoa hồng chuyển đổi" (affiliate commissions) sau đây khi giới thiệu khách hàng đến các doanh nghiệp này:<br>
+&emsp;...bác sĩ chỉnh cột sống trả cho bạn 100 đô la cho mỗi người đến phòng khám của họ.<br>
+&emsp;...công ty thực phẩm tặng bạn đồ ăn miễn phí (Ngon!).<br>
+&emsp;...công ty chỉnh hình răng trả cho bạn 100 đô la cho mỗi người được giới thiệu.<br>
+&emsp;...câu lạc bộ sức khỏe tặng bạn tư cách thành viên miễn phí HOẶC 50 đô la cho mỗi người đăng ký.<br>
+&emsp;...hiệu thuốc trả cho bạn 100 đô la cho mỗi người.
 
-Bây giờ hãy nhìn vào số tiền mà chúng ta đã kiếm được... lời chào hàng 400 đô la của chúng ta hiện có khả năng mang về thêm 350 đô la... **lợi nhuận thuần túy!** Đó chính là vẻ đẹp của những mối quan hệ này. Các doanh nghiệp khác sẽ trả tiền cho bạn và bạn không phải làm *bất cứ điều gì* ngoài việc giới thiệu
+Bây giờ hãy nhìn vào số tiền mà chúng ta đã kiếm được... lời chào hàng 400 đô la của chúng ta hiện có khả năng mang về thêm 350 đô la... **lợi nhuận thuần túy!** Đó chính là vẻ đẹp của những mối quan hệ này. Các doanh nghiệp khác sẽ trả tiền cho bạn và bạn không phải làm *bất cứ điều gì* ngoài việc giới thiệu khách hàng cho họ — chính là những khách hàng mà bạn đã tốn tiền để có được.
 
----
-
-### Trang 115
-
-khách hàng cho họ — chính là những khách hàng mà bạn đã tốn tiền để có được.
 Và nếu bạn thực sự muốn trở nên "điên rồ" hơn, hãy tạo ra một lời chào hàng Grand Slam với những doanh nghiệp đối tác này bằng cách sử dụng chính các khái niệm trong cuốn sách để làm cho quà tặng kèm trờ nên giá trị hơn nhiều so với một dịch vụ phổ thông bình thường.
 
----
-**QUÀ TẶNG MIỄN PHÍ #8: QUÀ TẶNG KÈM... TRÊN CÁC QUÀ TẶNG KÈM**
-Có hàng triệu cách để sử dụng quà tặng kèm trong lời chào hàng của bạn. Bạn có thể khiến mọi người hành động nhanh hơn. Bạn có thể neo giá và neo sản phẩm (những điều ít được biết tới). Bạn có thể thu hút được nhiều người nói có hơn nếu không thì họ đã nói không. Nếu bạn muốn cùng tôi đi sâu vào chủ đề này, hãy truy cập `Acquisition.com/training/offers` và chọn "Bonus Creation" để xem một video hướng dẫn ngắn. Tôi cũng có một **Bản danh sách kiểm tra Quà tặng kèm Miễn phí** mà tôi thường dùng khi tạo lời chào hàng. Hãy áp dụng nó cho doanh nghiệp của bạn nhé!
----
+>**QUÀ TẶNG MIỄN PHÍ #8: QUÀ TẶNG KÈM... TRÊN CÁC QUÀ TẶNG KÈM**<br>
+>Có hàng triệu cách để sử dụng quà tặng kèm trong lời chào hàng của bạn. Bạn có thể khiến mọi người hành động nhanh hơn. Bạn có thể neo giá và neo sản phẩm (những điều ít được biết tới). Bạn có thể thu hút được nhiều người nói có hơn nếu không thì họ đã nói không. Nếu bạn muốn cùng tôi đi sâu vào chủ đề này, hãy truy cập `Acquisition.com/training/offers` và chọn "Bonus Creation" để xem một video hướng dẫn ngắn. Tôi cũng có một **Bản danh sách kiểm tra Quà tặng kèm Miễn phí** mà tôi thường dùng khi tạo lời chào hàng. Hãy áp dụng nó cho doanh nghiệp của bạn nhé!
 
-**Tóm tắt**
+### **Tóm tắt**
 Chúng ta muốn áp dụng quà tặng kèm bởi vì chúng mở rộng sự chênh lệch giữa giá cả và giá trị, đồng thời thúc đẩy những người vốn dĩ sẽ không mua hàng phải thực hiện việc mua hàng. Chúng làm gia tăng đáng kể nhận thức của khách hàng tiềm năng về giá trị lời chào hàng của chúng ta. Vì vậy, đây là những gì cần làm:
-
-1. Tạo ra các danh sách kiểm tra (checklists), công cụ, kịch bản mẫu (scripts), biểu mẫu (templates) và bất cứ thứ gì khác có thể tốn nhiều thời gian và công sức để khách hàng tự tạo ra, nhưng lại dễ dàng sử dụng sau khi đã được tạo xong. Bất cứ thứ gì bạn có thể đầu tư một lần mà rõ ràng là tiết kiệm thời gian hoặc tiền lãi cho khách hàng, nhưng có thể cho đi mãi mãi, đều là ứng cử viên hoàn hảo cho một món quà tặng kèm.
+1. Hãy tạo ra các bảng kiểm (checklists), công cụ (tools), tài liệu mẫu (swipe files), kịch bản (scripts), biểu mẫu (templates) hoặc bất cứ thứ gì tốn nhiều thời gian và công sức để tự xây dựng, nhưng lại dễ dàng sử dụng sau khi đã hoàn thành. Bất cứ điều gì bạn chỉ cần đầu tư một lần—rõ ràng là tốn kém thời gian hoặc tiền bạc để tạo ra—nhưng có thể tặng đi vô số lần, đều là lựa chọn hoàn hảo cho một phần quà tặng thêm (bonus).
 2. Ngoài ra, hãy tập thói quen ghi lại mọi buổi workshop, mọi buổi webinar, mọi sự kiện, mọi cuộc phỏng vấn và sử dụng chúng thành các quà tặng kèm bổ sung (khi cần thiết để dập tắt một trở ngại cảm nhận được).
-3. Chủ động thương lượng mức giảm giá nhóm và hoa hồng giới thiệu với các doanh nghiệp phụ trợ mà khách hàng của bạn sẽ cần tới nhờ việc bắt đầu quy trình này với bạn. Điều tiếp theo mà họ khao khát một cách tự nhiên là gì? Hãy kết nối với các doanh nghiệp đó, giành lấy một thỏa thuận cho khách hàng mà họ không bao giờ có thể tự mình đạt được (vì bạn đang thương lượng với sức mạnh mua hàng của tất cả khách hàng cùng một lúc, điều này rất quyền lực).
+3. Hãy chủ động thương lượng các chương trình giảm giá theo nhóm và hoa hồng giới thiệu với các doanh nghiệp liên quan—những nơi có thể giải quyết các nhu cầu phát sinh của khách hàng sau khi họ bắt đầu làm việc với bạn. Điều tiếp theo mà họ muốn theo lẽ tự nhiên là gì? Hãy tìm đến các doanh nghiệp đó, giành lấy cho khách hàng của mình một ưu đãi mà họ không bao giờ có thể tự mình đạt được (bởi vì bạn đang thương lượng bằng sức mạnh mua sắm của toàn bộ khách hàng của mình cùng một lúc, điều này cực kỳ quyền năng).
 
----
-**Ghi chú của Tác giả:** Càng kinh doanh lâu, bạn càng có nhiều tài sản giá trị này để sử dụng. Tất cả chúng đều giá trị. Hãy cất chúng vào một "kho báu" và sẵn sàng lấy ra để đưa vào một lời chào hàng nhằm chốt giao dịch. Các sản phẩm thông tin hoạt động rất tốt ở đây vì chúng có giá trị cảm nhận cao, chi phí thấp và không tốn công sức vận hành ngoài việc cung cấp thêm một tài khoản đăng nhập. Vé đi xem các sự kiện trải nghiệm hoặc sự kiện ảo cũng rất hiệu quả. Điều tương tự cũng xảy ra đối với các cấp độ dịch vụ cao hơn có chi phí cố định thấp như việc tặng cho ai đó một tháng dịch vụ VIP (vốn cũng đóng vai trò là một cách để bán thêm họ vào cấp độ dịch vụ đó để giữ chân họ ở lại... chúng ta sẽ nói thêm về điều đó trong Cuốn II).
----
+>**Ghi chú của Tác giả:** Càng kinh doanh lâu, bạn càng có nhiều tài sản giá trị này để sử dụng. Tất cả chúng đều giá trị. Hãy cất chúng vào một "kho báu" và sẵn sàng lấy ra để đưa vào một lời chào hàng nhằm chốt giao dịch. Các sản phẩm thông tin hoạt động rất tốt ở đây vì chúng có giá trị cảm nhận cao, chi phí thấp và không tốn công sức vận hành ngoài việc cung cấp thêm một tài khoản đăng nhập. Vé đi xem các sự kiện trải nghiệm hoặc sự kiện ảo cũng rất hiệu quả. Điều tương tự cũng xảy ra đối với các cấp độ dịch vụ cao hơn có chi phí cố định thấp như việc tặng cho ai đó một tháng dịch vụ VIP (vốn cũng đóng vai trò là một cách để bán thêm họ vào cấp độ dịch vụ đó để giữ chân họ ở lại... chúng ta sẽ nói thêm về điều đó trong Cuốn II).
 
-**Điều gì nên là quà tặng kèm so với điều gì là một phần của lời chào hàng cốt lõi nếu tôi là người trực tiếp vận hành?**
-Câu trả lời ngắn gọn: Yếu tố "Wow" - nói cách khác là thứ mà bạn không muốn khách hàng bỏ lỡ. Nhiều khi bạn có quá nhiều "thứ tốt" đến nỗi bạn sẽ cung cấp cho khách hàng (thứ giá trị) nhưng những mẩu giá trị nhỏ đó có thể bị lẫn lộn trong tổng thể. Bạn muốn chọn ra những thứ thực sự nổi bật nhất mà có thể đứng độc lập và tách chúng ra để làm nổi bật chúng. Điều này đặc biệt đúng đối với những thứ có dung lượng ngắn nhưng chất lượng cao hoặc giá trị lớn. Các danh sách kiểm tra hoặc infographic có thể cô đọng rất nhiều thông tin vào một không gian nhỏ. Ai đó có thể không cảm thấy thỏa đáng khi trả nhiều tiền cho một bản đồ ra mắt sản phẩm (ví dụ), nhưng dưới dạng một món quà tặng kèm, nó sẽ được cảm nhận là rất giá trị.
+>**Điều gì nên là phần tặng thêm (bonus) so với những gì thuộc về sản phẩm cốt lõi nếu tôi là người trực tiếp thực hiện?**
+>Câu trả lời ngắn gọn: Yếu tố gây bất ngờ (Wow Factor) – nói cách khác – là thứ mà bạn không muốn ai đó bỏ lỡ. Nhiều khi bạn cung cấp quá nhiều "thứ" cho khách hàng (đây là điều tốt) khiến những thông tin giá trị nhất có thể bị lẫn lộn và mờ nhạt. Bạn cần chọn ra những phần đặc biệt nhất, những thứ gần như có thể đứng độc lập và tách chúng ra để làm nổi bật lên. Điều này đặc biệt đúng với những nội dung ngắn gọn nhưng có chất lượng hoặc giá trị cao. Các bảng kiểm hay sơ đồ thông tin (infographic) có thể gói gọn rất nhiều thông tin trong một không gian nhỏ. Chẳng hạn, ai đó có thể cảm thấy không đáng khi bỏ ra nhiều tiền chỉ để mua một sơ đồ ra mắt sản phẩm, nhưng nếu nó là một phần quà tặng thêm, họ sẽ cảm nhận được giá trị rất lớn.
 
 **Tiếp theo...**
-Chúng ta đã có lời chào hàng cốt lõi. Chúng ta đang trình bày nó theo cách để tăng sự khan hiếm và khẩn cấp nhằm tăng khả năng họ khao khát nó hơn nữa. Chúng ta đã chồng các quà tặng kèm vào lời chào hàng để làm cho sự chênh lệch giữa giá và giá trị trở nên không tưởng và "bẻ gãy" tâm trí khách hàng. Bước tiếp theo trên hành trình kỳ diệu này sẽ là đối mặt với một "con voi khổng lồ" trong phòng... **rủi ro** (risk). Chúng ta sẽ hoàn toàn xóa bỏ nó bằng cách sử dụng kết hợp các phương thức cam kết bảo hành để họ không còn lý do gì để không mua hàng.
+Chúng ta đã có lời chào hàng cốt lõi. Chúng ta đang trình bày nó theo cách để tăng sự khan hiếm và khẩn cấp nhằm tăng khả năng họ khao khát nó hơn nữa. Chúng ta đã chồng các quà tặng kèm vào lời chào hàng để làm cho sự chênh lệch giữa giá và giá trị trở nên không tưởng và "bẻ gãy" tâm trí khách hàng. Bước tiếp theo trên hành trình kỳ diệu này sẽ là đối mặt với một "con voi khổng lồ" trong phòng... **rủi ro**. Chúng ta sẽ hoàn toàn xóa bỏ nó bằng cách sử dụng kết hợp các phương thức cam kết bảo hành để họ không còn lý do gì để không mua hàng.
 
+## **15. NÂNG CẤP LỜI CHÀO HÀNG: CÁC CAM KẾT (GUARANTEES)**
 
-### Trang 117
+>*Bạn sẽ hài lòng với diện mạo của mình... Tôi cam đoan điều đó.* - Quảng cáo của Men’s Wearhouse đã phát sóng suốt một thời gian dài. 
 
-# NÂNG CẤP LỜI CHÀO HÀNG: CÁC CAM KẾT (GUARANTEES)
+![](../images/04/10.png)
 
-*"Những lời cam kết đáng giá bằng vàng"*
-
----
-
-Trở ngại lớn nhất đối với bất kỳ sản phẩm hoặc dịch vụ nào đang được bán chính là... *hồi trống vang lên*... **rủi ro**. Rủi ro rằng nó không mang lại đúng những gì nó được cho là sẽ mang lại. Do đó, đảo ngược rủi ro là một cách ngay lập tức để làm cho bất kỳ lời chào hàng nào trở nên hấp dẫn hơn. Bạn sẽ muốn dành một lượng thời gian đáng kể để tìm ra cách bạn muốn đảo ngược rủi ro đó. Như đã nói, một lời cam kết có thể làm cho lời chào hàng hấp dẫn hơn bao nhiêu?
+Trở ngại lớn nhất đối với bất kỳ sản phẩm hoặc dịch vụ nào đang được bán chính là... *hồi trống vang lên*... **rủi ro**. Rủi ro rằng nó không mang lại đúng những gì nó được cho là sẽ mang lại. Do đó, đảo ngược rủi ro là một cách ngay lập tức để làm cho bất kỳ lời chào hàng nào trở nên hấp dẫn hơn. Bạn sẽ muốn dành một lượng thời gian đáng kể để tìm ra cách bạn muốn đảo ngược rủi ro đó. Nói là vậy nhưng một lời cam kết có thể làm cho lời chào hàng hấp dẫn hơn bao nhiêu?
 
 Jason Fladlien, người mà tôi đã đề cập trước đó, từng tuyên bố rằng ông đã thấy tỷ lệ chuyển đổi của một lời chào hàng tăng gấp 2-4 lần chỉ bằng cách thay đổi chất lượng của lời cam kết. Nó quan trọng đến mức đó đấy.
 
 Xét từ góc độ tổng quát, có bốn loại cam kết:
 1. Không điều kiện (Unconditional)
 2. Có điều kiện (Conditional)
-3. Nghịch-cam kết (Anti-Guarantee)
+3. Cam kết ngược (Anti-Guarantee)
 4. Cam kết ngầm định (Implied Guarantees)
 
 Bạn phải *luôn luôn* nhấn mạnh lời cam kết của mình, ngay cả khi bạn không có một lời cam kết chính thức nào. Hãy tuyên bố nó một cách táo bạo và đưa ra lý do tại sao.
-**Nhưng liệu mọi người có lợi dụng một lời cam kết "điên rồ" không?**
+
+**Nhưng một lời hứa điên rồ như thế thì dễ bị khách hàng lợi dụng lắm chứ?**
+
 Đôi khi, nhưng thường là không. Như đã nói, bạn phải hiểu các con số toán học. Nếu bạn chốt được thêm 30% khách hàng, và tỷ lệ hoàn tiền của bạn *tăng gấp đôi* từ 5% lên 10%, bạn vẫn kiếm được nhiều tiền hơn 1,23 lần, tương đương với mức tăng 23% lợi nhuận ròng.
 
-*Ví dụ:*
-Hiện tại: 100 đơn hàng, 5 hoàn tiền (5%) = 95 đơn hàng thực tế
-Có cam kết: 130 đơn hàng, 13 hoàn tiền (10%) = 117 đơn hàng thực tế
-117 / 95 = 1,23 lần (tăng 23%)
+&emsp;*Ví dụ:* 100 đơn hàng, 5 hoàn tiền (5%) = 95 đơn hàng thực tế<br>
+&emsp;Có cam kết: 130 đơn hàng, 13 hoàn tiền (10%) = 117 đơn hàng thực tế<br>
+&emsp;117 / 95 = 1,23 lần (tăng 23%)
 
-Đừng để cảm xúc chi phối, hãy tính toán các con số. Để một lời cam kết *không* mang lại giá trị, thì mức tăng doanh số phải bị bù trừ hoàn toàn bởi những người yêu cầu hoàn tiền. Như vậy, mức tăng doanh số tuyệt đối 5% sẽ cần bị bù trừ bởi một mức tăng hoàn tiền tuyệt đối là 5% (điều này rất khó xảy ra). Vì vậy, phần lớn, lời cam kết càng mạnh mẽ, thì mức tăng thực tế trong tổng doanh số càng cao, ngay cả khi tỷ lệ hoàn tiền tăng lên tương ứng.
+Đừng để cảm xúc chi phối, hãy tính toán các con số. Để một lời cam kết *không* mang lại giá trị, thì mức tăng doanh số phải bị bù trừ hoàn toàn bởi những người yêu cầu hoàn tiền. Vì vậy, mức tăng doanh thu thuần 5% sẽ cần bị triệt tiêu bởi một mức tăng hoàn tiền tương ứng là 5% (nhưng điều đó đồng nghĩa với việc tỷ lệ hoàn tiền phải tăng gấp đôi, một điều khó có thể xảy ra). Vì vậy, phần lớn, lời cam kết càng mạnh mẽ, thì mức tăng thực tế trong tổng doanh số càng cao, ngay cả khi tỷ lệ hoàn tiền tăng lên tương ứng.
 
 **Cảnh báo:** Mặc dù cam kết có thể là "người bán hàng" hiệu quả, nhưng những người mua *chỉ vì* có cam kết đôi khi lại là những khách hàng rất tệ. Một người chỉ mua hàng vì có cam kết hoàn tiền có thể là người không sẵn lòng nỗ lực cần thiết để đạt tới thành công với sản phẩm hoặc dịch vụ của bạn. Trong một thế giới nơi bạn muốn đảo ngược rủi ro *và* giúp khách hàng đạt được kết quả tốt nhất có thể, hãy gắn lời cam kết của bạn với những việc họ cần làm để thành công, điều này sẽ mang lại lợi ích cho cả hai bên.
 
----
-**Mẹo chuyên gia: Cảnh báo cho các Dịch vụ Chi phí Cao**
-Nếu bạn có một lượng lớn chi phí gắn liền với sản phẩm hoặc dịch vụ của mình, bạn có thể sẽ muốn áp dụng một lời cam kết có điều kiện hoặc một NGHỊCH-CAM KẾT, vì bạn sẽ phải chịu cả chi phí hoàn tiền VÀ chi phí vận hành dịch vụ đó.
----
+>**Mẹo chuyên gia: Cảnh báo cho các Dịch vụ Chi phí Cao**<br>
+>Nếu bạn có một lượng lớn chi phí gắn liền với sản phẩm hoặc dịch vụ của mình, bạn có thể sẽ muốn áp dụng một lời cam kết có điều kiện hoặc một CAM KẾT NGƯỢC, vì bạn sẽ phải chịu cả chi phí hoàn tiền VÀ chi phí vận hành dịch vụ đó.
 
-**Các loại Cam kết**
+### **Các loại Cam kết**
 
-# "NẾU BẠN KHÔNG ĐẠT ĐƯỢC X TRONG THỜI GIAN Y, CHÚNG TÔI SẼ..."
+![](../images/04/11.png "NẾU BẠN KHÔNG ĐẠT ĐƯỢC X TRONG THỜI GIAN Y, CHÚNG TÔI SẼ...")
 
 Điều làm cho một lời cam kết có sức mạnh là một câu khẳng định có điều kiện: Nếu bạn không đạt được kết quả X trong khoảng thời gian Y, chúng tôi sẽ thực hiện Z.
+
 Để lời cam kết có "răng" (sức nặng), bạn phải quyết định mình sẽ làm gì nếu họ *không* đạt được kết quả.
+
 Nếu không có phần "hoặc là cái gì" của lời cam kết, nó sẽ nghe rất yếu ớt và mờ nhạt.
 
----
-
-### Trang 118
-
-**Lưu ý:** Đây là lỗi mà hầu hết các nhà marketing mắc phải.
-*Ví dụ tồi:* Chúng tôi sẽ cam kết cho bạn có được 20 khách hàng.
-*Ví dụ tốt hơn:* Bạn sẽ nhận được 20 khách hàng trong 30 ngày đầu tiên, nếu không chúng tôi sẽ hoàn tiền cho bạn + trả lại toàn bộ số tiền quảng cáo bạn đã chi cùng chúng tôi.
-Đây là một lời cam kết đơn giản nhưng mạnh mẽ.
+&emsp;**Lưu ý:** Đây là lỗi mà hầu hết các nhà marketing mắc phải.<br>
+&emsp;*Ví dụ tồi:* Chúng tôi sẽ cam kết cho bạn có được 20 khách hàng.<br>
+&emsp;*Ví dụ tốt hơn:* Bạn sẽ nhận được 20 khách hàng trong 30 ngày đầu tiên, nếu không chúng tôi sẽ hoàn tiền cho bạn + trả lại toàn bộ số tiền quảng cáo bạn đã chi cùng chúng tôi. &rarr; Đây là một lời cam kết đơn giản nhưng mạnh mẽ.
 
 Dưới đây là bốn loại cam kết. Tôi sẽ đi qua lý thuyết trước, sau đó chúng ta sẽ áp dụng chúng.
 
-**1) Cam kết Không điều kiện (Unconditional Guarantees)**
-Như đã nói ở trên, đây là loại cam kết mạnh mẽ nhất. Về cơ bản chúng giống như một đợt dùng thử nơi khách hàng trả tiền trước sau đó xem họ có thích hay không. Loại này thu hút rất nhiều người mua, nhưng bạn *sẽ* gặp phải một số người yêu cầu hoàn tiền, đặc biệt là khi văn hóa tiêu dùng đang có xu hướng đòi hỏi quyền lợi và thiếu trách nhiệm cá nhân.
+&emsp;**1) Cam kết Không điều kiện (Unconditional Guarantees)**<br>
+&emsp;Như đã nói ở trên, đây là loại cam kết mạnh mẽ nhất. Về cơ bản chúng giống như một đợt dùng thử nơi khách hàng trả tiền trước sau đó xem họ có thích hay không. Loại này thu hút rất nhiều người mua, nhưng bạn *sẽ* gặp phải một số người yêu cầu hoàn tiền, đặc biệt là khi văn hóa tiêu dùng đang có xu hướng đòi hỏi quyền lợi và thiếu trách nhiệm cá nhân.
 
-**2) Cam kết Có điều kiện (Conditional Guarantees)**
-Cam kết có điều kiện bao gồm các "điều khoản và điều kiện" đi kèm. Đây là lúc bạn có thể cực kỳ sáng tạo. Nhìn chung, bạn muốn đây là những lời cam kết "tốt hơn cả hoàn tiền". Bởi vì đó là một cam kết có điều kiện, đối với một khách hàng sắp đầu tư, bạn muốn họ có sự cam kết tương xứng về mặt tâm lý. Những điều này cũng có tác dụng rất mạnh mẽ trong việc thúc đẩy khách hàng đạt kết quả. Nếu bạn biết những hành động then chốt mà ai đó phải thực hiện để thành công, hãy biến chúng thành một phần của cam kết có điều kiện. Trong một thế giới hoàn hảo, 100% khách hàng của bạn sẽ đủ điều kiện nhận cam kết, nhưng họ sẽ đạt được kết quả cá nhân và do đó không muốn nhận lại tiền. Đó là lý tưởng mà tất cả chúng ta đều hướng tới. Và bạn hãy lưu ý — nếu được lựa chọn giữa việc nhận lại tiền hoặc nhận được kết quả như đã hứa, đại đa số mọi người sẽ chọn kết quả.
+&emsp;**2) Cam kết Có điều kiện (Conditional Guarantees)**<br>
+&emsp;Cam kết có điều kiện bao gồm các "điều khoản và điều kiện" đi kèm. Đây là lúc bạn có thể cực kỳ sáng tạo. Nhìn chung, bạn muốn đây là những lời cam kết "tốt hơn cả hoàn tiền". Bởi vì đó là một cam kết có điều kiện, đối với một khách hàng sắp đầu tư, bạn muốn họ có sự cam kết tương xứng về mặt tâm lý. Những điều này cũng có tác dụng rất mạnh mẽ trong việc thúc đẩy khách hàng đạt kết quả. Nếu bạn biết những hành động then chốt mà ai đó phải thực hiện để thành công, hãy biến chúng thành một phần của cam kết có điều kiện. Trong một thế giới hoàn hảo, 100% khách hàng của bạn sẽ đủ điều kiện nhận cam kết, nhưng họ sẽ đạt được kết quả cá nhân và do đó không muốn nhận lại tiền. Đó là lý tưởng mà tất cả chúng ta đều hướng tới. Và bạn hãy lưu ý — nếu được lựa chọn giữa việc nhận lại tiền hoặc nhận được kết quả như đã hứa, đại đa số mọi người sẽ chọn kết quả.
 
-**3) Nghịch-cam kết (Anti-Guarantees)**
-Nghịch-cam kết là khi bạn tuyên bố rõ ràng rằng "mọi giao dịch mua bán là cuối cùng và không hoàn lại". Bạn sẽ muốn khẳng định vị thế này một cách mạnh mẽ. Bạn phải đưa ra một lý do sáng tạo tại sao việc bán hàng lại không được hoàn lại. Thông thường, bạn muốn thể hiện một sự rủi ro lớn đối với chính bạn mà khách hàng có thể hiểu ngay lập tức và nghĩ là "Vâng, điều đó có lý." Các loại cam kết này đặc biệt quan trọng với những mặt hàng tiêu hao hoặc giảm mạnh giá trị sau khi đã được trao đi.
+&emsp;**3) Cam kết nghịch (Anti-Guarantees)**<br>
+&emsp;Cam kết nghịch là khi bạn tuyên bố rõ ràng rằng "mọi giao dịch mua bán là cuối cùng và không hoàn lại". Bạn sẽ muốn khẳng định vị thế này một cách mạnh mẽ. Bạn phải đưa ra một lý do sáng tạo tại sao việc bán hàng lại không được hoàn lại. Thông thường, bạn muốn thể hiện một sự rủi ro lớn đối với chính bạn mà khách hàng có thể hiểu ngay lập tức và nghĩ là "Vâng, điều đó có lý." Các loại cam kết này đặc biệt quan trọng với những mặt hàng tiêu hao hoặc giảm mạnh giá trị sau khi đã được trao đi.
 
-**4) Cam kết Ngầm định (Implied Guarantees)**
-Cam kết ngầm định là bất kỳ lời chào hàng nào dựa trên hiệu suất (performance-based). Có rất nhiều hình thức: Chia sẻ doanh thu (Revshare), chia sẻ lợi nhuận, các mốc nâng bậc (ratchets), quà tặng bằng tiền khi đạt mục tiêu, v.v. Tất cả đều là ví dụ. Khái niệm cốt lõi là: nếu tôi không làm được, tôi không được trả tiền. Điểm độc đáo của cấu trúc này là nó cũng mang lại lợi ích cho bạn: "Nếu tôi làm xuất sắc, tôi sẽ được đền đáp xứng đáng." Những điều này chỉ hiệu quả trong những tình huống mà bạn có sự minh bạch trong việc đo lường kết quả và sự tin tưởng (hoặc quyền kiểm soát) rằng bạn sẽ được trả tiền khi bạn thực hiện tốt.
+&emsp;**4) Cam kết Ngầm định (Implied Guarantees)**<br>
+&emsp;Cam kết ngầm định là bất kỳ lời chào hàng nào dựa trên hiệu suất (performance-based). Có rất nhiều hình thức: Chia sẻ doanh thu (Revshare), chia sẻ lợi nhuận, các mốc nâng bậc (ratchets), quà tặng bằng tiền khi đạt mục tiêu, v.v. Tất cả đều là ví dụ. Khái niệm cốt lõi là: nếu tôi không làm được, tôi không được trả tiền. Điểm độc đáo của cấu trúc này là nó cũng mang lại lợi ích cho bạn: "Nếu tôi làm xuất sắc, tôi sẽ được đền đáp xứng đáng." Những điều này chỉ hiệu quả trong những tình huống mà bạn có sự minh bạch trong việc đo lường kết quả và sự tin tưởng (hoặc quyền kiểm soát) rằng bạn sẽ được trả tiền khi bạn thực hiện tốt.
 
-**Chồng lớp các Cam kết (Stacking Guarantees)**
-Một người bán hàng kinh nghiệm hiểu rằng, giống như quà tặng kèm, bạn thực sự có thể **chồng lớp** các cam kết. Ví dụ, bạn có thể đưa ra một cam kết không điều kiện trong 30 ngày "không cần lý do", sau đó chồng lên trên một cam kết có điều kiện hoàn tiền gấp ba sau 90 ngày. Đó sẽ là một ví dụ về việc chồng lớp một cam kết không điều kiện với một cam kết có điều kiện.
-
----
-
-### Trang 119
+&emsp;**Chồng lớp các Cam kết (Stacking Guarantees)**<br>
+&emsp;Một người bán hàng kinh nghiệm hiểu rằng, giống như quà tặng kèm, bạn thực sự có thể **chồng lớp** các cam kết. Ví dụ, bạn có thể đưa ra một cam kết không điều kiện trong 30 ngày "không cần lý do", sau đó chồng lên trên một cam kết có điều kiện hoàn tiền gấp ba sau 90 ngày. Đó sẽ là một ví dụ về việc chồng lớp một cam kết không điều kiện với một cam kết có điều kiện.
 
 Bạn cũng có thể chồng lớp hai cam kết có điều kiện xung quanh các kết quả khác nhau (hoặc tuần tự). Ví dụ, bạn cam kết kiếm được 10.000 đô la sau 60 ngày, 30.000 đô la sau 90 ngày miễn là khách hàng thực hiện các bước 1, 2 và 3. Điều này dẫn dắt khách hàng tiềm năng tới một kết quả mà giờ đây họ tin là khả thi hơn nhiều (vì bạn đang trình bày rõ ràng điều đó trong một cam kết có điều kiện với lộ trình thực hiện). Việc làm này cho thấy bạn cực kỳ nghiêm túc trong việc giúp họ đạt kết quả và thuyết phục họ rằng họ sẽ đạt được những gì họ muốn. Điều này giúp chuyển gánh nặng rủi ro từ họ sang chúng ta... một chiến lược vô cùng mạnh mẽ.
 
 Hãy cùng đi qua một số ví dụ về các loại cam kết khác nhau:
 
-**Cam kết: Nếu bạn không đạt được X, trong thời gian Y, chúng tôi sẽ [chèn lời chào hàng]...**
+---
 
-**[Không điều kiện] Cam kết Hoàn tiền "Không cần lý do"**
-*Khách hàng nhận được gì:* A) Hoàn tiền toàn bộ, B) Hoàn tiền 50%, C) Hoàn tiền chi phí quảng cáo và bất kỳ chi phí phát sinh nào, D) Bạn trả tiền cho chương trình của đối thủ cạnh tranh để họ tham gia, E) Bạn trả lại tiền cho họ cộng thêm 1.000 đô la (hoặc một số tiền lớn hơn nhiều so với số tiền họ đã trả).
+<u>**Cam kết:Nếu bạn không đạt được X, trong thời gian Y, chúng tôi sẽ [chèn lời chào hàng]...<br>[Không điều kiện] Cam kết Hoàn tiền "Không cần lý do"**</u>
+
+*Khách hàng nhận được gì:* <br>
+&emsp;A. Hoàn tiền toàn bộ.<br>
+&emsp;B. Hoàn tiền 50%.<br>
+&emsp;C. Hoàn tiền chi phí quảng cáo và bất kỳ chi phí phát sinh nào, <br>
+&emsp;D. Bạn trả tiền cho chương trình của đối thủ cạnh tranh để họ tham gia (Người dịch: Ý tác giả là mua sản phẩm của đối thủ cạnh tranh với chính sản phẩm của bạn cho khách hàng).<br>
+&emsp;E. Bạn trả lại tiền cho họ cộng thêm 1.000 đô la (hoặc một số tiền lớn hơn nhiều so với số tiền họ đã trả).
 
 *Nhận định của tôi:* Đây là loại cam kết đơn giản nhất. Nó cũng cực kỳ rủi ro. Bạn đặt mình vào thế bị động nếu ai đó không đạt được kết quả, dù lỗi là của bạn hay không, bạn vẫn phải chịu trách nhiệm. Rõ ràng đây là một cam kết mạnh mẽ, nhưng thiếu sự độc đáo. Bạn có thể thêm các điều kiện, nhưng càng nhiều điều kiện, cam kết càng mất đi sức mạnh.
-*Cách diễn đạt:* Tôi nghe Jason Fladlien trình bày lời cam kết không điều kiện của anh ấy trong một buổi webinar và tôi thấy nó thật không thể tin nổi. Đây là 100% lời lẽ của anh ấy chứ không phải của tôi. Tôi trích dẫn ở đây để giúp nội dung hoàn thiện hơn:
 
+*Cách diễn đạt:* Tôi nghe Jason Fladlien trình bày lời cam kết không điều kiện của anh ấy trong một buổi webinar và tôi thấy nó thật không thể tin nổi. Đây là 100% lời lẽ của anh ấy chứ không phải của tôi. Tôi trích dẫn ở đây để giúp nội dung hoàn thiện hơn:<br>
 *"Tôi không yêu cầu bạn phải quyết định ngay hôm nay... Tôi chỉ yêu cầu bạn đưa ra một quyết định có đầy đủ thông tin, vậy thôi. Cách duy nhất bạn có thể đưa ra quyết định đầy đủ thông tin là từ bên trong, không phải từ bên ngoài. Vì vậy, bạn hãy tham gia và xem liệu tất cả những gì chúng tôi nói trong buổi webinar này có đúng và giá trị với bạn không. Sau đó, nếu đúng, đó là lúc bạn quyết định giữ nó lại. Nếu nó không dành cho bạn, không sao cả. Bạn có thể, sau khi đăng ký tại [URL], đưa ra quyết định hoàn toàn có đầy đủ thông tin rằng cái này không dành cho bạn. Nhưng bạn không thể đưa ra quyết định đó ngay bây giờ vì cùng một lý do bạn không mua một ngôi nhà mà không xem xét bên trong trước. Và hãy biết điều này... dù là sau 29 phút hay 29 ngày kể từ bây giờ... nếu bạn không thấy hạnh phúc, tôi cũng không thấy hạnh phúc. Vì bất kỳ lý do gì, nếu bạn muốn nhận lại tiền, bạn có thể lấy lại vì tôi chỉ muốn giữ tiền của bạn nếu bạn thấy hài lòng. Tất cả những gì bạn phải làm là truy cập support@xyz.com và nói 'trả lại tiền cho tôi' và bạn sẽ nhận được — thời gian phản hồi trung bình của chúng tôi là 61 phút trong khung giờ 24/7. Bạn chỉ có thể đưa ra một lời cam kết như vậy khi bạn tự tin rằng những gì mình có là hàng thật và tôi khá tự tin rằng khi bạn đăng ký tại [URL], bạn sẽ nhận được chính xác những gì bạn cần để đạt được LỢI ÍCH."*
 
----
-**Mẹo chuyên gia: Đặt tên cho Cam kết của bạn một cái tên thật ngầu**
-Nếu bạn định đưa ra một lời cam kết, hãy làm cho nó hấp dẫn hơn. Thay vì dùng từ "hài lòng" hoặc những từ ngữ "nhạt nhẽo" khác, hãy mô tả nó mạnh mẽ hơn.
-*Ví dụ phổ thông (Tệ):* Cam kết hoàn tiền trong 30 ngày nếu không hài lòng.
-*Ví dụ Hình ảnh Sáng tạo #1 (Tốt):* Trong 30 ngày, nếu bạn không sẵn lòng nhảy xuống vùng nước đầy cá mập để lấy lại sản phẩm của chúng tôi, chúng tôi sẽ hoàn lại từng xu bạn đã trả.
-*Ví dụ Hình ảnh Sáng tạo #2 (Tuyệt vời):* Bạn sẽ nhận được cam kết "Câu lạc bộ Chăm sóc Hải cẩu con" của chúng tôi — Sau 30 ngày sử dụng dịch vụ, nếu bạn không thấy yêu mến nó đến mức muốn che chở cho nó như một chú hải cẩu con, bạn không cần phải trả một xu nào.
----
+>**Mẹo chuyên gia: Đặt tên cho Cam kết của bạn một cái tên thật ngầu**<br>
+>&emsp;Nếu bạn định đưa ra một lời cam kết, hãy làm cho nó hấp dẫn hơn. Thay vì dùng từ "hài lòng" hoặc những từ ngữ "nhạt nhẽo" khác, hãy mô tả nó mạnh mẽ hơn.<br>
+>&emsp;*Ví dụ phổ thông (Tệ):* Cam kết hoàn tiền trong 30 ngày nếu không hài lòng.<br>
+>&emsp;*Ví dụ Hình ảnh Sáng tạo #1 (Tốt):* Trong 30 ngày, nếu bạn không sẵn lòng nhảy xuống vùng nước đầy cá mập để giữ lại sản phẩm của chúng tôi, chúng tôi sẽ hoàn lại từng xu bạn đã trả.<br>
+>&emsp;*Ví dụ Hình ảnh Sáng tạo #2 (Tuyệt vời):* Bạn sẽ nhận được cam kết "Câu lạc bộ Chăm sóc Hải cẩu con" của chúng tôi — Sau 30 ngày sử dụng dịch vụ, nếu bạn không thấy yêu mến nó đến mức muốn che chở cho nó như một chú hải cẩu con, bạn không cần phải trả một xu nào.
 
 ---
 
-### Trang 120
+---
 
-**[Không điều kiện] Cam kết Hoàn tiền dựa trên Sự hài lòng (Mở rộng từ trên):**
+<u>**[Không điều kiện] Cam kết Hoàn tiền dựa trên Sự hài lòng (Mở rộng từ trên):**</u>
+
 *Khách hàng nhận được gì:* Bất cứ lúc nào họ không hài lòng với mức độ dịch vụ mà họ nhận được từ bạn, họ có thể yêu cầu hoàn tiền (vào bất kỳ lúc nào) cho chương trình.
+
 *Nhận định của tôi:* Tin hay không tùy bạn, đây là lời cam kết của tôi khi tôi bán các chương trình giảm cân. Bên cạnh việc là một lời chào hàng không thể cưỡng lại, tôi đã cam kết sự hài lòng. Tôi đã sử dụng sức mạnh của lời cam kết để chốt rất nhiều thương vụ. "Bạn nghĩ tôi vẫn có thể kinh doanh nếu tôi đưa ra một lời cam kết điên rồ như vậy và không thực tế làm tốt những gì tôi nói sao? Giờ đây tôi không cam kết bạn sẽ đạt mục tiêu này sau sáu tuần đâu, vì tôi đâu thể ăn hộ bạn được. Nhưng tôi cam kết rằng bạn sẽ nhận được giá trị và dịch vụ trị giá 500 đô la từ chúng tôi để hỗ trợ bạn. Nếu bạn không cảm thấy chúng tôi đã mang lại mức độ dịch vụ đó, tôi sẽ ký cho bạn một tấm séc ngay ngày bạn bảo chúng tôi làm tệ."
 
-Cách tiếp cận này hoạt động hoàn hảo với kiểu chốt đơn "kịch bản tốt nhất/tệ nhất". "Kịch bản tốt nhất bạn có được thân hình mơ ước và chúng tôi dành toàn bộ số tiền đó để bạn tiếp tục đồng hành cùng chúng tôi hướng tới mục tiêu dài hạn. Kịch bản tệ nhất bạn bảo tôi làm dở tệ, tôi ký cho bạn một tấm séc, và bạn có sáu tuần tập luyện miễn phí. Cả hai lựa chọn đều không có rủi ro. Nhưng điều duy nhất được cam kết là *không* giúp ích gì cho bạn là nếu bạn bước ra khỏi phòng này hôm nay mà không đăng ký." Nếu bạn giỏi những gì mình làm, bạn có thể sử dụng một lời cam kết như thế này để thúc đẩy rất nhiều người đang do dự. Dòng chữ đó đã giúp tôi có được rất nhiều khách hàng. Tôi đã có hai người yêu cầu hoàn tiền trong số 4.000 đơn hàng được bán ra trong ba năm rưỡi.
+Cách tiếp cận này hoạt động hoàn hảo với kiểu chốt đơn "kịch bản tốt nhất/tệ nhất". "Kịch bản tốt nhất bạn có được thân hình mơ ước và chúng tôi dành toàn bộ số tiền đó để bạn tiếp tục đồng hành cùng chúng tôi hướng tới mục tiêu dài hạn. Kịch bản tệ nhất bạn bảo tôi làm dở tệ, tôi ký cho bạn một tấm séc, và bạn có sáu tuần tập luyện miễn phí. Cả hai lựa chọn đều không có rủi ro. Nhưng điều duy nhất đảm bảo sẽ *không* giúp ích gì cho bạn là nếu bạn bước ra khỏi phòng này hôm nay mà không đăng ký." Nếu bạn giỏi những gì mình làm, bạn có thể sử dụng một lời cam kết như thế này để thúc đẩy rất nhiều người đang do dự. Dòng chữ đó đã giúp tôi có được rất nhiều khách hàng. Tôi đã có hai người yêu cầu hoàn tiền trong số 4.000 đơn hàng được bán ra trong ba năm rưỡi.
 
 Sự hài lòng/Không cần lý do là hình thức cao nhất của cam kết. Nó có nghĩa là chúng ta có thể làm mọi thứ đúng nhưng bạn vẫn có thể yêu cầu trả lại tiền. Miễn là bạn nắm rõ các con số, bạn thường sẽ bù đắp được các khoản hoàn tiền nhờ việc chốt được nhiều đơn hơn và nhanh hơn ở khâu bán hàng. Nhưng bạn *phải* giỏi trong việc thực hiện lời hứa của mình. Nếu không, hãy tránh xa. Tôi tin rằng lời chào hàng này hoạt động tốt hơn trong các tình huống giá thấp (lower-ticket). Nó trở nên rất rủi ro khi bạn chuyển sang các dịch vụ giá cao (higher-ticket) với chi phí vận hành lớn.
 
----
-**Mẹo chuyên gia: Cam kết Không điều kiện vs Có điều kiện dựa trên Loại hình doanh nghiệp**
-Các lời cam kết rộng hơn, không điều kiện sẽ hoạt động tốt hơn với các doanh nghiệp B2C giá thấp (nhiều người sẽ chẳng buồn mất công đòi tiền). Giá càng cao và càng mang tính chất định hướng kinh doanh (B2B), bạn càng nên hướng tới các lời cam kết cụ thể. Chúng có thể có hoặc không kèm theo hoàn tiền, và có thể có hoặc không có các điều kiện đi kèm.
+>**Mẹo chuyên gia: Cam kết Không điều kiện vs Có điều kiện dựa trên Loại hình doanh nghiệp**<br>
+&emsp;Các lời cam kết rộng hơn, không điều kiện sẽ hoạt động tốt hơn với các doanh nghiệp B2C giá thấp (nhiều người sẽ chẳng buồn mất công đòi tiền). Giá càng cao và càng mang tính chất định hướng kinh doanh (B2B), bạn càng nên hướng tới các lời cam kết cụ thể. Chúng có thể có hoặc không kèm theo hoàn tiền, và có thể có hoặc không có các điều kiện đi kèm.
+
 ---
 
-**[Có điều kiện] Cam kết Hoàn tiền "Khủng"**
+---
+
+<u>**[Có điều kiện] Cam kết Hoàn tiền "Khủng"**</u>
+
 *Khách hàng nhận được gì:* Hoàn lại gấp đôi hoặc gấp ba số tiền họ đã trả, hoặc một khoản thanh toán không ràng buộc trị giá $X.XXX (hoặc một số tiền lớn hơn nhiều so với những gì họ đã trả).
-*Nhận định của tôi:* Cách này áp dụng khi bạn bán thứ gì đó có biên lợi nhuận cao. Và đây là một lời cam kết đi kèm với một điều kiện tiêu dùng. Điều đó có nghĩa là họ phải làm một danh sách các việc nhất định để đủ điều kiện nhận cam kết này. Một nhà marketing liên kết đẳng cấp thế giới là Jason Fladlien (người đạt doanh số 27 triệu đô la trong một ngày duy nhất) gần đây đã sử dụng một lời cam kết kinh ngạc cho một khóa học mà anh ấy đã bán. Anh ấy nói: "nếu bạn mua khóa học này và chi tiêu $X cho quảng cáo cho cửa hàng thương mại điện tử của bạn bằng các phương pháp trong này mà không kiếm được tiền, tôi không chỉ hoàn trả lại tiền khóa học cho bạn mà còn trả cho bạn 25.000 đô la không cần hỏi lý do." Anh ấy tuyên bố rằng có thêm 3 triệu đô la doanh thu từ lời cam kết điên rồ này cho một khóa học giá 2.997 đô la. Hơn thế nữa, anh ấy chỉ phải hoàn trả 10 suất trong số 25.000 đô la đó. Vì vậy, lời cam kết đã mang lại thêm 2,75 triệu đô la doanh thu ròng. Đó là sức mạnh của một lời cam kết "điên rồ" mang lại cho bạn.
+
+*Nhận định của tôi:* Cách này áp dụng khi bạn bán thứ gì đó có biên lợi nhuận cao. Và đây là một lời cam kết đi kèm với một điều kiện tiêu dùng. Điều đó có nghĩa là họ phải làm một danh sách các việc nhất định để đủ điều kiện nhận cam kết này. Một nhà marketing liên kết đẳng cấp thế giới là Jason Fladlien (người đạt doanh số 27 triệu đô la trong một ngày duy nhất) gần đây đã sử dụng một lời cam kết kinh ngạc cho một khóa học mà anh ấy đã bán. Anh ấy nói: "nếu bạn mua khóa học này và chi tiêu $X cho quảng cáo cho cửa hàng thương mại điện tử của bạn bằng các phương pháp trong này mà không kiếm được tiền, tôi không chỉ hoàn trả lại tiền khóa học cho bạn mà còn trả cho bạn 25.000 đô la không cần hỏi lý do." Anh ấy tuyên bố rằng có thêm 3 triệu đô la doanh thu từ lời cam kết điên rồ này cho một khóa học giá 2.997 đô la. Hơn thế nữa, anh ấy chỉ phải hoàn trả 10 đơn hàng (tổng: $250.000). Vì vậy, lời cam kết đã mang lại thêm 2,75 triệu đô la doanh thu ròng. Đó là sức mạnh của một lời cam kết "điên rồ" mang lại cho bạn.
 
 Nhìn chung, một lời cam kết cực kỳ mạnh mẽ như thế này chắc chắn sẽ thúc đẩy doanh số. Nó thực sự phục vụ tốt khi mục đích của bạn là cần khách hàng thực hiện *rất nhiều việc*, và giả sử những việc đó được hoàn thành, thì khả năng không đạt kết quả là rất thấp. Đôi khi một lời cam kết như thế này thực sự có thể giúp khách hàng đạt kết quả tốt hơn. Lời cam kết này thường sẽ vượt xa một lời cam kết hoàn trả 30 ngày truyền thống xét về lượng chuyển đổi ròng (doanh số trừ đi hoàn tiền).
 
-**[Có điều kiện] Cam kết Dịch vụ**
+---
+
+---
+
+<u>**[Có điều kiện] Cam kết Dịch vụ**</u>
+
 *Khách hàng nhận được gì:* Bạn tiếp tục làm việc cho họ miễn phí cho đến khi đạt được mục tiêu X.
+
 *Nhận định của tôi:* Đây có lẽ là lời cam kết yêu thích nhất mọi thời đại của cá nhân tôi. Nó về cơ bản cam kết rằng họ sẽ đạt được mục tiêu, nhưng loại bỏ yếu tố thời gian. Bạn không bao giờ gặp rủi ro bị mất tiền. Lời cam kết nằm ở kết quả cuối cùng. Để thêm "gia vị" cho nó, bạn có thể biến lời cam kết này thành có điều kiện dựa trên việc họ thực hiện các hành động then chốt gắn liền với thành công: thiết lập trang web, tham gia các buổi gọi, thực hiện các bài tập, báo cáo dữ liệu, v.v.
+
 *Sự thật là:* Kể từ khi tôi tư vấn cho các doanh nghiệp sử dụng lời cam kết cụ thể này, tôi chưa thấy một người nào nói rằng khách hàng đã yêu cầu thực hiện nó. Thực tế, nếu một người thực sự làm mọi thứ bạn yêu cầu và không đạt được kết quả vào thời điểm bạn đã nói, một trong hai điều thường xảy ra:
 1. Thấy được sự cam kết của bạn, họ vui vẻ tiếp tục làm việc với bạn cho đến khi đạt được kết quả mong muốn.
 2. Họ bỏ cuộc. Khách hàng của bạn có lẽ đã rất gần với mục tiêu rồi, nghĩa là họ đã thấy hài lòng.
+
 Ngoài ra, cuộc trò chuyện bán hàng với lời cam kết đó có lẽ đã diễn ra từ nhiều tháng trước. Những gì quan trọng trong buổi chốt đơn giờ chỉ còn là một kỷ niệm xa xăm, được thay thế bằng tình cảm của họ dành cho bạn/doanh nghiệp của bạn.
 
 ---
 
-### Trang 121
+---
 
-**[Có điều kiện] Cam kết Dịch vụ có Chỉnh sửa**
+<u>**[Có điều kiện] Cam kết Dịch vụ có Chỉnh sửa**</u>
+
 *Khách hàng nhận được gì:* Bạn tặng họ một khoảng thời gian phục vụ hoặc quyền truy cập vào sản phẩm/dịch vụ của bạn miễn phí thêm một khoảng thời gian Y nữa. Thông thường, Y nên có thời lượng ít nhất gấp đôi thời lượng ban đầu.
+
 *Nhận định của tôi:* Loại này tương tự như cam kết dịch vụ, nhưng nó gắn một mốc thời gian cụ thể cho sự tham gia/làm việc thêm của bạn. Vì vậy, thay vì bị "mắc kẹt" mãi mãi, bạn chỉ phải làm thêm trong một khoảng thời gian Y nhất định. Tôi đã thấy nó hoạt động rất kỳ diệu và giữ cho doanh nghiệp ở trong một khoảng thời gian hữu hạn hơn, điều này có thể giúp bạn dễ thở hơn một chút so với cam kết dịch vụ "làm cho đến khi đạt được" ở trên.
 
-**[Có điều kiện] Cam kết dựa trên Tín dụng (Credit-based Guarantee)**
+---
+
+---
+
+<u>**[Có điều kiện] Cam kết dựa trên Tín dụng (Credit-based Guarantee)**</u>
+
 *Khách hàng nhận được gì:* Bạn trả lại cho họ những gì họ đã đóng nhưng dưới dạng tín dụng (credit) để sử dụng cho bất kỳ dịch vụ nào bạn cung cấp.
+
 *Nhận định của tôi:* Cách này tốt nhất nên sử dụng trong quy trình bán thêm (upsell) để chốt một thương vụ cho dịch vụ mà họ không chắc chắn là mình sẽ thích. Họ đã thích những gì họ đang có, bạn đang cố gắng bán cho họ *nhiều hơn* thứ đó. Trong trường hợp xấu nhất, họ có thể áp dụng số tiền đó vào thứ mà họ vốn đã thích rồi. Như vậy nó giúp duy trì thiện chí của khách hàng.
 
-**[Có điều kiện] Cam kết Dịch vụ Cá nhân**
+---
+
+---
+
+<u>**[Có điều kiện] Cam kết Dịch vụ Cá nhân**</u>
+
 *Khách hàng nhận được gì:* Bạn làm việc trực tiếp 1-kèm-1 với họ, miễn phí, cho đến khi họ đạt được mục tiêu hoặc kết quả X.
+
 *Nhận định của tôi:* Đây hoàn toàn là một trong những lời cam kết mạnh mẽ nhất từng tồn tại. Nó giống như một bản cam kết dịch vụ "nâng cấp". Chắc chắn bạn sẽ muốn thêm các điều kiện: họ phải phản hồi trong vòng 24 giờ, họ phải sử dụng sản phẩm bạn yêu cầu, họ phải làm XYZ. Chỉ khi họ làm đúng như vậy, bạn mới tiếp tục làm việc 1-kèm-1 với họ.
+
 Điều này đặc biệt quyền năng khi bạn mở rộng quy mô và trở nên có vị thế hơn trong mắt khách hàng. Bạn có thể tưởng tượng một trong những nhân viên bán hàng của tôi nói rằng: "Alex sẽ đích thân làm việc với bạn cho đến khi lời chào hàng của bạn có chuyển đổi" không? Đúng vậy, nó chắc chắn sẽ hiệu quả. Nhưng nó có thể là một cơn ác mộng. Vì vậy tôi có thể sẽ đặt những điều kiện ràng buộc như: "Miễn là bạn đã chi 10.000 đô la cho lời chào hàng hiện tại của mình bằng cấu trúc của chúng tôi, lời chào hàng bạn chạy là để tìm kiếm khách hàng tiềm năng, và đó là một lời chào hàng miễn phí." Đây là những thứ khiến cho việc họ không thành công là rất khó xảy ra. Nếu vì lý do nào đó họ *không* thành công với những ràng buộc đó, tôi có lẽ có thể sửa vấn đề của họ chỉ trong mười phút nhìn qua nó.
 
 ---
 
-### Trang 122
+---
 
-**[Có điều kiện] Cam kết Chi phí Doanh nghiệp**
+<u>**[Có điều kiện] Cam kết Chi phí Doanh nghiệp**</u>
+
 *Khách hàng nhận được gì:* Nếu không nhận được giá trị, chúng tôi sẽ hoàn trả tiền sản phẩm CỘNG VỚI chi phí khách sạn + vé máy bay của bạn.
+
 *Nhận định của tôi:* Về kỹ thuật, đây là một dạng "hoàn trả chi phí phụ trợ" từ ví dụ đầu tiên của chúng ta. Tôi rất thích loại này cho các buổi workshop và trải nghiệm trực tiếp. Thông thường sự kiện sẽ tốn tiền hơn cả khách sạn và vé máy bay, vì vậy nó giống như việc thêm 1.000 đô la vào một lời cam kết nhưng theo cách hữu hình hơn nhiều. Nó đủ độc đáo để mọi người thích thú.
 
-**[Có điều kiện] Cam kết Trả lương (Wage-Payment Guarantee)**
+<u>**[Có điều kiện] Cam kết Trả lương (Wage-Payment Guarantee)**</u>
+
 *Khách hàng nhận được gì:* Bạn trả cho họ mức thù lao theo giờ, bất kể là bao nhiêu, nếu họ không thấy buổi gọi/phiên làm việc đó là giá trị.
+
 *Nhận định của tôi:* Đây cũng là một loại cam kết chi phí phụ trợ, một cách làm rất độc bản. Nếu ai đó thực sự yêu cầu trả lương, chỉ cần yêu cầu họ gửi tờ khai thuế và chia nó cho 1.960 (số giờ làm việc trung bình tại 40 giờ/tuần trong một năm). Nhưng chưa có ai yêu cầu hoàn tiền kiểu này cả. Chưa bao giờ.
-
-**[Có điều kiện] Cam kết Giải phóng Dịch vụ (Release of Service Guarantee)**
-*Khách hàng nhận được gì:* Bạn để họ hủy hợp đồng miễn phí.
-*Nhận định của tôi:* Loại này xóa bỏ một cam kết hoặc phí hủy hợp đồng. Nếu bạn có một doanh nghiệp có các cam kết, hợp đồng hay điều khoản ràng buộc chặt chẽ, đây có thể là một lời cam kết mạnh mẽ. Tốt hơn nữa, nếu bạn đang kinh doanh trong một lĩnh vực mà các đối thủ không ép buộc thực hiện hợp đồng, thì bạn chẳng mất gì khi thêm lời cam kết này.
-
-**[Có điều kiện] Cam kết Trì hoãn Thanh toán đợt hai**
-*Khách hàng nhận được gì:* Bạn sẽ không lập hóa đơn cho họ một lần nữa cho đến *sau khi* họ đạt được kết quả đầu tiên. Ví dụ: Giảm 5 pound đầu tiên... có đơn hàng đầu tiên... website được lên sóng, v.v.
-*Nhận định của tôi:* Tôi rất thích loại này, đặc biệt nếu bạn có một quy trình rất hệ thống hóa để đạt được kết quả đầu tiên. Nó khiến khách hàng suy nghĩ theo hướng hành động nhanh và khiến họ bắt tay vào thực hiện ngay. Nó cũng buộc đội ngũ của bạn phải tập trung vào việc kích hoạt khách hàng. Đây là một thang đo hoặc hành động thúc đẩy sự kích hoạt (chỉ số dự báo khả năng giữ chân khách hàng dài hạn). Tôi đã áp dụng thành công lời cam kết này rất nhiều lần.
-
-**[Có điều kiện] Cam kết Kết quả đầu tiên**
-*Khách hàng nhận được gì:* Bạn tiếp tục trả các chi phí phụ trợ (tiền quảng cáo, khách sạn, v.v.) cho đến khi họ đạt được kết quả đầu tiên. Ví dụ: Nếu bạn không chốt được đơn hàng đầu tiên trong 14 ngày, chúng tôi sẽ trả tiền quảng cáo cho bạn cho đến khi bạn làm được.
-*Nhận định của tôi:* Tương tự như cam kết trì hoãn thanh toán, chỉ tập trung vào một loại chi phí khác. Cá nhân tôi rất thích thiết lập này. Nó giữ cho mọi người tập trung vào việc kiếm được "đồng đô la đầu tiên". Một khi đã vượt qua rào cản đó, đồng đô la thứ hai sẽ sớm đến ngay sau đó.
-
-**[Nghịch-cam kết] Mọi giao dịch là cuối cùng**
-*Khách hàng nhận được gì:* Quyền tiếp cận vào dịch vụ/sản phẩm siêu độc quyền và vô cùng giá trị. Thường thì đây là một thứ quyền năng đến mức một khi đã thấy thì không thể "chưa thấy", hoặc một khi đã sử dụng thì không thể thu hồi lại. Ví dụ: Một dòng mã code để cải thiện trải nghiệm thanh toán trên website. Một khi ai đó nhận được mã này, họ có thể thử dùng nó mà không cần trả tiền cho bạn. Hay một loạt các tin nhắn mở đầu để làm quen với phụ nữ, hoặc các câu mở đầu để nhắn tin cho khách hàng tiềm năng. Những thứ này rất giá trị nhưng lại cực kỳ dễ bị đánh cắp sau khi khách đã nắm được chúng.
-*Nhận định của tôi:* Điều này có thể gia tăng tính thuyết phục của cuộc bán hàng và giá trị của sản phẩm hoặc dịch vụ. Nó về cơ bản *ngầm định* rằng khách hàng sẽ thấy nó và sẽ có một cái lợi to lớn từ đó, do đó doanh nghiệp phải tự bảo vệ mình. Nó đóng vai trò như một lời khẳng định về tính độc quyền: "Chính sách của chúng tôi là mọi giao dịch là cuối cùng, bởi vì sản phẩm của chúng tôi quá độc quyền và mạnh mẽ đến mức một khi đã dùng nó không thể bị coi là chưa dùng." Nghe vị thế như vậy có vẻ sẽ được chú ý hơn.
-Vì vậy, thay vì tỏ ra không chắc chắn, hãy dựa vào sự thật rằng thứ này hoạt động quá tốt và quá dễ bị sao chép, nên bạn *phải* thực hiện mọi giao dịch là cuối cùng. Họ sẽ tin tưởng bạn nhiều hơn nếu bạn chọn vị thế này. "Chúng tôi sẽ cho bạn thấy quy trình độc quyền mà chúng tôi đang sử dụng ngay bây giờ để tạo ra khách hàng tiềm năng trong doanh nghiệp của mình. Các phễu, quảng cáo và số liệu của chúng tôi. Chúng tôi sẽ phơi bày toàn bộ cơ chế vận hành bên trong của doanh nghiệp mình, do đó, mọi đơn hàng là không thể hoàn lại." Lưu ý: Cần đưa ra lý do mạnh mẽ tại sao ở đây. Hãy chọn một lý do nghe thật xứng đáng.
 
 ---
 
-### Trang 123
+---
 
-Nghịch-cam kết cũng có thể hoạt động rất tốt với các sản phẩm và dịch vụ giá cao yêu cầu nhiều công sức thực hiện hoặc cá nhân hóa. "Nếu bạn là kiểu khách hàng cần một lời cam kết trước khi dấn thân, thì bạn không phải kiểu người chúng tôi muốn làm việc cùng. Chúng tôi muốn những người tự tin, có động lực, sẵn lòng làm theo hướng dẫn và không tìm kiếm lối thoát ngay cả khi chưa bắt đầu. Nếu bạn không nghiêm túc, đừng mua. Nhưng nếu bạn nghiêm túc, bạn chắc chắn sẽ tạo nên kỳ tích đấy." Từ những ví dụ này, bạn có thể nắm được ý tưởng.
+<u>**[Có điều kiện] Cam kết Giải phóng Dịch vụ (Release of Service Guarantee)**</u>
 
-**Cam kết Ngầm định: Mô hình hiệu suất, Chia sẻ doanh thu (Revshares) và Chia sẻ lợi nhuận**
+*Khách hàng nhận được gì:* Bạn để họ hủy hợp đồng miễn phí.
+*Nhận định của tôi:* Loại này xóa bỏ một cam kết hoặc phí hủy hợp đồng. Nếu bạn có một doanh nghiệp có các cam kết, hợp đồng hay điều khoản ràng buộc chặt chẽ, đây có thể là một lời cam kết mạnh mẽ. Tốt hơn nữa, nếu bạn đang kinh doanh trong một lĩnh vực mà các đối thủ không ép buộc thực hiện hợp đồng, thì bạn chẳng mất gì khi thêm lời cam kết này.
+
+---
+
+---
+
+<u>**[Có điều kiện] Cam kết Trì hoãn Thanh toán đợt hai**</u>
+
+*Khách hàng nhận được gì:* Bạn sẽ không lập hóa đơn cho họ một lần nữa cho đến *sau khi* họ đạt được kết quả đầu tiên. Ví dụ: Giảm 5 pound đầu tiên... có đơn hàng đầu tiên... website được lên sóng, v.v.
+
+*Nhận định của tôi:* Tôi rất thích loại này, đặc biệt nếu bạn có một quy trình rất hệ thống hóa để đạt được kết quả đầu tiên. Nó khiến khách hàng suy nghĩ theo hướng hành động nhanh và khiến họ bắt tay vào thực hiện ngay. Nó cũng buộc đội ngũ của bạn phải tập trung vào việc kích hoạt khách hàng. Đây là một thang đo hoặc hành động thúc đẩy sự kích hoạt (chỉ số dự báo khả năng giữ chân khách hàng dài hạn). Tôi đã áp dụng thành công lời cam kết này rất nhiều lần.
+
+---
+
+---
+
+<u>**[Có điều kiện] Cam kết Kết quả đầu tiên**</u>
+
+*Khách hàng nhận được gì:* Bạn tiếp tục trả các chi phí phụ trợ (tiền quảng cáo, khách sạn, v.v.) cho đến khi họ đạt được kết quả đầu tiên. Ví dụ: Nếu bạn không chốt được đơn hàng đầu tiên trong 14 ngày, chúng tôi sẽ trả tiền quảng cáo cho bạn cho đến khi bạn làm được.
+
+*Nhận định của tôi:* Tương tự như cam kết trì hoãn thanh toán, chỉ tập trung vào một loại chi phí khác. Cá nhân tôi rất thích thiết lập này. Nó giữ cho mọi người tập trung vào việc kiếm được "đồng đô la đầu tiên". Một khi đã vượt qua rào cản đó, đồng đô la thứ hai sẽ sớm đến ngay sau đó.
+
+---
+
+---
+
+<u>**[Nghịch-cam kết] Mọi giao dịch là cuối cùng**</u>
+
+*Khách hàng nhận được gì:* Quyền tiếp cận vào dịch vụ/sản phẩm siêu độc quyền và vô cùng giá trị. Thường thì đây là một thứ quyền năng đến mức một khi đã thấy thì không thể "chưa thấy", hoặc một khi đã sử dụng thì không thể thu hồi lại. Ví dụ: Một dòng mã code để cải thiện trải nghiệm thanh toán trên website. Một khi ai đó nhận được mã này, họ có thể thử dùng nó mà không cần trả tiền cho bạn. Hay một loạt các tin nhắn mở đầu để làm quen với phụ nữ, hoặc các câu mở đầu để nhắn tin cho khách hàng tiềm năng. Những thứ này rất giá trị nhưng lại cực kỳ dễ bị đánh cắp sau khi khách đã nắm được chúng.
+
+*Nhận định của tôi:* Điều này có thể gia tăng tính thuyết phục của cuộc bán hàng và giá trị của sản phẩm hoặc dịch vụ. Nó về cơ bản *ngầm định* rằng khách hàng sẽ thấy nó và sẽ có một cái lợi to lớn từ đó, do đó doanh nghiệp phải tự bảo vệ mình. Nó đóng vai trò như một lời khẳng định về tính độc quyền: "Chính sách của chúng tôi là mọi giao dịch là cuối cùng, bởi vì sản phẩm của chúng tôi quá độc quyền và mạnh mẽ đến mức một khi đã dùng nó không thể bị coi là chưa dùng." Nghe vị thế như vậy có vẻ sẽ được chú ý hơn.
+Vì vậy, thay vì tỏ ra không chắc chắn, hãy dựa vào sự thật rằng thứ này hoạt động quá tốt và quá dễ bị sao chép, nên bạn *phải* thực hiện mọi giao dịch là cuối cùng. Họ sẽ tin tưởng bạn nhiều hơn nếu bạn chọn vị thế này. "Chúng tôi sẽ cho bạn thấy quy trình độc quyền mà chúng tôi đang sử dụng ngay bây giờ để tạo ra khách hàng tiềm năng trong doanh nghiệp của mình. Các phễu, quảng cáo và số liệu của chúng tôi. Chúng tôi sẽ phơi bày toàn bộ cơ chế vận hành bên trong của doanh nghiệp mình, do đó, mọi đơn hàng là không thể hoàn lại." Lưu ý: Cần đưa ra lý do mạnh mẽ tại sao ở đây. Hãy chọn một lý do nghe thật xứng đáng.
+
+Nghịch-cam kết cũng có thể hoạt động rất tốt với các sản phẩm và dịch vụ giá cao yêu cầu nhiều công sức thực hiện hoặc cá nhân hóa. "Nếu bạn là kiểu khách hàng cần một lời cam kết trước khi dấn thân, thì bạn không phải kiểu người chúng tôi muốn làm việc cùng. Chúng tôi muốn những người tự tin, có động lực, sẵn lòng làm theo hướng dẫn và không tìm kiếm lối thoát ngay cả khi chưa bắt đầu. Nếu bạn kh055438ông nghiêm túc, đừng mua. Nhưng nếu bạn nghiêm túc, bạn chắc chắn sẽ tạo nên kỳ tích đấy." Từ những ví dụ này, bạn có thể nắm được ý tưởng.
+
+---
+
+---
+
+<u>**Cam kết Ngầm định: Mô hình hiệu suất, Chia sẻ doanh thu (Revshares) và Chia sẻ lợi nhuận**</u>
 
 *   **Hiệu suất:** A) ...Chỉ trả cho tôi $XXX trên mỗi đơn hàng / $XXX trên mỗi khách tham gia B) $XX trên mỗi cân nặng giảm được
 *   **Chia sẻ doanh thu (Revshare):** A) 10% doanh thu tổng B) 20% lợi nhuận chia sẻ C) 25% tăng trưởng doanh thu so với mức cơ sở
@@ -576,44 +616,43 @@ Nghịch-cam kết cũng có thể hoạt động rất tốt với các sản p
 *   **Quà tặng/Kích hoạt:** Tôi nhận được X khi Y xảy ra.
 
 *Cái khách hàng nhận được:* Nếu bạn không thực hiện được, họ không phải trả tiền. Nếu bạn làm được, thù lao của bạn đã được xác định dựa trên một thỏa thuận đã được thống nhất *trước khi* bạn bắt đầu làm việc.
-*Nhận định của tôi:* Bản chất của Hiệu suất, Chia sẻ doanh thu và Chia sẻ lợi nhuận không hẳn là "cam kết", mà về mọi khía cạnh, chúng chính là cam kết đó. Có một sự cam kết ngầm định bất cứ khi nào bạn bước vào một mối quan hệ đối tác chia sẻ doanh thu hoặc hiệu suất: nếu bạn không kiếm được tiền, họ không phải trả tiền cho bạn. Theo ý kiến của tôi, đây là một trong những, nếu không muốn nói là kiểu thiết lập đáng mơ ước nhất. Thứ nhất, vì nó khiến bạn có trách nhiệm với kết quả của khách hàng. Thứ hai, nó giúp loại bỏ những người có hiệu suất kém. Sự thống nhất hoàn hảo giữa khách hàng và nhà cung cấp dịch vụ thúc đẩy sự hợp tác và một mối quan hệ lâu dài. Tôi là một fan lớn của kiểu này. Nhược điểm duy nhất là việc theo dõi và thu hộ. Nếu bạn có thể tìm ra cách tự động hóa điều đó... bạn đã sở hữu một mỏ vàng rồi. Đây là một phần của lời chào hàng mà chúng tôi dạy cho các agency sử dụng phần mềm của mình. Chúng tôi giúp họ chuyển đổi từ mô hình thu phí hàng tháng (retainer) sang mô hình hiệu suất và gói gọn nó vào Lời chào hàng Grand Slam mà tôi đã trình bày ở trên. Tôi đã thấy vô số agency từ mức doanh thu 20.000 đô la/tháng lên tới 200.000 đô la+/tháng chỉ trong vài tháng ngắn ngủi.
+
+*Nhận định của tôi:* Bản chất của Hiệu suất, Chia sẻ doanh thu và Chia sẻ lợi nhuận không hẳn là "cam kết" theo nghĩa đen, nhưng về cơ bản thì chúng đúng là như vậy. Có một sự cam kết ngầm định bất cứ khi nào bạn bước vào một mối quan hệ đối tác chia sẻ doanh thu hoặc hiệu suất: nếu bạn không kiếm được tiền, họ không phải trả tiền cho bạn. Theo ý kiến của tôi, đây là một trong những, nếu không muốn nói là kiểu thiết lập đáng mơ ước nhất. Thứ nhất, vì nó khiến bạn có trách nhiệm với kết quả của khách hàng. Thứ hai, nó giúp loại bỏ những người có hiệu suất kém. Sự thống nhất hoàn hảo giữa khách hàng và nhà cung cấp dịch vụ thúc đẩy sự hợp tác và một mối quan hệ lâu dài. Tôi là một fan lớn của kiểu này. Nhược điểm duy nhất là ở việc theo dõi và thu hồi công nợ. Nếu bạn có thể tìm ra cách tự động hóa điều đó... bạn đã sở hữu một mỏ vàng rồi. Đây là một phần của lời chào hàng mà chúng tôi dạy cho các agency sử dụng phần mềm của mình. Chúng tôi giúp họ chuyển đổi từ mô hình thu phí hàng tháng (retainer) sang mô hình hiệu suất và gói gọn nó vào Lời chào hàng Grand Slam mà tôi đã trình bày ở trên. Tôi đã thấy vô số agency từ mức doanh thu 20.000 đô la/tháng lên tới 200.000 đô la+/tháng chỉ trong vài tháng ngắn ngủi.
 
 Bạn cũng có thể kết hợp mô hình chia sẻ doanh thu hoặc hiệu suất với một mức phí tối thiểu (minimum). Nó giống như nói rằng: "chúng tôi sẽ nhận mức nào cao hơn giữa 1.000 đô la hoặc 10% doanh thu tạo ra." Như vậy nếu khách hàng không tạo ra tiền vì bất kỳ lý do gì, ít nhất mức phí này cũng bù đắp được chi phí dịch vụ của bạn, v.v.
+
 Hoặc nói rằng chúng tôi nhận giá 1.000 đô la/tháng trong 3 tháng đầu tiên, sau đó sẽ chuyển sang 100% dựa trên hiệu suất. Điều này sẽ rất lý tưởng cho một quy trình thiết lập tốn nhiều thời gian ban đầu.
+
 Các loại lời chào hàng này hoạt động tốt nhất khi bạn có những kết quả có thể định lượng được. Kết quả càng rõ ràng, thì việc không cần cam kết thanh toán mà vẫn có khách chấp nhận càng cao.
 
-**Tự tạo lời cam kết chiến thắng cho riêng bạn**
+---
+
+### **Tự tạo lời cam kết chiến thắng cho riêng bạn**
+
 Đảo ngược rủi ro là cách số một để tăng tỷ lệ chuyển đổi của một lời chào hàng. Những nhà marketing giàu kinh nghiệm dành nhiều thời gian để xây dựng lời cam kết của họ như cách họ xây dựng các hạng mục cung ứng dịch vụ. Nó quan trọng đến mức đó.
+
 Tôi đã trực tiếp áp dụng mọi lời cam kết được liệt kê ở trên (ngoại trừ cái liên quan đến khách sạn và cuộc gọi điện thoại, cái mà tôi mới thấy và rất thích). Nhưng bạn hoàn toàn có thể tự nghĩ ra lời cam kết của riêng mình! Chìa khóa là xác định những nỗi sợ lớn nhất, sự đau đớn và những trở ngại mà khách hàng cảm nhận được. "Họ *không* muốn điều gì xảy ra nếu họ trả tiền cho bạn? Họ sợ điều gì nhất?" Hãy đảo ngược những nỗi sợ đó thành lời cam kết. Hãy nghĩ về thời gian, cảm xúc và các chi phí phát sinh gắn liền với bất kỳ chương trình hay dịch vụ nào. Lời cam kết càng cụ thể và sáng tạo thì càng tốt.
 
 Như đã nói, cam kết là chất xúc tác. Chúng có thể tăng cường sức hút của bất kỳ lời chào hàng nào, nhưng chúng không thể cứu vãn được một doanh nghiệp tồi. Nếu lời cam kết được sử dụng để che đậy một đội ngũ bán hàng kém cỏi hoặc một sản phẩm tồi tệ, nó sẽ phản tác dụng và mang lại vô số yêu cầu hoàn tiền. Không tốt chút nào.
+
 Lời khuyên của tôi: Hãy bắt đầu bằng việc bán các cam kết dựa trên dịch vụ hoặc thiết lập các mối quan hệ hiệu suất. Điều này sẽ khiến mọi giao dịch bán hàng trở nên chắc chắn (vì không sợ hoàn tiền). Quan trọng nhất, nó sẽ buộc bạn phải cam kết với kết quả của khách hàng và giữ cho bạn luôn trung thực. Từ đó, bạn có thể giữ nguyên lời cam kết đó và mở rộng quy mô (hoàn toàn ổn), hoặc nâng cấp lên các hình thức cam kết ít ràng buộc hơn để tăng khối lượng khách hàng.
 
 Chúng ta hiện đã có Lời chào hàng cốt lõi và các Cam kết đã được chọn.
+
 **Tiếp theo...**
-Giờ đây tất cả những gì chúng ta cần làm là thắt một chiếc nơ lên "chú cún" này và thực sự Đặt tên cho nó. Việc đặt tên một lời chào hàng chính xác sẽ quyết định việc các email/cuộc gọi lạnh/tin nhắn của bạn nhận được phản hồi tốt đến mức nào, và bạn nhận được bao nhiêu lượt phản hồi từ các bình luận tự nhiên.
-Điều đó thực sự quan trọng.
+
+Giờ đây tất cả những gì chúng ta cần làm là thắt một chiếc nơ lên "chú cún" này và thực sự Đặt tên cho nó. Việc đặt tên một lời chào hàng chính xác sẽ quyết định việc các email/cuộc gọi lạnh/tin nhắn của bạn nhận được phản hồi tốt đến mức nào, và bạn nhận được bao nhiêu lượt phản hồi từ các bình luận tự nhiên.<br>
+Điều đó thực sự quan trọng.<br>
 Như đã nói, tôi sẽ chỉ cho bạn cách tạo ra vô số cái tên hoặc "giấy gói quà" cho lời chào hàng của mình. Theo cách đó, nó sẽ không bao giờ trở nên cũ kỹ, bất kể thị trường của bạn nhỏ đến mức nào. Đây là chìa khóa để tạo ra khách hàng tiềm năng bền vững.
 
----
+>**QUÀ TẶNG MIỄN PHÍ #9: Video quà tặng: Cùng tôi tạo một Lời cam kết Chiến thắng**<br>
+>Cam kết bảo hành có thể xây dựng hoặc phá hủy một doanh nghiệp. Chúng giống như thuốc nổ, chúng có sức mạnh khủng khiếp nếu nằm trong tay một chuyên gia. Hãy truy cập `Acquisition.com/training/offers` và chọn "Creating Guarantees" để xem một video hướng dẫn ngắn để bạn có thể bắt đầu áp dụng trong doanh nghiệp của mình và tạo ra doanh số ngay lập tức. Tôi cũng đã lập một **Bản danh sách kiểm tra Cam kết Miễn phí** để bạn sử dụng khi suy nghĩ qua tất cả các biến số. Như mọi khi, nó hoàn toàn miễn phí. Hãy tận hưởng nhé.
 
-### Trang 124
-
-__________________________________________________________________
-**QUÀ TẶNG MIỄN PHÍ #9: Video quà tặng: Cùng tôi tạo một Lời cam kết Chiến thắng**
-Cam kết bảo hành có thể xây dựng hoặc phá hủy một doanh nghiệp. Chúng giống như thuốc nổ, chúng có sức mạnh khủng khiếp nếu nằm trong tay một chuyên gia. Hãy truy cập `Acquisition.com/training/offers` và chọn "Creating Guarantees" để xem một video hướng dẫn ngắn để bạn có thể bắt đầu áp dụng trong doanh nghiệp của mình và tạo ra doanh số ngay lập tức. Tôi cũng đã lập một **Bản danh sách kiểm tra Cam kết Miễn phí** để bạn sử dụng khi suy nghĩ qua tất cả các biến số. Như mọi khi, nó hoàn toàn miễn phí. Hãy tận hưởng nhé.
-__________________________________________________________________
-
-
-### Trang 126
-
-# NÂNG CẤP LỜI CHÀO HÀNG: ĐẶT TÊN (NAMING)
+## **16. NÂNG CẤP LỜI CHÀO HÀNG: ĐẶT TÊN (NAMING)**
 
 *Hieu ứng Tự tôn ngầm định (Implicit-egotism effect): chúng ta thường bị thu hút bởi những thứ và những người giống chúng ta nhất.*
 
----
-
-[Hình ảnh: CÔNG THỨC TIÊU ĐỀ M-A-G-I-C]
+![](../images/04/12.png)
 
 Giống như cái cây đổ trong rừng mà không có ai nghe thấy, việc sở hữu một Lời chào hàng Grand Slam sẽ không giúp bạn kiếm được tiền nếu không có ai biết về nó. Mục tiêu phải là khi nghe về lời chào hàng của bạn, các khách hàng tiềm năng lý tưởng sẽ cảm thấy đủ hứng thú để thực hiện hành động. Đặt tên đúng cách là một phần không thể thiếu của quy trình này.
 
@@ -625,45 +664,126 @@ Và đây là mấu chốt: theo thời gian, các lời chào hàng sẽ trở 
 
 Theo thời gian, bạn có thể đổi tên lời chào hàng để làm mới nó. Khái niệm duy nhất này sẽ giúp bạn có được khách hàng tiềm năng mãi mãi. Tôi thực sự nghiêm túc đấy. Vì vậy hãy chú ý. **Chúng ta KHÔNG thay đổi lời chào hàng thực tế. Chúng ta chỉ thay đổi "giấy gói quà" (wrapping paper).**
 
-[Hình ảnh: CÙNG MỘT GÓI SẢN PHẨM, GIẤY GÓI KHÁC NHAU
-LỜI CHÀO HÀNG GỐC (#1) -> THỬ THÁCH 6 TUẦN MÙA THU (#2) -> LỘ TRÌNH 28 NGÀY CHO CỘT SỐNG (#3)]
+![](../images/04/13.png)
 
 Nếu bạn đã xây dựng một lời chào hàng trọn gói (bundled offering), cuối cùng bạn vẫn sẽ thực hiện cùng một công việc, cung cấp cùng một dịch vụ và các sản phẩm bạn cung cấp vẫn không thay đổi khi tên gọi thay đổi. Nhắc lại lần nữa, chúng ta chỉ đơn giản là thay đổi "giấy gói quà".
 
----
-
-### Trang 127
-
 Dưới đây là công thức đơn giản nhất mà tôi đã nghĩ ra cho quy trình này:
 
-# CÔNG THỨC TIÊU ĐỀ M-A-G-I-C
-
-**M** - **Magnet** (Nam châm): Tạo ra một Lý do có sức hút mạnh mẽ.
-**A** - **Avatar** (Hình mẫu): Công bố Đối tượng mục tiêu.
-**G** - **Goal** (Mục tiêu): Trao cho họ một Mục tiêu (Kết quả mơ ước).
-**I** - **Interval** (Khoảng thời gian): Chỉ định một Khoảng thời gian.
-**C** - **Container** (Vật chứa): Hoàn thiện với một "từ ngữ định danh".
+>![](../images/04/14.png)<br>
+>**<u>CÔNG THỨC TIÊU ĐỀ M-A-G-I-C</u>**
+>* **M** - **Magnet** (Nam châm): Tạo ra một Lý do có sức hút mạnh mẽ.
+>* **A** - **Avatar** (Hình mẫu): Công bố Đối tượng mục tiêu.
+>* **G** - **Goal** (Mục tiêu): Trao cho họ một Mục tiêu (Kết quả mơ ước).
+>* **I** - **Interval** (Khoảng thời gian): Chỉ định một Khoảng thời gian.
+>* **C** - **Container** (Vật chứa): Hoàn thiện với một "từ ngữ định danh".
 
 Hãy cùng đi sâu vào từng thành phần:
 
-**1) Magnet (Nam châm): Tạo ra một Lý do có sức hút**
-Tại sao bạn lại làm điều này? Tại sao họ nên chú ý ngay bây giờ? Một số từ ngữ nam châm phổ biến bao gồm: Miễn phí, Giảm giá 80%, Thử thách, Giải thưởng, Đợt ra mắt, v.v. Lý do có thể là bất cứ điều gì: Khai trương, Kỷ niệm, Tri ân khách hàng, v.v. Một lý do tốt sẽ dập tắt sự hoài nghi của khách hàng về việc tại sao bạn lại đưa ra một thỏa thuận tốt như vậy.
+**<u>Lưu ý quan trọng:</u>**
+* Không phải tất cả các thành phần này đều là bắt buộc. Thông thường, bạn sẽ sử dụng từ ba đến năm thành phần trong số đó để đặt tên cho một chương trình hoặc dịch vụ. Nếu bạn có thể kết hợp tất cả chúng lại thì rất tuyệt, nhưng khả năng cao là cái tên sẽ trở nên quá dài.
+* Tên càng ngắn gọn và súc tích thì càng tốt. Vì vậy, vấn đề là phải cân bằng giữa sự ngắn gọn và tính cụ thể.
+* Cách duy nhất để thực sự biết phương án nào hiệu quả là viết các cái tên đó ra và thử nghiệm chúng.
 
-**2) Avatar (Hình mẫu khách hàng): Công bố Đối tượng**
+Bây giờ, hãy cùng điểm qua các thành phần này.
+
+**Ghi chú của Tác giả: Lý thuyết Marketing**
+
+>**Ghi chú của Tác giả: Lý thuyết Marketing**<br>
+>Nếu bạn muốn hiểu các khái niệm đằng sau công thức M-A-G-I-C mà tôi đã chọn. Mỗi chữ cái có thể hiểu nôm na là: Sự chú ý (M-Magnet: Nam châm), Sự phân loại (A-Avatar: Chân dung khách hàng), Mục đích (G-Goal: Mục tiêu), Mốc thời gian (I-Interval: Khoảng thời gian), và Phương pháp (C-Container: Hình thức chứa đựng).
+
+### **<u>Magnet (Nam châm): Tạo ra một "Lý do Tại sao" đầy sức hút</u>**
+
+Chúng ta bắt đầu tên gọi bằng một từ hoặc cụm từ cho mọi người biết "lý do tại sao" chúng ta lại thực hiện chương trình khuyến mãi này.
+
+Tôi thích bảo mọi người hãy tư duy như một người lập kế hoạch cho bữa tiệc của hội sinh viên. Khi tôi còn học đại học, chúng tôi đã từng tổ chức một bữa tiệc chỉ vì một anh bạn vừa nhổ răng khôn. Tôi nói điều này để khẳng định rằng... "lý do tại sao" thực sự có thể là bất cứ điều gì.
+
+Điều đó thực sự không quan trọng miễn là bạn tin vào nó. Và bạn thậm chí có thể biến nó thành một trò đùa giống như ví dụ về hội sinh viên. Nhưng điều này nên trả lời được một hoặc cả hai câu hỏi sau: *Tại sao họ lại đưa ra lời đề nghị tuyệt vời này?* hoặc *Tại sao tôi nên phản hồi lời đề nghị này?/Tôi có lợi lộc gì trong đó?*
+
+Một lý do tốt sẽ dập tắt sự hoài nghi của khách hàng về việc tại sao bạn lại đưa ra một thỏa thuận tốt như vậy.
+
+**Ví dụ:** Miễn phí, Giảm giá 88%, Giveaway; Giảm giá 88%, Xuân, Hạ, Tựu trường; Khai trương; Ban quản lý mới; Tòa nhà mới; Kỷ niệm; Halloween; Năm mới.
+
+**Lưu ý:** Tôi sẽ thảo luận về cách kiếm tiền từ các ưu đãi miễn phí và giảm giá trong Tập III: Các mô hình tiền tệ (Money Models).
+
+### **<u>Avatar (Hình mẫu khách hàng): Công bố Đối tượng</u>**
+
+Thành phần này gọi tên chân dung khách hàng lý tưởng của bạn: người mà bạn đang tìm kiếm và người mà bạn không tìm kiếm với tư cách là khách hàng. Bạn muốn càng cụ thể càng tốt, nhưng không nên quá đà. Khi ở một địa phương, tiêu đề của bạn càng mang tính địa phương thì tỷ lệ chuyển đổi càng cao. Vì vậy, đừng chỉ chọn một thành phố, hãy cố gắng đi sâu vào thị trường ngách hoặc khu vực cực kỳ cụ thể tại địa phương đó. Đừng nói Baltimore mà hãy nói Towson, MD. Đừng nói Chicago, mà hãy nói Hinsdale, v.v.
+
 Bạn đang nói chuyện với ai? Lời chào hàng này dành riêng cho ai? Khi bạn gọi tên đối tượng của mình, bạn đang sử dụng hiệu ứng "tự tôn ngầm định". Mọi người sẽ chú ý khi họ cảm thấy thứ gì đó được thiết kế "chỉ dành cho mình". Ví dụ: "Dành cho các bà mẹ bận rộn", "Dành cho các nha sĩ tại Chicago", "Dành cho những người mới bắt đầu tập gym".
 
-**3) Goal (Mục tiêu): Trao cho họ một Kết quả mơ ước**
-Họ sẽ nhận được gì? Kết quả cuối cùng là gì? Đây chính là phần "Kết quả mơ ước" trong Phương trình giá trị. Hãy làm cho nó cụ thể và đáng khao khát. Ví dụ: "Giảm 5kg mỡ bụng", "Có thêm 10 lịch hẹn mỗi tuần", "Xây dựng hệ thống vận hành tự động".
+**Ví dụ:** Nha sĩ tại Bee Cave, Những bà mẹ ở Rolling Hills, Các doanh nghiệp truyền thống (Brick & Mortar), Chủ tiệm Salon, Vận động viên giải nghệ, Các giám đốc bận rộn tại Brooklyn.
 
-**4) Interval (Khoảng thời gian): Chỉ định Thời gian**
-Sẽ mất bao lâu để đạt được kết quả đó? Con người thích sự nhanh chóng. Việc có một mốc thời gian cụ thể làm cho lời hứa trở nên thực tế và cấp bách hơn. Ví dụ: "Trong 21 ngày", "Trong 6 tuần", "Trước khi mùa hè đến".
+### **<u>Goal (Mục tiêu): Trao cho họ một Kết quả mơ ước</u>**
 
-**5) Container (Vật chứa): Hoàn thiện với từ ngữ định danh**
-Đây là hình thức mà lời chào hàng được gói gọn bên trong. Nó tạo ra cảm giác về một hệ thống hoặc một quy trình hoàn chỉnh. Ví dụ: Thử thách (Challenge), Lộ trình (Blueprint), Hệ thống (System), Khóa học chuyên sâu (Masterclass), Gói khởi động (Starter Kit).
+Họ sẽ nhận được gì? Kết quả cuối cùng là gì? Đây chính là phần "Kết quả mơ ước" trong Phương trình giá trị. Nó có thể là một từ đơn hoặc một cụm từ; có thể là một sự kiện, một cảm giác, một trải nghiệm hoặc một kết quả—bất cứ điều gì khiến họ hào hứng. Hãy làm cho nó cụ thể và đáng khao khát. 
+
+**Ví dụ:** Hết Đau Nhức, Nụ Cười Minh Tinh, Vị Trí Số 1, Không Bao Giờ Hụt Hơi, Sản Phẩm Hoàn Hảo, Ưu Đãi Grand Slam, Chiếc Váy Đen Bé Nhỏ (Little Black Dress), Gấp Đôi Lợi Nhuận, Khách Hàng Đầu Tiên, Giá Trị Cao (High Ticket), Thu Nhập 7 Con Số, 100k, v.v.
+
+### **<u>Interval (Khoảng thời gian): Chỉ định Thời gian</u>**
+
+Ở bước này, bạn chỉ đơn giản là cho mọi người biết thời gian dự kiến. Sẽ mất bao lâu để đạt được kết quả đó? Con người thích sự nhanh chóng. Việc có một mốc thời gian cụ thể làm cho lời hứa trở nên thực tế và cấp bách hơn.
+
+Lưu ý: Nếu bạn đưa ra bất kỳ loại tuyên bố định lượng nào (như tăng thu nhập hoặc giảm cân), hầu hết các nền tảng sẽ *không* phê duyệt loại thông điệp đi kèm với thời hạn đạt được cụ thể vì nó ngụ ý một sự đảm bảo. Nó ám chỉ rằng họ chắc chắn sẽ nhận được kết quả đó trong một khoảng thời gian, điều này đi ngược lại quy tắc của nhiều nền tảng. Vì vậy, đừng đưa ra kết quả định lượng kèm theo thời hạn trừ khi nền tảng của bạn cho phép. Tuy nhiên, thời gian là một thành phần mạnh mẽ của một Ưu Đãi Grand Slam và bạn chắc chắn nên sử dụng nó ở bất cứ đâu không phải đối mặt với các quy định tuân thủ. Ngoài ra, nếu mục tiêu bạn giúp họ không kèm một "tuyên bố cam kết" thuần túy, thì hoàn toàn hãy sử dụng khoảng thời gian. So sánh giữa "$10,000 trong 10 ngày" với "Có Được Đơn Hàng Đầu Tiên Trong 10 Ngày."
+
+**Ví dụ:** "Trong 21 ngày", "Trong 6 tuần", "Trước khi mùa hè đến".
+
+### **<u>Container (Vật chứa): Hoàn thiện với từ ngữ định danh</u>**
+
+Từ bao hàm này cho thấy ưu đãi này là một gói gồm nhiều thứ được kết hợp lại với nhau. Nó là một hệ thống. Nó là thứ gì đó không thể bị đánh đồng với các phương án thay thế rẻ tiền khác trên thị trường.
+
+**Ví dụ:** Thử Thách, Bản Thiết Kế, Trại Huấn Luyện (Bootcamp), Chuyên Sâu, Vườn Ươm, Masterclass, Chương Trình, Thanh Lọc (Detox), Trải Nghiệm, Hội Nghị Thượng Đỉnh, Bộ Gia Tốc, Làn Đường Cấp Tốc, Đường Tắt, Chạy Nước Rút, Ra Mắt, Súng Cao Su, Máy Bắn Đá, Bùng Nổ, Hệ Thống, Kỳ Nghỉ, Buổi Gặp Mặt, Biến Đổi, Mastermind, Kế Hoạch Hành Động, Tìm Hiểu Sâu, Hội Thảo (Workshop), Sự Trở Lại, Tái Sinh, Tấn Công, Đột Kích, Tái Thiết Lập, Giải Pháp, Mẹo (Hack), Mã Ăn Gian (Cheatcode), Cất Cánh, v.v.
+
+>**Mẹo Chuyên Gia: Tìm Những Từ Đồng Âm**<br>
+>&emsp;Vần điệu tốt sẽ ghi dấu sâu vào tâm trí mọi người. Hãy gieo vần cho tên chương trình của bạn để giành chiến thắng.<br>
+>&emsp;Hãy Google "từ điển hiệp vần" để có một lối tắt dễ dàng. Lưu ý - Đừng cố quá và ép buộc. Đây không phải là yêu cầu bắt buộc, nó chỉ là một điểm cộng "nên có".<br>
+>&emsp;Ví dụ: Six-Pack Fast Track, 5-Day Book Print Sprint, Marriage Thrive Deep Dive, 12-Week 2-Putt Shortcut, 12-Month No-Debt Reset, Celebrity Butt Shortcut, Get Some Ass Masterclass (tôi chỉ thấy nó buồn cười thôi), v.v. Bạn hiểu ý rồi đấy.
+
+>**Mẹo Chuyên Gia: Phép Lặp Phụ Âm Đầu (Alliteration)**<br>
+>&emsp;Lặp phụ âm đầu là khi bạn đặt tất cả (hoặc hầu hết) các từ bắt đầu bằng cùng một chữ cái hoặc âm tiết.<br>
+>&emsp;Một cách tiếp cận thay thế cho việc gieo vần là sử dụng phép lặp phụ âm đầu khi đặt tên cho chương trình của bạn. Cách này dễ thực hiện với hầu hết mọi người hơn là gieo vần. Một lần nữa, bạn không cần phải ép buộc nó.<br>
+>&emsp;Ví dụ: Make Money Masterclass, Change Your Life Challenge, Big Booty Bootcamp, Debt Detox, Real Estate Reset, Life Coach Liftoff, v.v.
+
+
+Dưới đây là một vài ví dụ về cách đặt tên cho các chương trình ưu đãi trong các ngành nghề khác nhau.
 
 ---
 
-### Trang 128
+**Sức khỏe & Làm đẹp (Wellness)**
+
+* Thử thách 6 tuần "Dáng thon đón Halloween" miễn phí
+* Giảm giá 88% Bản thiết kế vóc dáng Bikini 12 tuần
+* Miễn phí 21 ngày "Tân trang nhan sắc cho mẹ"
+* Hệ thống sở hữu mái tóc người mẫu "Khiến bạn bè ghen tị" trong 60 phút
+* Thử thách 6 tuần Giải tỏa căng thẳng
+* (Miễn phí!) Cúi người không còn đau đớn trong 42 ngày... Lộ trình chữa lành cấp tốc
+
+---
+
+---
+
+**Y khoa (Doctors)**
+
+* Chương trình Biến đổi Nụ cười Minh tinh – Giảm ngay $2.000
+* Dành cho các bà mẹ tại Lakeway - Giảm $1.500 chi phí niềng răng cho con bạn
+* Dành cho các bà mẹ tại Lakeway - 12 tháng để có nụ cười hoàn hảo (Giảm $1000 cho 15 gia đình)
+* Chương trình tặng niềng răng miễn phí nhân dịp Tựu trường
+* Khai trương: Miễn phí Chụp X-quang & Trị liệu - Giảm đau tức thì
+* Không còn đau mỏi lưng! Khóa trị liệu chuyên sâu chữa lành nhanh trong 90 ngày (Giảm 81%!)
+* Cơ thể mỏi nhừ? Ưu đãi hè cho khách hàng mới: Massage chỉ với $1
+
+---
+
+---
+
+**Huấn luyện (Coaching)**
+
+* Bản thiết kế "Có 5 khách hàng trong 5 ngày"
+* Khóa đào tạo chuyên sâu 12 tuần cho Agency 7 con số
+* 14 ngày tìm ra "Buổi ra mắt sản phẩm hoàn hảo" của bạn
+* Lấp đầy phòng Gym của bạn trong 30 ngày (Miễn phí!)
+
+---
 
 Hãy cùng xem một số ví dụ cho từng thành phần của công thức **M-A-G-I-C**:
 
@@ -703,62 +823,72 @@ Hãy cùng xem một số ví dụ cho từng thành phần của công thức *
 - Chương trình tăng tốc (Accelerator)
 
 **Hãy thử ghép chúng lại:**
-*"Thử thách (Magnet) giảm mỡ bụng (Goal) trong 6 tuần (Interval) dành cho các bà mẹ bận rộn (Avatar)"* -> Đây chính là cái tên "Thử thách 6 tuần" nổi tiếng mà tôi đã sử dụng để gây dựng sự nghiệp của mình.
+
+*"Thử thách (Magnet) giảm mỡ bụng (Goal) trong 6 tuần (Interval) dành cho các bà mẹ bận rộn (Avatar)"* &rarr; Đây chính là cái tên "Thử thách 6 tuần" nổi tiếng mà tôi đã sử dụng để gây dựng sự nghiệp của mình.
 
 Hoặc một ví dụ khác dành cho B2B:
+
 *"Hệ thống (Container) tạo 10 cuộc hẹn (Goal) mỗi tuần (Interval) dành cho các nha sĩ (Avatar) - Đợt ra mắt đặc biệt (Magnet)"*
 
----
+Bạn có thấy cách các thành phần này kết hợp lại để tạo ra một cái tên mạnh mẽ không?
 
-### Trang 129
+Tôi có thể tiếp tục liệt kê thêm, nhưng hy vọng là bạn đã nắm được ý tưởng. Bây giờ là lúc để bạn tự mình thử sức với Ưu đãi Grand Slam của chính mình.
+Một lần nữa, bạn không nhất thiết phải sử dụng tất cả các thành phần quyền năng của một tiêu đề. Thông thường, chỉ cần sử dụng từ ba đến năm thành phần sẽ tạo ra một cái gì đó độc đáo và hấp dẫn hơn, giúp bạn tách biệt bản thân khỏi thị trường cạnh tranh và tạo ra một ưu đãi thu hút lượt nhấp chuột, sự tương tác, và cuối cùng là mang lại tiền bạc cho bạn.
 
-Bạn có thấy cách các thành phần này kết hợp lại để tạo ra một cái tên mạnh mẽ không? Dưới đây là quy trình 5 bước để bạn bắt đầu đặt tên hoặc đổi tên cho lời chào hàng của mình:
+Hơn nữa, bạn không cần phải thực hiện chúng theo đúng thứ tự M-A-G-I-C. Hãy làm bất cứ điều gì mà bạn cảm thấy ấn tượng hơn. Sau khi làm việc này một thời gian, bạn sẽ thấy rằng một số ưu đãi có tỷ lệ chuyển đổi tốt hơn những cái khác. Đó là điều tự nhiên. Và thỉnh thoảng, bạn sẽ có được một cái tên bùng nổ như tên lửa. Thành thật mà nói, tôi cũng không biết tại sao một số cái tên lại giành chiến thắng trong khi số khác thì không. Vì vậy, đừng quá cảm tính về việc đó. Hãy cứ tiếp tục thử. Cứ tiếp tục thất bại. Rồi lại thử tiếp. Bạn sẽ đạt được mục tiêu thôi.
 
-1. **Magnet**: Xác định lý do tại sao bạn làm điều này.
-2. **Avatar**: Xác định chính xác khách hàng lý tưởng của bạn là ai.
-3. **Goal**: Xác định kết quả mơ ước lớn nhất của họ.
-4. **Interval**: Xác định khoảng thời gian để đạt được kết quả đó.
-5. **Container**: Chọn một từ ngữ định danh để gói gọn mọi thứ.
+Giờ đây khi bạn đã có một vài cái tên khả thi cho ưu đãi của mình, bạn có thể sử dụng hai đến ba cái tên tốt nhất trong chiến dịch quảng cáo. Nhanh chóng ghi nhận cái tên chiến thắng, sau đó dùng nó làm "nhóm đối chứng" (control) để thử nghiệm với những cái tên mới. Đó chính là cách bạn làm truyền thông.
 
-**Sức mạnh của việc Đổi tên**
-Bản thân lời chào hàng cốt lõi của bạn có thể không đổi trong 5 năm. Nhưng bạn có thể đổi tên nó 20 lần.
-- Tháng 1: "Thử thách Năm mới rực rỡ"
-- Tháng 2: "Lộ trình Trái tim khỏe mạnh"
-- Tháng 5: "Chương trình Tăng tốc Đón hè"
-- Tháng 9: "Thử thách Quay lại trường học"
+>**Mẹo Chuyên Gia - Đặt tên cho các Sản phẩm phụ & Quà tặng kèm**<br>
+>&emsp;Hãy sử dụng công thức tiêu đề "ma thuật" cho từng sản phẩm trong danh mục và gói ưu đãi của bạn. Nó sẽ tự động nâng cao giá trị các sản phẩm của bạn chỉ đơn giản bằng cách đặt tên theo cách tạo được sự đồng điệu với khách hàng tiềm năng.
 
-Mỗi lần bạn đổi tên, nó lại trở thành một lời chào hàng "mới" trong mắt thị trường. Nó giúp bạn tránh được sự bão hòa của quảng cáo (ad fatigue) và liên tục thu hút được những nhóm khách hàng mới vốn trước đó có thể đã bỏ qua cái tên cũ.
+**Chuyện gì xảy ra khi các Lời chào hàng trở nên nhàm chán (Offer Fatigue)**
 
----
+Khi bạn tiếp thị các lời chào hàng, bạn sẽ cần tạo ra các biến thể theo thời gian vì thị hiếu của thị trường luôn thay đổi. Dưới đây là thứ tự mà bạn nên thay đổi các yếu tố để giữ cho dòng khách hàng tiềm năng luôn ổn định:
 
-### Trang 130
+1. Thay đổi nội dung sáng tạo (hình ảnh và tranh vẽ trong quảng cáo của bạn)
+2. Thay đổi nội dung phần thân bài (body copy) của quảng cáo
+3. Thay đổi tiêu đề – chính là "lớp vỏ bọc" cho lời chào hàng của bạn
+4. Ví dụ: Từ "Thử thách 6 tuần Thon gọn Miễn phí" sang "Thử thách 6 tuần Săn chắc Miễn phí"
+5. Ví dụ: Từ "Hậu kỳ nghỉ lễ" sang "Năm mới Con người mới"
+6. Thay đổi thời hạn của lời chào hàng
+7. Thay đổi yếu tố thúc đẩy của lời chào hàng (thành phần miễn phí hoặc giảm giá của bạn)
+8. Thay đổi cấu trúc kiếm tiền, chuỗi các ưu đãi bạn đưa cho khách hàng tiềm năng và các mức giá đi kèm (Quyển II)
 
-Dưới đây là một số ví dụ về những cái tên cuối cùng sau khi đã được tinh chỉnh:
+Tôi tuân thủ khung làm việc này bởi vì phần lớn thời gian, chỉ có vài mục đầu tiên là cần thay đổi. Thông thường, chúng cần được thay đổi đi thay đổi lại mà không cần đụng chạm đến bất cứ thứ gì ở cuối danh sách.
 
-- "Khóa học chuyên sâu (Masterclass) về Thực hành Nha khoa rực rỡ trong 6 tuần miễn phí"
-- "Hệ thống Tăng tốc Doanh thu trong 30 ngày dành cho các nhà môi giới bất động sản tại Miami"
-- "Lộ trình Phục hồi Cột sống trong 21 ngày dành cho những người làm việc văn phòng"
+Ví dụ, khi quảng cáo bị bão hòa, chúng ta không thay đổi toàn bộ mô hình kinh doanh; chúng ta chỉ chạy lại cùng một quảng cáo đó với một video hoặc hình ảnh khác. Khi cách đó không còn hiệu quả, chúng ta lại thay đổi tiếp. Cuối cùng, bạn mới cần thay đổi câu chữ trong quảng cáo. Và cứ lặp lại quy trình đó. Sau đó, và chỉ sau đó, bạn mới nên thay đổi "lớp vỏ bọc" (wrapper).
 
-**Sử dụng Vần và Điệp âm (Rhyme and Alliteration)**
-Nếu bạn có thể làm cho cái tên bắt tai hơn bằng cách sử dụng vần điệu hoặc các chữ cái bắt đầu giống nhau, nó sẽ càng dễ nhớ hơn. Ví dụ: "Diet for Dentists" (Chế độ ăn cho Nha sĩ), "Marketing for Moms" (Marketing cho Mẹ).
+Giả sử chúng ta thay đổi từ "Thử thách 6 tuần Giải tỏa căng thẳng" thành "Thử thách 42 ngày Nghỉ ngơi thư giãn" cho một trung tâm massage. Vẫn là sản phẩm cốt lõi đó, chỉ khác lớp vỏ bọc. Sau đó, dĩ nhiên, bạn có thể thay đổi thời hạn của lời chào hàng – từ 6 tuần thành 28 ngày hoặc 8 tuần, v.v. Bạn càng đi xuống dưới danh sách, việc thực thi càng trở nên nặng nề, vì vậy hãy thực sự chắc chắn rằng bạn đã khai thác hết những cách biến đổi "nhẹ nhàng" ở phía trên.
 
-**Khái niệm "Giấy gói quà" (Wrapping Paper)**
-Hãy nhớ rằng, chúng ta không thay đổi những gì chúng ta *làm* (giao hàng). Chúng ta chỉ thay đổi cách chúng ta *nói* về nó. Bạn vẫn cung cấp cùng một giá trị, cùng một sự hỗ trợ, cùng một sản phẩm. Nhưng cái tên chính là thứ mở cửa trái tim và trí óc của khách hàng.
+Một khi bạn đã kiếm được tiền từ một lời chào hàng, hiếm khi bạn nên thay đổi nó. Chỉ cần gột rửa và lặp lại liên tục. Điều này có thể khó khăn vì chúng ta là những doanh nhân và chúng ta *yêu thích* sự thay đổi. Sự thay đổi ở đây thường chỉ tạo ra sự kém hiệu quả và trì trệ trong vận hành, khiến bạn tốn tiền. Chẳng tốt chút nào (No bueno).
 
-Nếu một tiêu đề (header) không mang lại kết quả như mong đợi sau một thời gian, đừng vội nản lòng hay thay đổi toàn bộ sản phẩm. Hãy thử thay đổi "giấy gói quà". Đây là cách bạn giữ cho công việc kinh doanh luôn tươi mới và tràn đầy khách hàng tiềm năng.
+Vì vậy, hãy dùng "bản tính thích thay đổi" (entrepreneurial ADD) của bạn vào "lớp vỏ bọc" trước – tức là diện mạo và cảm xúc của lời chào hàng (nội dung, hình ảnh, tiêu đề). Sau đó hãy thay đổi tính thời điểm của ưu đãi. Tiếp đến là thay đổi thời hạn. Nếu bạn vẫn bị kẹt, hãy thay đổi thứ mà bạn đang tặng miễn phí hoặc giảm giá. Chỉ thay đổi toàn bộ "cỗ máy" phía sau như một phương án cuối cùng và khi có một lý do cực kỳ chính đáng, đặc biệt là khi bạn đã có đà phát triển.
 
----
+Nhưng làm thế nào để có được đà phát triển ban đầu? Câu hỏi hay đấy. Hãy thử cấu trúc lời chào hàng và tiêu đề mà bạn nghĩ là có khả năng thành công cao nhất. Sau đó hãy kiên trì với nó.
 
-### Trang 131
+Và nếu lúc đầu chúng không chuyển đổi, đừng lo lắng. Bạn sẽ tiến bộ hơn. Thông thường, nếu bạn sử dụng các loại mô hình này, *nhiều* cái trong số đó sẽ hiệu quả. Trong trường hợp đó, hãy gắn bó với cái mang lại cho bạn lợi nhuận cao nhất. Bạn cũng có thể luân chuyển giữa các ưu đãi nếu việc đó không gây ra quá nhiều trì trệ vận hành cho loại hình kinh doanh của bạn. Đây là vị thế quyền năng tối thượng. Bạn có nhiều "quân bài tẩy" (aces in the hole) để có thể tung ra bất cứ lúc nào, giúp việc tiếp thị của bạn đạt được mức độ chuyển đổi cao hơn nữa.
 
-__________________________________________________________________
-**QUÀ TẶNG MIỄN PHÍ #10: Video quà tặng: Tạo cái tên hoàn hảo cho sản phẩm của bạn**
-Đặt tên đúng cách giúp đối tượng mục tiêu nhận ra ngay sản phẩm này dành cho họ, thấy nó giá trị và sẽ giải quyết được vấn đề của họ. Nếu bạn muốn cùng tôi thực hiện việc này trực tiếp, hãy truy cập `Acquisition.com/training/offers` và chọn "Naming Products" để xem một video hướng dẫn ngắn. Tôi cũng có một **Bản danh sách kiểm tra Công thức Đặt tên Miễn phí** để bạn và đội ngũ của mình sử dụng và tái sử dụng. Nó cũng hiệu quả cho cả việc đặt tên cho các chương trình khuyến mãi. Như mọi khi, nó hoàn toàn miễn phí. Hãy tận hưởng nhé.
-__________________________________________________________________
+>**Ghi chú của Tác giả - Tiếp thị cho Doanh nghiệp Địa phương**<br>
+>&emsp;Trớ trêu thay, tiếp thị doanh nghiệp địa phương vừa dễ hơn lại vừa khó hơn tiếp thị ở quy mô quốc gia. Dễ bắt đầu hơn nhưng khó để duy trì hoặc mở rộng hơn. Lý do là – ở các thị trường địa phương, mọi thứ dễ dàng hơn vì có "niềm tin vào sự quen thuộc". Vì vậy, việc bán hàng trực tiếp với mức giá cao hơn ở thị trường địa phương vốn dĩ dễ dàng hơn. Điều đó có nghĩa là bạn sẽ chuyển đổi được một tỷ lệ khách hàng tiềm năng cao hơn nhiều. Điều này giúp việc tiếp thị hiệu quả trong hầu hết mọi trường hợp.<br>
+>&emsp;Mặt trái của tiếp thị địa phương là các lời chào hàng bị bão hòa rất nhanh vì phạm vi phục vụ của một doanh nghiệp địa phương là hữu hạn. Để liên hệ với một khái niệm trước đó, TAM (tổng thị trường có thể tiếp cận) của một cửa hàng vật lý thường chỉ là bán kính xung quanh nó. Do đó, bán kính càng nhỏ, các ưu đãi càng nhanh bị bão hòa. Đây là con dao hai lưỡi của kinh doanh địa phương.<br>
+>&emsp;Học cách thay đổi nhanh chóng các lời chào hàng, tiêu đề và nội dung sáng tạo khi tôi còn điều hành các doanh nghiệp địa phương là một kỹ năng nền tảng giúp việc mở rộng sang quảng cáo cấp quốc gia trở nên dễ dàng hơn nhiều đối với tôi. Vì vậy, nếu bạn đang ở trong một thị trường địa phương, hãy nhớ rằng bạn sẽ không thay đổi giá trị cốt lõi của lời chào hàng. Bạn chỉ thay đổi cách nó *hiển thị* trước thị trường trong các hoạt động tiếp thị của mình mà thôi.
 
-**Tóm tắt Phần IV**
-Chúng ta đã hoàn thành hành trình nâng cấp lời chào hàng. Bằng cách áp dụng **Sự khan hiếm**, **Sự khẩn cấp**, thêm vào các **Quà tặng kèm** giá trị, đảo ngược rủi ro bằng các **Cam kết** mạnh mẽ, và cuối cùng là khoác lên một cái tên **M-A-G-I-C**, bạn đã biến một dịch vụ bình thường thành một Lời chào hàng Grand Slam không thể cưỡng lại.
+### **Tóm tắt về Đặt tên**
 
-Bây giờ, bạn không còn phải cạnh tranh về giá nữa. Bạn đang đứng trong thị trường của riêng mình (a Category of One). Bạn có sức mạnh định giá, bạn có nhu cầu cao, và bạn có một hệ thống để liên tục làm mới lời chào hàng trong mắt khách hàng.
+Chúng ta phải đặt tên cho lời chào hàng một cách phù hợp để thu hút đúng chân dung khách hàng cho doanh nghiệp của mình. Đúng như câu nói cũ, mọi người *thực sự* đánh giá một cuốn sách qua trang bìa của nó. Việc đặt tên sản phẩm hoặc dịch vụ một cách hời hợt có thể hủy hoại tỷ lệ chuyển đổi. Đừng trở thành nạn nhân của sự lười biếng trong việc đặt tên. Hãy làm theo các bước tại đây để đặt tên cho sản phẩm hoặc dịch vụ của bạn và chứng kiến chính lời chào hàng đó đạt tỷ lệ phản hồi gấp 2, gấp 3, thậm chí là gấp 10 lần. Bạn sẽ tin điều đó khi tận mắt nhìn thấy – tôi biết vì tôi đã từng như vậy.
 
-Chúc mừng bạn đã hoàn thành một trong những phần quan trọng nhất của cuốn sách này. Hãy bắt tay vào thực hiện và biến lời chào hàng của bạn thành một cỗ máy in tiền thực thụ!
+### **Điểm lại Phần Nâng cao Lời chào hàng**
+
+Chúc mừng! Bạn đã tìm ra cách để làm cho lời chào hàng của mình trở nên giá trị, cách chia nhỏ dịch vụ thành các phần cấu thành và cách đóng gói lại chúng thành một tổng thể giá trị hơn.
+
+Bạn đã thêm vào một cam kết đảm bảo để có nhiều người mua lời chào hàng của bạn hơn và thực sự sử dụng nó để họ có thể thành công hơn.
+
+Bạn đã trình bày nó với sự khẩn cấp và khan hiếm để khiến nhiều người khao khát nó hơn.
+
+Và giờ đây, bạn đã đặt tên cho lời chào hàng của mình sao cho nó thu hút đúng khách hàng tiềm năng và loại bỏ những khách hàng không phù hợp, đồng thời chứa đựng một lời hứa lớn lao mà ai cũng có thể hiểu được.
+
+Nhưng chúng ta đã đi qua rất nhiều nội dung, vì vậy tôi muốn dành cho bạn một chút thời gian nghỉ ngơi trước khi chúng ta tiến vào Quyển II để giúp bạn thu hút khách hàng và kiếm tiền từ lời chào hàng của mình.
+
+>**QUÀ TẶNG MIỄN PHÍ #10: Video quà tặng: Tạo cái tên hoàn hảo cho sản phẩm của bạn**<br>
+>Đặt tên đúng cách giúp đối tượng mục tiêu nhận ra ngay sản phẩm này dành cho họ, thấy nó giá trị và sẽ giải quyết được vấn đề của họ. Nếu bạn muốn cùng tôi thực hiện việc này trực tiếp, hãy truy cập `Acquisition.com/training/offers` và chọn "Naming Products" để xem một video hướng dẫn ngắn. Tôi cũng có một **Bản danh sách kiểm tra Công thức Đặt tên Miễn phí** để bạn và đội ngũ của mình sử dụng và tái sử dụng. Nó cũng hiệu quả cho cả việc đặt tên cho các chương trình khuyến mãi. Như mọi khi, nó hoàn toàn miễn phí. Hãy tận hưởng nhé.
